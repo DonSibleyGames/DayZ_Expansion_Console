@@ -1,0 +1,1744 @@
+{
+                      "Objects": [
+{
+              "name": "Land_House_1W05",
+              "pos": [
+              13265.700195,
+              8.816205,
+              4035.123291
+            ],
+              "ypr": [
+              -44,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood1_5",
+              "pos": [
+              13273.635742,
+              5.63,
+              4029.5
+            ],
+              "ypr": [
+              -51.999996,
+              0,
+              -1
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood1_5",
+              "pos": [
+              13276.730469,
+              5.673054,
+              4033.369385
+            ],
+              "ypr": [
+              -50.999992,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood1_5_2",
+              "pos": [
+              13279.845703,
+              5.703007,
+              4037.195068
+            ],
+              "ypr": [
+              -50.999992,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood1_5",
+              "pos": [
+              13279.725586,
+              5.76727,
+              4040.98999
+            ],
+              "ypr": [
+              -131.999924,
+              0,
+              -2
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood1_5_2",
+              "pos": [
+              13276.482422,
+              5.880264,
+              4044.717773
+            ],
+              "ypr": [
+              -130,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood1_5",
+              "pos": [
+              13273.27832,
+              5.79,
+              4048.392578
+            ],
+              "ypr": [
+              -131.999939,
+              0,
+              2
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood1_5_2",
+              "pos": [
+              13269.950195,
+              5.667021,
+              4052.059326
+            ],
+              "ypr": [
+              -131.999939,
+              0,
+              1
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood1_5",
+              "pos": [
+              13266.365234,
+              5.581192,
+              4052.313965
+            ],
+              "ypr": [
+              139.999985,
+              0,
+              1
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood1_5",
+              "pos": [
+              13262.495117,
+              5.55,
+              4049.212402
+            ],
+              "ypr": [
+              141.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood1_5",
+              "pos": [
+              13258.664063,
+              5.554044,
+              4046.11499
+            ],
+              "ypr": [
+              139.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood1_5_2",
+              "pos": [
+              13254.857422,
+              5.56,
+              4042.90332
+            ],
+              "ypr": [
+              139.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood1_5",
+              "pos": [
+              13251.082031,
+              5.501758,
+              4039.721191
+            ],
+              "ypr": [
+              138.999969,
+              0,
+              1
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood1_5_2",
+              "pos": [
+              13250.871094,
+              5.46,
+              4036.214355
+            ],
+              "ypr": [
+              48.000004,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood1_5",
+              "pos": [
+              13254.130859,
+              5.457845,
+              4032.558594
+            ],
+              "ypr": [
+              48.000004,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood1_5",
+              "pos": [
+              13270.447266,
+              5.5,
+              4025.749268
+            ],
+              "ypr": [
+              -48.000004,
+              0,
+              -2
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood1_5_2",
+              "pos": [
+              13267.022461,
+              5.422338,
+              4022.134033
+            ],
+              "ypr": [
+              -45,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood1_5",
+              "pos": [
+              13263.425781,
+              5.41,
+              4022.037598
+            ],
+              "ypr": [
+              40.999992,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood1_5",
+              "pos": [
+              13259.885742,
+              5.415869,
+              4025.453125
+            ],
+              "ypr": [
+              46.999992,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Shed_W4",
+              "pos": [
+              13273.49707,
+              7.069356,
+              4033.474365
+            ],
+              "ypr": [
+              -136.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Shed_W1",
+              "pos": [
+              13278,
+              7.090542,
+              4038.734863
+            ],
+              "ypr": [
+              137.000015,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Shed_M4",
+              "pos": [
+              13264.293945,
+              6.553908,
+              4023.808594
+            ],
+              "ypr": [
+              128.999939,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Shed_M3",
+              "pos": [
+              13275.697266,
+              7.122003,
+              4043.241699
+            ],
+              "ypr": [
+              139.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Misc_Greenhouse",
+              "pos": [
+              13267.643555,
+              7.011671,
+              4050.238525
+            ],
+              "ypr": [
+              -42,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Wreck_Trailer_Closed",
+              "pos": [
+              13252.875977,
+              6.557473,
+              4037.380371
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_bag_dz",
+              "pos": [
+              13279.044922,
+              6.312865,
+              4038.924072
+            ],
+              "ypr": [
+              150.000015,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_canister_dz",
+              "pos": [
+              13278.421875,
+              6.263618,
+              4039.409912
+            ],
+              "ypr": [
+              51.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_wheel_cart_dz",
+              "pos": [
+              13262.99707,
+              5.863706,
+              4048.863037
+            ],
+              "ypr": [
+              70.999992,
+              -9.000001,
+              66.999992
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_pallets1",
+              "pos": [
+              13271.777344,
+              6.118565,
+              4038.726318
+            ],
+              "ypr": [
+              -46.999992,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_tirepile",
+              "pos": [
+              13273.964844,
+              10.189505,
+              4045.568848
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_woodpile_forest2",
+              "pos": [
+              13263.844727,
+              6.332861,
+              4031.497314
+            ],
+              "ypr": [
+              44.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_woodpile_forest2",
+              "pos": [
+              13262.125,
+              6.347248,
+              4033.262207
+            ],
+              "ypr": [
+              -132.999954,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_woodpile_forest1",
+              "pos": [
+              13260.441406,
+              6.36867,
+              4035.13501
+            ],
+              "ypr": [
+              -129.999924,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_range_roof",
+              "pos": [
+              13262.626953,
+              6.565648,
+              4032.522705
+            ],
+              "ypr": [
+              -134.999954,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Misc_DogHouse",
+              "pos": [
+              13264.552734,
+              6.713008,
+              4042.207031
+            ],
+              "ypr": [
+              -136.999954,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_House_1W09",
+              "pos": [
+              13246.258789,
+              7.841502,
+              4014.29126
+            ],
+              "ypr": [
+              -44,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_vilvar1_6",
+              "pos": [
+              13250.675781,
+              5.287149,
+              4006.439697
+            ],
+              "ypr": [
+              -44,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_vilvar1_6",
+              "pos": [
+              13254.985352,
+              5.328011,
+              4010.60498
+            ],
+              "ypr": [
+              -43.999992,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_vilvar1_6",
+              "pos": [
+              13255.207031,
+              5.351839,
+              4014.885254
+            ],
+              "ypr": [
+              -132,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_vilvar1_6",
+              "pos": [
+              13251.186523,
+              5.349543,
+              4019.334473
+            ],
+              "ypr": [
+              -131.999954,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_vilvar1_6",
+              "pos": [
+              13246.402344,
+              5.264932,
+              4002.268311
+            ],
+              "ypr": [
+              -43.999992,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_vilvar1_6",
+              "pos": [
+              13242.22168,
+              5.242198,
+              4002.519775
+            ],
+              "ypr": [
+              46.999996,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_vilvar1_6",
+              "pos": [
+              13238.130859,
+              5.252639,
+              4006.899414
+            ],
+              "ypr": [
+              46.999992,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_vilvar1_6",
+              "pos": [
+              13234.014648,
+              5.271053,
+              4011.219971
+            ],
+              "ypr": [
+              45.999989,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_vilvar1_6",
+              "pos": [
+              13229.883789,
+              5.370804,
+              4015.520508
+            ],
+              "ypr": [
+              46.999996,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_vilvar1_6",
+              "pos": [
+              13225.790039,
+              5.465807,
+              4019.870605
+            ],
+              "ypr": [
+              46.999996,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_vilvar1_6",
+              "pos": [
+              13226.030273,
+              5.554824,
+              4024.061279
+            ],
+              "ypr": [
+              136.999954,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_vilvar1_6",
+              "pos": [
+              13230.359375,
+              5.554511,
+              4028.117432
+            ],
+              "ypr": [
+              137,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_vilvar1_6",
+              "pos": [
+              13234.71875,
+              5.58094,
+              4032.174316
+            ],
+              "ypr": [
+              137,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_vilvar1_6",
+              "pos": [
+              13239.027344,
+              5.59898,
+              4031.963379
+            ],
+              "ypr": [
+              -134.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_vilvar1_6",
+              "pos": [
+              13243.241211,
+              5.518468,
+              4027.727051
+            ],
+              "ypr": [
+              -134.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_vilvar1_pole",
+              "pos": [
+              13249.111328,
+              5.360303,
+              4021.575195
+            ],
+              "ypr": [
+              46.999996,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Shed_W6",
+              "pos": [
+              13229.966797,
+              6.945899,
+              4022.815674
+            ],
+              "ypr": [
+              -131.999924,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Boat_Small1",
+              "pos": [
+              13229.21582,
+              6.062886,
+              4019.726807
+            ],
+              "ypr": [
+              -39.000004,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_workbench",
+              "pos": [
+              13227.21582,
+              5.522177,
+              4023.39624
+            ],
+              "ypr": [
+              48.000004,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_box_c_multi",
+              "pos": [
+              13230.682617,
+              5.526797,
+              4025.572998
+            ],
+              "ypr": [
+              -37.999996,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_basketball_korb",
+              "pos": [
+              13233.287109,
+              8.910634,
+              4025.791992
+            ],
+              "ypr": [
+              -41.999989,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_anvil",
+              "pos": [
+              13227.938477,
+              6.50305,
+              4023.864746
+            ],
+              "ypr": [
+              -42,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_bag_dz",
+              "pos": [
+              13226.025391,
+              5.926685,
+              4020.931396
+            ],
+              "ypr": [
+              -179.999969,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_canister_dz",
+              "pos": [
+              13226.847656,
+              5.859702,
+              4020.267334
+            ],
+              "ypr": [
+              -60.000038,
+              -90,
+              179.999985
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_debris_small_house",
+              "pos": [
+              13229.266602,
+              5.638363,
+              4021.712158
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_drill",
+              "pos": [
+              13227.214844,
+              6.696061,
+              4023.380371
+            ],
+              "ypr": [
+              -132.000092,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_grinder",
+              "pos": [
+              13226.65332,
+              6.45,
+              4022.918701
+            ],
+              "ypr": [
+              -57.999989,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_metal_cutting_saw",
+              "pos": [
+              13226.816406,
+              5.979972,
+              4021.729248
+            ],
+              "ypr": [
+              136.999954,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_sawhorse_dz",
+              "pos": [
+              13227.723633,
+              5.491127,
+              4020.545898
+            ],
+              "ypr": [
+              111.999969,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_vise",
+              "pos": [
+              13229.047852,
+              6.225,
+              4024.207031
+            ],
+              "ypr": [
+              48.000004,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Wreck_Volha_Blue",
+              "pos": [
+              13231.504883,
+              6.234375,
+              4023.540527
+            ],
+              "ypr": [
+              -130.999939,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_House_1W11",
+              "pos": [
+              13237.170898,
+              9.076733,
+              4042.537354
+            ],
+              "ypr": [
+              138.000061,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_House_2W02",
+              "pos": [
+              13270.177734,
+              10.629019,
+              4071.796143
+            ],
+              "ypr": [
+              -40.999992,
+              1,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood4_4",
+              "pos": [
+              13262.726563,
+              6.597074,
+              4060.274658
+            ],
+              "ypr": [
+              49.999969,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood4_4",
+              "pos": [
+              13265.25,
+              6.59947,
+              4057.320068
+            ],
+              "ypr": [
+              -129.999924,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood4_4",
+              "pos": [
+              13267.897461,
+              6.584862,
+              4057.360107
+            ],
+              "ypr": [
+              139.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood4_4",
+              "pos": [
+              13270.479492,
+              6.590001,
+              4059.5
+            ],
+              "ypr": [
+              -39.999996,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood4_4",
+              "pos": [
+              13273.429688,
+              6.590001,
+              4062.02002
+            ],
+              "ypr": [
+              139.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood4_end1",
+              "pos": [
+              13275.830078,
+              6.590001,
+              4064.050049
+            ],
+              "ypr": [
+              -39.999996,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood4_4",
+              "pos": [
+              13256.385742,
+              6.59,
+              4067.806885
+            ],
+              "ypr": [
+              -130.000092,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood4_4",
+              "pos": [
+              13253.876953,
+              6.59,
+              4070.756104
+            ],
+              "ypr": [
+              49.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood4_4",
+              "pos": [
+              13254.402344,
+              6.59,
+              4073.412598
+            ],
+              "ypr": [
+              139.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood4_4",
+              "pos": [
+              13256.975586,
+              6.59,
+              4075.547119
+            ],
+              "ypr": [
+              -39.999996,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood4_4",
+              "pos": [
+              13259.922852,
+              6.59,
+              4078.064209
+            ],
+              "ypr": [
+              139.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood4_4",
+              "pos": [
+              13262.864258,
+              6.59,
+              4080.519287
+            ],
+              "ypr": [
+              139.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood4_4",
+              "pos": [
+              13265.441406,
+              6.59,
+              4082.667725
+            ],
+              "ypr": [
+              -40,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood4_4",
+              "pos": [
+              13268.359375,
+              6.59,
+              4085.197998
+            ],
+              "ypr": [
+              139.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood4_4",
+              "pos": [
+              13271.30957,
+              6.59,
+              4087.659912
+            ],
+              "ypr": [
+              139.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood4_4",
+              "pos": [
+              13273.96582,
+              6.59,
+              4087.128418
+            ],
+              "ypr": [
+              -129.999924,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_wood4_end1",
+              "pos": [
+              13275.978516,
+              6.59,
+              4084.722412
+            ],
+              "ypr": [
+              49.999996,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_piceaabies_1f.p3d",
+              "pos": [
+              13257.236327999997,
+              5.71914700000001,
+              4054.9899900000014
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_piceaabies_1s.p3d",
+              "pos": [
+              13258.179687999998,
+              5.749957000000013,
+              4058.5483400000007
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_quercusrobur_3sb.p3d",
+              "pos": [
+              13259.191405999998,
+              6.62750099999999,
+              4070.593261
+            ],
+              "ypr": [
+              86.00013,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_roads_partgrav_10_100",
+              "pos": [
+              13257.532227,
+              5.430921,
+              4021.545166
+            ],
+              "ypr": [
+              -49,
+              0,
+              -1
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Wreck_sed02_aban2_red",
+              "pos": [
+              13251.90332,
+              5.953074,
+              4027.981445
+            ],
+              "ypr": [
+              -95.000023,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_apart2.p3d",
+              "pos": [
+              13267.151367000002,
+              5.730970999999987,
+              4061.775634999999
+            ],
+              "ypr": [
+              174.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Misc_Greenhouse",
+              "pos": [
+              13271.665039,
+              7.350556,
+              4084.980957
+            ],
+              "ypr": [
+              -39.999996,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_bench3",
+              "pos": [
+              13255.30957,
+              6.145834,
+              4072.721191
+            ],
+              "ypr": [
+              -68,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_bench5",
+              "pos": [
+              13255.980469,
+              6.094722,
+              4070.44751
+            ],
+              "ypr": [
+              -39.000004,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Barn_Wood2",
+              "pos": [
+              13222.000977,
+              8.622842,
+              4032.046143
+            ],
+              "ypr": [
+              48.000004,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_betulahumilis_1s.p3d",
+              "pos": [
+              13252.057617000002,
+              5.743238999999995,
+              4052.139893000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_1s.p3d",
+              "pos": [
+              13259.959961,
+              5.704405000000006,
+              4055.994872000001
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+              "pos": [
+              13258.881836,
+              5.6671279999999875,
+              4051.571533
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\b_piceaabies_1fb.p3d",
+              "pos": [
+              13254.051757999998,
+              5.756911999999995,
+              4055.827636999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\b_piceaabies_1f.p3d",
+              "pos": [
+              13253.892578999998,
+              5.7353650000000105,
+              4053.8676769999993
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\b_piceaabies_1fb.p3d",
+              "pos": [
+              13252.733398999997,
+              5.843524999999995,
+              4062.193847999999
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_pines.p3d",
+              "pos": [
+              13252.321289,
+              5.818974000000006,
+              4059.7358390000004
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_path_panels_damaged",
+              "pos": [
+              13268.279297,
+              6.112667,
+              4081.982178
+            ],
+              "ypr": [
+              50.999989,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_path_panels_damaged",
+              "pos": [
+              13265.678711,
+              6.102404,
+              4079.670898
+            ],
+              "ypr": [
+              -134.999954,
+              -1,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_path_panels",
+              "pos": [
+              13263.539063,
+              6.064914,
+              4077.069824
+            ],
+              "ypr": [
+              35.999996,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_path_panels_damaged",
+              "pos": [
+              13262.042969,
+              6.07653,
+              4074.220215
+            ],
+              "ypr": [
+              -164.000015,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_path_panels_damaged",
+              "pos": [
+              13261.813477,
+              5.993785,
+              4070.871582
+            ],
+              "ypr": [
+              -6,
+              2,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_path_panels_damaged",
+              "pos": [
+              13261.982422,
+              5.914736,
+              4067.579834
+            ],
+              "ypr": [
+              0,
+              1.5,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_path_panels",
+              "pos": [
+              13264.521484,
+              5.948503,
+              4068.342041
+            ],
+              "ypr": [
+              49.999981,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_path_panels_damaged",
+              "pos": [
+              13261.735352,
+              5.945076,
+              4066.047363
+            ],
+              "ypr": [
+              49.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_path_panels_damaged",
+              "pos": [
+              13258.862305,
+              5.945517,
+              4063.856201
+            ],
+              "ypr": [
+              49.999996,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_roads_partpath_dirt_curve",
+              "pos": [
+              13253.594727,
+              5.857094,
+              4058.355957
+            ],
+              "ypr": [
+              32.000004,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_roads_partpath_dirt_curve",
+              "pos": [
+              13249.667969,
+              5.769,
+              4049.419922
+            ],
+              "ypr": [
+              -2,
+              1,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_roads_partpath_dirt_curve",
+              "pos": [
+              13247.686523,
+              5.696139,
+              4042.841064
+            ],
+              "ypr": [
+              -175.999985,
+              -1,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_roads_partpath_dirt_curve",
+              "pos": [
+              13248.737305,
+              5.576694,
+              4034.422119
+            ],
+              "ypr": [
+              -24.000004,
+              1,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          }
+			]
+            }

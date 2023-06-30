@@ -1,0 +1,499 @@
+{
+                      "Objects": [
+{
+              "name": "Land_Construction_Building",
+              "pos": [
+              13122.352539,
+              14.495602,
+              6972.998047
+            ],
+              "ypr": [
+              166,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Construction_Crane",
+              "pos": [
+              13107.923828,
+              26.486891,
+              6952.009766
+            ],
+              "ypr": [
+              -12.000012,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Construction_House2",
+              "pos": [
+              13108.842773,
+              10.015385,
+              6931.083984
+            ],
+              "ypr": [
+              -101.999969,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_boardspack2",
+              "pos": [
+              13117.852539,
+              7.89566,
+              6945.675781
+            ],
+              "ypr": [
+              -6.000011,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_boardspack1",
+              "pos": [
+              13117.416992,
+              8.195733,
+              6950.230469
+            ],
+              "ypr": [
+              -6,
+              0,
+              1
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_boardspack3",
+              "pos": [
+              13118.288086,
+              7.879831,
+              6941.425293
+            ],
+              "ypr": [
+              -6,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_boardspack3",
+              "pos": [
+              13118.321289,
+              9.280119,
+              6941.44043
+            ],
+              "ypr": [
+              -6,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_boardspack1",
+              "pos": [
+              13115.177734,
+              8.370294,
+              6945.458496
+            ],
+              "ypr": [
+              -6,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_boardspack2",
+              "pos": [
+              13114.431641,
+              8.158608,
+              6949.945313
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_boardspack2",
+              "pos": [
+              13114.416016,
+              9.59,
+              6949.894043
+            ],
+              "ypr": [
+              -5.000014,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_boardspack1",
+              "pos": [
+              13115.634766,
+              8.300511,
+              6954.356934
+            ],
+              "ypr": [
+              76.000092,
+              -2,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_coil",
+              "pos": [
+              13124.354492,
+              8.264978,
+              6939.623535
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_concretepanels",
+              "pos": [
+              13126.325195,
+              7.964577,
+              6952.918457
+            ],
+              "ypr": [
+              84.000008,
+              -1,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_concretepipe",
+              "pos": [
+              13123.414063,
+              8.288566,
+              6932.50293
+            ],
+              "ypr": [
+              -36.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wreck_digger",
+              "pos": [
+              13135.801758,
+              10.226576,
+              6944.729492
+            ],
+              "ypr": [
+              -157.000031,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_gcontainer_big",
+              "pos": [
+              13131.87793,
+              7.854107,
+              6936.901855
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_pallets1",
+              "pos": [
+              13134.006836,
+              8.302492,
+              6962.016113
+            ],
+              "ypr": [
+              115.999954,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_pipes",
+              "pos": [
+              13126.098633,
+              7.911998,
+              6947.180176
+            ],
+              "ypr": [
+              -36.000004,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_tirepile",
+              "pos": [
+              13113.018555,
+              11.5372,
+              6936.397461
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_tank_small_gas",
+              "pos": [
+              13101.724609,
+              7.159265,
+              6976.976074
+            ],
+              "ypr": [
+              165,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_barricade",
+              "pos": [
+              13134.050781,
+              7.796463,
+              6933.662598
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_rubble_dirtpile_large",
+              "pos": [
+              13121.405273,
+              7.898805,
+              6923.52832
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_rubble_dirtpile_large",
+              "pos": [
+              13123.337891,
+              7.88821,
+              6921.008789
+            ],
+              "ypr": [
+              -119.999939,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_rubble_dirtpile_medium1",
+              "pos": [
+              13124.675781,
+              7.447009,
+              6924.73291
+            ],
+              "ypr": [
+              45.999989,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_rubble_metal3",
+              "pos": [
+              13136.626953,
+              7.006501,
+              6935.674316
+            ],
+              "ypr": [
+              -87,
+              4,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_rubble_dirtpile_medium1",
+              "pos": [
+              13136.251953,
+              7.534988,
+              6935.563477
+            ],
+              "ypr": [
+              0.999999,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_rubble_wood2",
+              "pos": [
+              13132.891602,
+              6.814924,
+              6929.271973
+            ],
+              "ypr": [
+              -74.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_rubble_wood3",
+              "pos": [
+              13142.700195,
+              7.237003,
+              6937.471191
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wreck_bulldozer",
+              "pos": [
+              13143.094727,
+              8.406828,
+              6927.590332
+            ],
+              "ypr": [
+              179.999939,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Smokestack_Big",
+              "pos": [
+              13085.551758,
+              35.433701,
+              7106.768066
+            ],
+              "ypr": [
+              161.999969,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_CoalPlant_Main",
+              "pos": [
+              13021.074219,
+              19.40567,
+              7056.009277
+            ],
+              "ypr": [
+              71,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Train_Wagon_Box",
+              "pos": [
+              13143.24707,
+              7.775,
+              7106.380859
+            ],
+              "ypr": [
+              -17.1,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Train_742_Blue",
+              "pos": [
+              13160.746094,
+              8.32,
+              7034.075195
+            ],
+              "ypr": [
+              -17.1,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          }
+			]
+            }

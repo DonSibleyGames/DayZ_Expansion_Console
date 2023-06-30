@@ -1,0 +1,2014 @@
+{
+                      "Objects": [
+{
+              "name": "Land_Mil_AircraftShelter",
+              "pos": [
+              4401.299805,
+              474.17099,
+              15056.799805
+            ],
+              "ypr": [
+              -36.999996,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+              "pos": [
+              4406.463867,
+              482.906677,
+              15067.125
+            ],
+              "ypr": [
+              -92.261078,
+              0.074534,
+              0.434409
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+              "pos": [
+              4401.037598,
+              484.444336,
+              15078.109375
+            ],
+              "ypr": [
+              174.043594,
+              0.18327,
+              0.633702
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_1s.p3d",
+              "pos": [
+              4427.868164,
+              480.328949,
+              15074.601563
+            ],
+              "ypr": [
+              156.919632,
+              0.332787,
+              0.251097
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_1fb.p3d",
+              "pos": [
+              4430.565918,
+              479.498322,
+              15077.969727
+            ],
+              "ypr": [
+              171.636398,
+              0.692129,
+              0.592643
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_1fb.p3d",
+              "pos": [
+              4418.347168,
+              478.58725,
+              15076.636719
+            ],
+              "ypr": [
+              75.687569,
+              0.318795,
+              0.672368
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_2w.p3d",
+              "pos": [
+              4411.124023,
+              476.96167,
+              15076.001953
+            ],
+              "ypr": [
+              158.438263,
+              0.185193,
+              0.39758
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_2w.p3d",
+              "pos": [
+              4412.895508,
+              481.867462,
+              15058.199219
+            ],
+              "ypr": [
+              -80.243523,
+              0.230118,
+              0.132705
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+              "pos": [
+              4402.966797,
+              488.554413,
+              15059.125
+            ],
+              "ypr": [
+              71.90731,
+              0.010959,
+              0.589972
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+              "pos": [
+              4402.980957,
+              487.420807,
+              15044.848633
+            ],
+              "ypr": [
+              84.963432,
+              0.139092,
+              0.239753
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_3fb.p3d",
+              "pos": [
+              4411.143555,
+              491.426727,
+              15052.108398
+            ],
+              "ypr": [
+              167.648575,
+              0.665682,
+              0.394825
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+              "pos": [
+              4386.653809,
+              486.462006,
+              15057.544922
+            ],
+              "ypr": [
+              -38.087807,
+              0.158831,
+              0.037577
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_2fb.p3d",
+              "pos": [
+              4389.87793,
+              484.766449,
+              15046.955078
+            ],
+              "ypr": [
+              -141.405197,
+              0.114824,
+              0.079362
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_1s.p3d",
+              "pos": [
+              4388.100586,
+              480.795227,
+              15067.834961
+            ],
+              "ypr": [
+              48.067596,
+              0.571365,
+              0.549191
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_1fb.p3d",
+              "pos": [
+              4417.11377,
+              481.963226,
+              15050.017578
+            ],
+              "ypr": [
+              -104.531212,
+              0.451927,
+              0.515523
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_1fb.p3d",
+              "pos": [
+              4408.833984,
+              476.154846,
+              15069.483398
+            ],
+              "ypr": [
+              -106.465073,
+              0.678286,
+              0.613001
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_1fb.p3d",
+              "pos": [
+              4397.242188,
+              482.841248,
+              15066.858398
+            ],
+              "ypr": [
+              122.471115,
+              0.447783,
+              0.433833
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_2w.p3d",
+              "pos": [
+              4397.244629,
+              479.215942,
+              15039.898438
+            ],
+              "ypr": [
+              -46.242985,
+              0.651048,
+              0.244047
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_2w.p3d",
+              "pos": [
+              4390.080078,
+              479.558868,
+              15050.358398
+            ],
+              "ypr": [
+              -150.528107,
+              0.089723,
+              0.590165
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_1f.p3d",
+              "pos": [
+              4397.097168,
+              485.449799,
+              15051.692383
+            ],
+              "ypr": [
+              176.509262,
+              0.241313,
+              0.116747
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_wallh1.p3d",
+              "pos": [
+              4425.150391,
+              449.849121,
+              15045.634766
+            ],
+              "ypr": [
+              90.749527,
+              88.980278,
+              -170.99115
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_wallh1.p3d",
+              "pos": [
+              4384.285156,
+              463.56604,
+              15052.43457
+            ],
+              "ypr": [
+              155.170059,
+              0.3079,
+              0.466902
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_spike1.p3d",
+              "pos": [
+              4381.79541,
+              465.616516,
+              15074.458984
+            ],
+              "ypr": [
+              -120.6465,
+              75.412239,
+              8.503526
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_wallh1.p3d",
+              "pos": [
+              4383.949219,
+              448.990692,
+              15046.02832
+            ],
+              "ypr": [
+              -26.103046,
+              10.586168,
+              16.31284
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_wallh1.p3d",
+              "pos": [
+              4431.477539,
+              464.682007,
+              15035.273438
+            ],
+              "ypr": [
+              90.012878,
+              -23.323927,
+              -7.722783
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_spike1.p3d",
+              "pos": [
+              4408.483887,
+              452.332092,
+              15026.871094
+            ],
+              "ypr": [
+              75.753136,
+              0.517916,
+              0.059345
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_spike1.p3d",
+              "pos": [
+              4393.201172,
+              465.699493,
+              15036.905273
+            ],
+              "ypr": [
+              34.576313,
+              48.6208,
+              84.482872
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\rocks\\rock_monolith1.p3d",
+              "pos": [
+              4426.245605,
+              467.839355,
+              15055.418945
+            ],
+              "ypr": [
+              -18.360426,
+              -7.497749,
+              10.31474
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_3fc.p3d",
+              "pos": [
+              4398.772461,
+              484.513947,
+              15090.90625
+            ],
+              "ypr": [
+              -123.017372,
+              0.359106,
+              0.120464
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+              "pos": [
+              4411.062988,
+              481.807037,
+              15082.768555
+            ],
+              "ypr": [
+              142.104462,
+              0.346182,
+              0.538659
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_2fc.p3d",
+              "pos": [
+              4429.470703,
+              483.522247,
+              15070.582031
+            ],
+              "ypr": [
+              -160.809113,
+              0.549939,
+              0.08199
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_2fb.p3d",
+              "pos": [
+              4423.490234,
+              485.915161,
+              15078.018555
+            ],
+              "ypr": [
+              -12.712256,
+              0.167718,
+              0.349963
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_rail_crossing_block_25",
+              "pos": [
+              4409.590332,
+              474.720276,
+              15046.6875
+            ],
+              "ypr": [
+              52.999981,
+              0,
+              -90
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_rail_crossing_block_25",
+              "pos": [
+              4409.589844,
+              476.932556,
+              15046.679688
+            ],
+              "ypr": [
+              52.999992,
+              0,
+              -90
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_rail_crossing_block_10",
+              "pos": [
+              4409.727051,
+              479.606201,
+              15046.052734
+            ],
+              "ypr": [
+              52.999992,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_rail_crossing_block_10",
+              "pos": [
+              4409.70459,
+              476.806885,
+              15046.74707
+            ],
+              "ypr": [
+              -36.999954,
+              -90,
+              -0.000022
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_rail_crossing_block_10",
+              "pos": [
+              4408.206055,
+              476.724182,
+              15045.604492
+            ],
+              "ypr": [
+              143,
+              -90,
+              -179.999985
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_rail_crossing_block_10",
+              "pos": [
+              4409,
+              479.356049,
+              15045.501953
+            ],
+              "ypr": [
+              52.999992,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_boxwooden",
+              "pos": [
+              4400.503418,
+              474.660004,
+              15065.598633
+            ],
+              "ypr": [
+              -37,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_boxwooden",
+              "pos": [
+              4401.106445,
+              474.660004,
+              15064.78125
+            ],
+              "ypr": [
+              50.999977,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_boxwooden",
+              "pos": [
+              4401.477539,
+              474.660004,
+              15063.770508
+            ],
+              "ypr": [
+              -128.999939,
+              0,
+              -179.999969
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_boxwooden",
+              "pos": [
+              4402.35791,
+              474.660004,
+              15064.442383
+            ],
+              "ypr": [
+              -39,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_boxwooden",
+              "pos": [
+              4403.275879,
+              474.660004,
+              15063.787109
+            ],
+              "ypr": [
+              -139.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_boxwooden",
+              "pos": [
+              4400.867188,
+              475.632996,
+              15065.851563
+            ],
+              "ypr": [
+              -127.999939,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_boxwooden",
+              "pos": [
+              4401.69873,
+              475.632996,
+              15065.048828
+            ],
+              "ypr": [
+              73,
+              0,
+              -179.999969
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_boxwooden",
+              "pos": [
+              4402.726074,
+              475.632996,
+              15064.374023
+            ],
+              "ypr": [
+              -37.000015,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Roadblock_WoodenCrate",
+              "pos": [
+              4402.090332,
+              474.75,
+              15065.803711
+            ],
+              "ypr": [
+              -37,
+              -0.000018,
+              90.000038
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Roadblock_WoodenCrate",
+              "pos": [
+              4401.40918,
+              476.420013,
+              15065.887695
+            ],
+              "ypr": [
+              -38.999992,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_box_c_multi",
+              "pos": [
+              4403.779297,
+              474.179993,
+              15062.101563
+            ],
+              "ypr": [
+              56.999985,
+              -0.000018,
+              0.000003
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_box_c",
+              "pos": [
+              4402.380859,
+              474.472595,
+              15063.236328
+            ],
+              "ypr": [
+              0,
+              -0.000018,
+              0.000003
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_bag_dz",
+              "pos": [
+              4401.796875,
+              475.589569,
+              15064.172852
+            ],
+              "ypr": [
+              -29.000008,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_pallets1",
+              "pos": [
+              4399.550293,
+              474.519989,
+              15064.517578
+            ],
+              "ypr": [
+              -128,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_workbench",
+              "pos": [
+              4401.322754,
+              474.172668,
+              15060.895508
+            ],
+              "ypr": [
+              -38,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_shelf_dz",
+              "pos": [
+              4402.952637,
+              474.172668,
+              15062.016602
+            ],
+              "ypr": [
+              -34,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_sawhorse_dz",
+              "pos": [
+              4404.916016,
+              474.172668,
+              15060.716797
+            ],
+              "ypr": [
+              -34.000019,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_metal_cutting_saw",
+              "pos": [
+              4400.739258,
+              475.290039,
+              15061.727539
+            ],
+              "ypr": [
+              156.999954,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_drill",
+              "pos": [
+              4401.321289,
+              475.360016,
+              15060.8125
+            ],
+              "ypr": [
+              151.000031,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_canister_dz",
+              "pos": [
+              4402.07373,
+              474.380951,
+              15059.942383
+            ],
+              "ypr": [
+              -49.999962,
+              -90,
+              -0.000022
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_silagewall_5",
+              "pos": [
+              4404.454102,
+              476.070374,
+              15060.40332
+            ],
+              "ypr": [
+              -37.099041,
+              0.108351,
+              0.242594
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_sofacorner",
+              "pos": [
+              4404.665039,
+              474.585175,
+              15057.470703
+            ],
+              "ypr": [
+              143.387787,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_sofa_leather_old",
+              "pos": [
+              4405.755859,
+              474.579987,
+              15059.356445
+            ],
+              "ypr": [
+              144.190033,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_lobby_table",
+              "pos": [
+              4405.851074,
+              474.172668,
+              15057.616211
+            ],
+              "ypr": [
+              -17.412373,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_kitchen_table_a",
+              "pos": [
+              4408.179688,
+              474.172668,
+              15056.992188
+            ],
+              "ypr": [
+              -167.003571,
+              0.155285,
+              0.66425
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_tv_a",
+              "pos": [
+              4408.151367,
+              474.946014,
+              15056.956055
+            ],
+              "ypr": [
+              94.996841,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_skrin_bar",
+              "pos": [
+              4408.872559,
+              474.172668,
+              15055.242188
+            ],
+              "ypr": [
+              142.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_library_a",
+              "pos": [
+              4407.279785,
+              474.172668,
+              15054.371094
+            ],
+              "ypr": [
+              -35.999996,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_case_bedroom_a",
+              "pos": [
+              4405.15332,
+              474.405548,
+              15055.749023
+            ],
+              "ypr": [
+              137.999969,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_silagewall_5",
+              "pos": [
+              4402.276367,
+              476.070007,
+              15058.776367
+            ],
+              "ypr": [
+              -37.099998,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_silagewall_pole",
+              "pos": [
+              4400.293945,
+              476.051971,
+              15057.297852
+            ],
+              "ypr": [
+              -36.999996,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_tin7_4",
+              "pos": [
+              4404.122559,
+              475.396027,
+              15056.37793
+            ],
+              "ypr": [
+              53.999996,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_tin7_8",
+              "pos": [
+              4408.595215,
+              475.407288,
+              15050.623047
+            ],
+              "ypr": [
+              52.999992,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_kitchen_desk_a",
+              "pos": [
+              4402.459961,
+              475.235504,
+              15057.120117
+            ],
+              "ypr": [
+              52.999992,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_bar_tap_dz",
+              "pos": [
+              4402.73584,
+              474.172668,
+              15055.136719
+            ],
+              "ypr": [
+              -37.000015,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_postel_manz_kov",
+              "pos": [
+              4411.144531,
+              474.003998,
+              15049.55957
+            ],
+              "ypr": [
+              -37,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_office_chair",
+              "pos": [
+              4404.330566,
+              474.568726,
+              15055.243164
+            ],
+              "ypr": [
+              132.999939,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_office_chair",
+              "pos": [
+              4403.811523,
+              474.568726,
+              15054.858398
+            ],
+              "ypr": [
+              148,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_office_chair",
+              "pos": [
+              4403.203125,
+              474.568726,
+              15054.142578
+            ],
+              "ypr": [
+              175.999985,
+              -0.000007,
+              -0.000005
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_office_chair",
+              "pos": [
+              4402.445313,
+              474.568726,
+              15053.81543
+            ],
+              "ypr": [
+              147,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_case_bedroom_a",
+              "pos": [
+              4410.856445,
+              474.363922,
+              15049.695313
+            ],
+              "ypr": [
+              54.999992,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_case_bedroom_a",
+              "pos": [
+              4412.668457,
+              474.364014,
+              15050.922852
+            ],
+              "ypr": [
+              54.999989,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_carpet_2_dz",
+              "pos": [
+              4411.335449,
+              474.659882,
+              15050.90625
+            ],
+              "ypr": [
+              -44,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_lobby_chair",
+              "pos": [
+              4411.068359,
+              474.173035,
+              15052.569336
+            ],
+              "ypr": [
+              110.999962,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_lobby_chair",
+              "pos": [
+              4410.071289,
+              474.172668,
+              15051.722656
+            ],
+              "ypr": [
+              167,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_lobby_table",
+              "pos": [
+              4409.709473,
+              474.222656,
+              15053.344727
+            ],
+              "ypr": [
+              -35.000011,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_case_cans_b",
+              "pos": [
+              4409.26123,
+              474.173004,
+              15050.297852
+            ],
+              "ypr": [
+              51.999996,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_library_a_open",
+              "pos": [
+              4409.425293,
+              474.173004,
+              15055.429688
+            ],
+              "ypr": [
+              141.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_library_a",
+              "pos": [
+              4408.678223,
+              474.173004,
+              15054.90918
+            ],
+              "ypr": [
+              144,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_tank_small_white",
+              "pos": [
+              4396.839355,
+              475.412476,
+              15054.561523
+            ],
+              "ypr": [
+              52.999981,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Misc_Toilet_Mobile",
+              "pos": [
+              4393.96582,
+              475.393311,
+              15057.539063
+            ],
+              "ypr": [
+              -126.000084,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_office_desk",
+              "pos": [
+              4403.959473,
+              474.579742,
+              15045.762695
+            ],
+              "ypr": [
+              143,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_ch_office_b",
+              "pos": [
+              4404.195801,
+              474.179993,
+              15045.191406
+            ],
+              "ypr": [
+              161.000031,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_chair_camp1",
+              "pos": [
+              4402.770996,
+              474.678009,
+              15046.088867
+            ],
+              "ypr": [
+              -45.999989,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_misc_chair_camp2",
+              "pos": [
+              4403.776855,
+              474.640015,
+              15046.753906
+            ],
+              "ypr": [
+              -15.000009,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_locker_open_blue_v1",
+              "pos": [
+              4407.099121,
+              474.172668,
+              15052.052734
+            ],
+              "ypr": [
+              52.999992,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_locker_closed_blue_v2",
+              "pos": [
+              4407.373535,
+              474.172668,
+              15051.740234
+            ],
+              "ypr": [
+              52.999992,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_locker_closed_blue_v1",
+              "pos": [
+              4408.649414,
+              474.172668,
+              15050.141602
+            ],
+              "ypr": [
+              53.999996,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_locker_closed_v2",
+              "pos": [
+              4408.331543,
+              474.172668,
+              15050.439453
+            ],
+              "ypr": [
+              48.000004,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_locker_open_blue_v3",
+              "pos": [
+              4409.520996,
+              474.172668,
+              15048.849609
+            ],
+              "ypr": [
+              52.999992,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_locker_closed_v3",
+              "pos": [
+              4409.774414,
+              474.172668,
+              15048.520508
+            ],
+              "ypr": [
+              53.999996,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_tin7_4",
+              "pos": [
+              4404.593262,
+              475.389038,
+              15052.581055
+            ],
+              "ypr": [
+              143.000046,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_couch_beige84x213x75_dz",
+              "pos": [
+              4408.150879,
+              474.122681,
+              15051.935547
+            ],
+              "ypr": [
+              -126.999947,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_garbage_bin",
+              "pos": [
+              4406.094238,
+              474.74057,
+              15060.926758
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_garbage_container2_closed",
+              "pos": [
+              4398.882324,
+              474.949493,
+              15051.584961
+            ],
+              "ypr": [
+              142.999969,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_2w.p3d",
+              "pos": [
+              4418.837891,
+              481.124451,
+              15096.658203
+            ],
+              "ypr": [
+              -0.116486,
+              1.364842,
+              -4.878691
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_1fb.p3d",
+              "pos": [
+              4423.463379,
+              481.130951,
+              15093.348633
+            ],
+              "ypr": [
+              -0.179191,
+              1.892198,
+              -5.410778
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_1s.p3d",
+              "pos": [
+              4419.242676,
+              481.250153,
+              15084.306641
+            ],
+              "ypr": [
+              -0.708743,
+              8.510216,
+              -4.7784
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Mil_AircraftShelter_Grass_L",
+              "pos": [
+              4414.547852,
+              474.17099,
+              15039.168945
+            ],
+              "ypr": [
+              -36.999996,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Mil_AircraftShelter_Grass_R",
+              "pos": [
+              4414.549805,
+              474.17099,
+              15039.200195
+            ],
+              "ypr": [
+              -36.999996,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_1s.p3d",
+              "pos": [
+              4397.300293,
+              480.380981,
+              15044.658203
+            ],
+              "ypr": [
+              -121.160019,
+              0.310912,
+              0.411487
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_1s.p3d",
+              "pos": [
+              4397.875488,
+              483.282349,
+              15060.357422
+            ],
+              "ypr": [
+              78.626572,
+              0.223838,
+              0.637397
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_1s.p3d",
+              "pos": [
+              4413.975098,
+              482.218048,
+              15048.379883
+            ],
+              "ypr": [
+              12.209699,
+              0.548657,
+              0.175686
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_1s.p3d",
+              "pos": [
+              4395.734863,
+              476.388031,
+              15081.171875
+            ],
+              "ypr": [
+              -155.78331,
+              1.374808,
+              7.543038
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+              "pos": [
+              4407.11377,
+              483.102051,
+              15058.411133
+            ],
+              "ypr": [
+              -153.882248,
+              0.468675,
+              0.355731
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\b_betulapendula_1f.p3d",
+              "pos": [
+              4417.672852,
+              479.876984,
+              15054.135742
+            ],
+              "ypr": [
+              -22.949558,
+              0.215827,
+              0.420203
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\b_betulapendula_1f.p3d",
+              "pos": [
+              4401,
+              480.619812,
+              15043.049805
+            ],
+              "ypr": [
+              77.839928,
+              0.003076,
+              0.566473
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\b_betulapendula_1f.p3d",
+              "pos": [
+              4390.498047,
+              477.95108,
+              15073.808594
+            ],
+              "ypr": [
+              -33.252407,
+              0.347485,
+              0.000214
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_betulahumilis_1s.p3d",
+              "pos": [
+              4413.981934,
+              478.774109,
+              15096.408203
+            ],
+              "ypr": [
+              -0.166173,
+              1.3544,
+              -6.99541
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_betulahumilis_1s.p3d",
+              "pos": [
+              4420.8125,
+              479.420929,
+              15101.478516
+            ],
+              "ypr": [
+              0.164864,
+              -1.741004,
+              -5.410325
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_vise",
+              "pos": [
+              4400.640137,
+              474.876007,
+              15062.772461
+            ],
+              "ypr": [
+              -37.999996,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_anvil",
+              "pos": [
+              4402.675293,
+              475.06601,
+              15059.141602
+            ],
+              "ypr": [
+              -38.000019,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_carpet_big",
+              "pos": [
+              4405.544434,
+              474.190002,
+              15057.219727
+            ],
+              "ypr": [
+              141.470886,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_carpet_big",
+              "pos": [
+              4407.161621,
+              474.200012,
+              15056.832031
+            ],
+              "ypr": [
+              35.820873,
+              0,
+              1
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_grinder",
+              "pos": [
+              4402.000977,
+              475.107025,
+              15060.348633
+            ],
+              "ypr": [
+              -125.999924,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_flowers_01",
+              "pos": [
+              4407.961426,
+              474.209991,
+              15057.946289
+            ],
+              "ypr": [
+              0.003213,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_flag_chernarus_wall",
+              "pos": [
+              4404.657227,
+              476.122192,
+              15059.099609
+            ],
+              "ypr": [
+              -37,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_carpet_big",
+              "pos": [
+              4410.630371,
+              474.221985,
+              15051.743164
+            ],
+              "ypr": [
+              51.999985,
+              0,
+              -1
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_carpet_big",
+              "pos": [
+              4409.428223,
+              474.222992,
+              15053.384766
+            ],
+              "ypr": [
+              -128.999954,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_flowers_01",
+              "pos": [
+              4410.873047,
+              474.622559,
+              15049.553711
+            ],
+              "ypr": [
+              0,
+              -0.000007,
+              -0.000005
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_school_map",
+              "pos": [
+              4404.927734,
+              475.737,
+              15044.506836
+            ],
+              "ypr": [
+              142.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_radio_b",
+              "pos": [
+              4401.391113,
+              475.130005,
+              15063.328125
+            ],
+              "ypr": [
+              -145.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_picture_c",
+              "pos": [
+              4412.116699,
+              474.582397,
+              15049.929688
+            ],
+              "ypr": [
+              -37,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_desk_globe",
+              "pos": [
+              4404.455078,
+              475.206207,
+              15046.152344
+            ],
+              "ypr": [
+              105.999985,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\l_long_pile_b.p3d",
+              "pos": [
+              4402.366699,
+              473.477325,
+              15070.383789
+            ],
+              "ypr": [
+              44.999981,
+              0,
+              3.000001
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\l_long_pile_a.p3d",
+              "pos": [
+              4399.475098,
+              473.690247,
+              15072.928711
+            ],
+              "ypr": [
+              0,
+              7.508202,
+              -1.680204
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          }
+			]
+            }

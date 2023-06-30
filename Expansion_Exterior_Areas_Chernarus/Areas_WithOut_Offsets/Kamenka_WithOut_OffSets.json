@@ -1,0 +1,6019 @@
+{
+                      "Objects": [
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1976.956787,
+              18.860184,
+              2306.932373
+            ],
+              "ypr": [
+              -55.977726,
+              0.377029,
+              0.683263
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1959.190674,
+              18.690048,
+              2306.722656
+            ],
+              "ypr": [
+              -61.484219,
+              0.175131,
+              0.625712
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1968.939087,
+              17.637276,
+              2300.111816
+            ],
+              "ypr": [
+              -157.957535,
+              0.248982,
+              0.211426
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2003.808472,
+              16.384331,
+              2291.230713
+            ],
+              "ypr": [
+              -66.837807,
+              0.487538,
+              0.589374
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1971.394165,
+              15.403793,
+              2283.205566
+            ],
+              "ypr": [
+              113.949112,
+              0.62161,
+              0.314971
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2005.143433,
+              14.405035,
+              2276.848145
+            ],
+              "ypr": [
+              92.425629,
+              0.613578,
+              0.606934
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1994.507935,
+              16.455498,
+              2291.632568
+            ],
+              "ypr": [
+              -24.380814,
+              0.217685,
+              0.597983
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1988.422119,
+              14.348852,
+              2273.527588
+            ],
+              "ypr": [
+              172.466782,
+              0.369723,
+              0.034586
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2001.462769,
+              13.700388,
+              2267.400879
+            ],
+              "ypr": [
+              -121.957581,
+              0.171948,
+              0.614646
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1981.96106,
+              13.873581,
+              2262.541992
+            ],
+              "ypr": [
+              139.831924,
+              0.328451,
+              0.278932
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              1978.15332,
+              14.414211,
+              2274.922119
+            ],
+              "ypr": [
+              74.791672,
+              0.132213,
+              0.026596
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              1980.062622,
+              16.933044,
+              2296.293701
+            ],
+              "ypr": [
+              105.962479,
+              0.024738,
+              0.027366
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              1964.171387,
+              16.392572,
+              2292.657471
+            ],
+              "ypr": [
+              35.656082,
+              0.206128,
+              0.31982
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              1941.72229,
+              17.491064,
+              2300.116211
+            ],
+              "ypr": [
+              44.975651,
+              0.635047,
+              0.687685
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_quercusrobur_2sb.p3d",
+              "pos": [
+              1990.421387,
+              19.575481,
+              2299.16748
+            ],
+              "ypr": [
+              83.794388,
+              0.383524,
+              0.531182
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_quercusrobur_2sb.p3d",
+              "pos": [
+              1998.158569,
+              16.896536,
+              2281.771729
+            ],
+              "ypr": [
+              -134.303528,
+              0.344302,
+              0.529495
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_quercusrobur_2sb.p3d",
+              "pos": [
+              1964.724121,
+              16.913967,
+              2279.322266
+            ],
+              "ypr": [
+              -105.940651,
+              0.243556,
+              0.29175
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_quercusrobur_2s.p3d",
+              "pos": [
+              1956.503296,
+              19.565987,
+              2300.450684
+            ],
+              "ypr": [
+              -169.910172,
+              0.294911,
+              0.612937
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_robiniapseudoacacia_2s.p3d",
+              "pos": [
+              1982.543945,
+              17.377415,
+              2285.240967
+            ],
+              "ypr": [
+              -80.134293,
+              0.233131,
+              0.246311
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1972.107422,
+              14.035974,
+              2264.441406
+            ],
+              "ypr": [
+              18.284344,
+              0.155093,
+              0.33565
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1928.883301,
+              15.406862,
+              2282.041504
+            ],
+              "ypr": [
+              -143.240677,
+              0.308306,
+              0.655
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              1934.89563,
+              14.149241,
+              2264.237305
+            ],
+              "ypr": [
+              76.583473,
+              0.58523,
+              0.192755
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1fe.p3d",
+              "pos": [
+              1914.953369,
+              18.058662,
+              2292.811279
+            ],
+              "ypr": [
+              117.631058,
+              0.585636,
+              0.164962
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1fe.p3d",
+              "pos": [
+              1935.833496,
+              18.181906,
+              2293.025635
+            ],
+              "ypr": [
+              -107.797981,
+              0.128261,
+              0.536886
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1fe.p3d",
+              "pos": [
+              1951.972778,
+              16.860125,
+              2283.113281
+            ],
+              "ypr": [
+              -142.060745,
+              0.36669,
+              0.077119
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1f.p3d",
+              "pos": [
+              1959.256348,
+              15.402194,
+              2289.00708
+            ],
+              "ypr": [
+              -47.707054,
+              0.280812,
+              0.175088
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1f.p3d",
+              "pos": [
+              1973.126465,
+              14.027222,
+              2276.386719
+            ],
+              "ypr": [
+              -160.907425,
+              0.4073,
+              0.446992
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1fb.p3d",
+              "pos": [
+              1983.236938,
+              9.115277,
+              2271.052734
+            ],
+              "ypr": [
+              -99.068375,
+              0.109804,
+              0.292113
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_2s.p3d",
+              "pos": [
+              1975.52002,
+              9.581089,
+              2258.752197
+            ],
+              "ypr": [
+              160.448578,
+              0.080943,
+              0.070219
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              1991.74585,
+              12.164954,
+              2263.358887
+            ],
+              "ypr": [
+              119.215279,
+              0.350924,
+              0.191537
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              1963.721802,
+              13.030428,
+              2273.546631
+            ],
+              "ypr": [
+              144.191238,
+              0.618726,
+              0.432444
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              1970.97937,
+              14.381575,
+              2287.945557
+            ],
+              "ypr": [
+              -146.004868,
+              0.009934,
+              0.14894
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_2s.p3d",
+              "pos": [
+              1989.769531,
+              10.950149,
+              2282.356934
+            ],
+              "ypr": [
+              43.664558,
+              0.017731,
+              0.668373
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              2013.697632,
+              13.423126,
+              2285.877441
+            ],
+              "ypr": [
+              -28.794785,
+              0.089467,
+              0.410013
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_2s.p3d",
+              "pos": [
+              2007.922852,
+              9.701284,
+              2271.812256
+            ],
+              "ypr": [
+              168.2276,
+              0.055372,
+              0.191687
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              2013.703491,
+              17.362999,
+              2264.106689
+            ],
+              "ypr": [
+              -155.313538,
+              0.38598,
+              0.673415
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              2073.26001,
+              17.138462,
+              2273.799072
+            ],
+              "ypr": [
+              147.250427,
+              0.043302,
+              0.438426
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              2062.537842,
+              17.372778,
+              2245.938477
+            ],
+              "ypr": [
+              -160.011536,
+              0.278163,
+              0.15896
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              2093.907959,
+              17.683115,
+              2236.525146
+            ],
+              "ypr": [
+              8.123508,
+              0.181924,
+              0.554147
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2099.067139,
+              13.452516,
+              2256.688965
+            ],
+              "ypr": [
+              -63.811413,
+              0.527551,
+              0.002564
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2082.647461,
+              13.756121,
+              2243.696533
+            ],
+              "ypr": [
+              159.61824,
+              0.338897,
+              0.525756
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2091.14917,
+              13.385387,
+              2279.388184
+            ],
+              "ypr": [
+              -177.951431,
+              0.628105,
+              0.203565
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2057.600098,
+              13.116691,
+              2272.094238
+            ],
+              "ypr": [
+              108.912407,
+              0.355581,
+              0.165988
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2069.564453,
+              13.083185,
+              2255.932861
+            ],
+              "ypr": [
+              -44.582325,
+              0.406958,
+              0.310463
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2045.046753,
+              13.284275,
+              2275.317627
+            ],
+              "ypr": [
+              14.383893,
+              0.501766,
+              0.047382
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2046.312744,
+              13.214711,
+              2250.662842
+            ],
+              "ypr": [
+              -75.010178,
+              0.587046,
+              0.256202
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2048.04834,
+              13.734617,
+              2233.820313
+            ],
+              "ypr": [
+              -20.633362,
+              0.537805,
+              0.688774
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2036.676514,
+              13.67097,
+              2237.083008
+            ],
+              "ypr": [
+              -115.052574,
+              0.599222,
+              0.091304
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2020.650269,
+              13.443616,
+              2247.036865
+            ],
+              "ypr": [
+              -133.484131,
+              0.352142,
+              0.46122
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2025.371948,
+              13.83332,
+              2217.521973
+            ],
+              "ypr": [
+              -79.937614,
+              0.288866,
+              0.525179
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2010.433228,
+              13.529096,
+              2244.452148
+            ],
+              "ypr": [
+              -51.29063,
+              0.115593,
+              0.594715
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              2023.176025,
+              13.513443,
+              2235.213867
+            ],
+              "ypr": [
+              -175.864609,
+              0.05973,
+              0.383695
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              2040.113892,
+              13.143881,
+              2248.398193
+            ],
+              "ypr": [
+              156.602753,
+              0.561539,
+              0.040696
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1fe.p3d",
+              "pos": [
+              2048.071289,
+              14.984043,
+              2243.716553
+            ],
+              "ypr": [
+              79.522476,
+              0.643593,
+              0.356265
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1fe.p3d",
+              "pos": [
+              2053.293213,
+              15.527442,
+              2281.944336
+            ],
+              "ypr": [
+              3.786035,
+              0.445219,
+              0.035184
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fraxinusexcelsior_2f.p3d",
+              "pos": [
+              2030.602173,
+              14.536145,
+              2247.520996
+            ],
+              "ypr": [
+              -60.850567,
+              0.67914,
+              0.186838
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+              "pos": [
+              2074.02832,
+              15.342395,
+              2244.50293
+            ],
+              "ypr": [
+              -56.731583,
+              0.104357,
+              0.699093
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              1965.195435,
+              17.815695,
+              2258.946777
+            ],
+              "ypr": [
+              -173.941696,
+              0.631031,
+              0.667847
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_2s.p3d",
+              "pos": [
+              1999.376831,
+              9.336125,
+              2264.689453
+            ],
+              "ypr": [
+              97.090897,
+              0.411359,
+              0.254856
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              2017.163452,
+              12.309317,
+              2273.799072
+            ],
+              "ypr": [
+              -31.690079,
+              0.472115,
+              0.334561
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              2023.055664,
+              9.651829,
+              2266.368652
+            ],
+              "ypr": [
+              148.506866,
+              0.006537,
+              0.236976
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              2018.034302,
+              10.09854,
+              2282.541504
+            ],
+              "ypr": [
+              -171.101059,
+              0.552032,
+              0.61862
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              2004.741455,
+              9.725006,
+              2262.722412
+            ],
+              "ypr": [
+              91.999535,
+              0.410013,
+              0.3866
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              1984.253906,
+              10.270478,
+              2267.089355
+            ],
+              "ypr": [
+              76.36496,
+              0.633168,
+              0.270173
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              1978.239136,
+              11.975439,
+              2286.822998
+            ],
+              "ypr": [
+              47.357433,
+              0.172119,
+              0.441673
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              1970.068481,
+              12.987358,
+              2294.391113
+            ],
+              "ypr": [
+              -88.197388,
+              0.246589,
+              0.07165
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2190.36084,
+              13.356118,
+              2243.170654
+            ],
+              "ypr": [
+              -44.778984,
+              0.329497,
+              0.236741
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2166.416504,
+              13.716597,
+              2268.927979
+            ],
+              "ypr": [
+              116.735184,
+              0.24676,
+              0.694585
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2181.966064,
+              13.611881,
+              2247.989258
+            ],
+              "ypr": [
+              -136.062561,
+              0.270515,
+              0.502193
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2179.567139,
+              13.829318,
+              2226.591797
+            ],
+              "ypr": [
+              -145.753601,
+              0.443937,
+              0.097371
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2165.893066,
+              13.351139,
+              2244.039551
+            ],
+              "ypr": [
+              123.5746,
+              0.237681,
+              0.52033
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2164.304443,
+              13.412809,
+              2223.577148
+            ],
+              "ypr": [
+              71.666954,
+              0.550024,
+              0.580167
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2137.274658,
+              12.358503,
+              2228.243408
+            ],
+              "ypr": [
+              -73.939461,
+              0.378781,
+              0.037641
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2151.193115,
+              12.722473,
+              2234.787109
+            ],
+              "ypr": [
+              134.948181,
+              0.272951,
+              0.068254
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2160.958252,
+              13.349654,
+              2258.831299
+            ],
+              "ypr": [
+              -75.578316,
+              0.359704,
+              0.46703
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2149.61792,
+              13.819901,
+              2214.061768
+            ],
+              "ypr": [
+              -163.62793,
+              0.349685,
+              0.388437
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2142.45166,
+              13.676508,
+              2267.051758
+            ],
+              "ypr": [
+              30.783264,
+              0.406382,
+              0.591745
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2116.950928,
+              13.484613,
+              2252.454346
+            ],
+              "ypr": [
+              132.992493,
+              0.253318,
+              0.555258
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2123.544189,
+              13.403047,
+              2253.472168
+            ],
+              "ypr": [
+              -23.976574,
+              0.482945,
+              0.634855
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2129.321777,
+              12.896233,
+              2246.764893
+            ],
+              "ypr": [
+              88.044456,
+              0.34772,
+              0.543786
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2127.347412,
+              12.38743,
+              2231.131592
+            ],
+              "ypr": [
+              156.198517,
+              0.339153,
+              0.556647
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2118.035645,
+              13.819901,
+              2223.735352
+            ],
+              "ypr": [
+              -52.448727,
+              0.028519,
+              0.590036
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2108.420898,
+              13.511464,
+              2243.479736
+            ],
+              "ypr": [
+              177.940521,
+              0.345306,
+              0.530349
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              2177.925781,
+              13.632385,
+              2237.76709
+            ],
+              "ypr": [
+              -122.471092,
+              0.56282,
+              0.441908
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              2199.537109,
+              12.948931,
+              2218.876953
+            ],
+              "ypr": [
+              -154.756317,
+              0.287819,
+              0.455174
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              2185.018311,
+              13.595924,
+              2200.570557
+            ],
+              "ypr": [
+              -21.660345,
+              0.46263,
+              0.247251
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              2168.183838,
+              13.330139,
+              2236.789551
+            ],
+              "ypr": [
+              -34.749229,
+              0.051334,
+              0.102947
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              2153.265381,
+              12.87144,
+              2259.259277
+            ],
+              "ypr": [
+              15.81515,
+              0.683413,
+              0.647374
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              2150.549805,
+              12.562244,
+              2227.458496
+            ],
+              "ypr": [
+              -8.025134,
+              0.026383,
+              0.365173
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              2120.800781,
+              12.961173,
+              2245.437012
+            ],
+              "ypr": [
+              42.834217,
+              0.451158,
+              0.180814
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              2158.345215,
+              17.01334,
+              2232.789795
+            ],
+              "ypr": [
+              30.892509,
+              0.625755,
+              0.442292
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              2147.989258,
+              16.716663,
+              2250.409912
+            ],
+              "ypr": [
+              80.636887,
+              0.421122,
+              0.573544
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              2171.167236,
+              17.62867,
+              2261.269287
+            ],
+              "ypr": [
+              125.6614,
+              0.550003,
+              0.048493
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              2111.315186,
+              17.065481,
+              2235.098145
+            ],
+              "ypr": [
+              61.527966,
+              0.188718,
+              0.11946
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              2135.99585,
+              16.663418,
+              2240.51709
+            ],
+              "ypr": [
+              -131.583054,
+              0.098546,
+              0.38284
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_quercusrobur_2s.p3d",
+              "pos": [
+              2135.668457,
+              15.056055,
+              2257.89502
+            ],
+              "ypr": [
+              -81.150352,
+              0.095107,
+              0.297389
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_quercusrobur_2sb.p3d",
+              "pos": [
+              2156.063232,
+              15.521612,
+              2267.475586
+            ],
+              "ypr": [
+              127.376709,
+              0.688411,
+              0.662605
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_quercusrobur_2sc.p3d",
+              "pos": [
+              2140.445068,
+              15.231025,
+              2220.036377
+            ],
+              "ypr": [
+              -100.903915,
+              0.211533,
+              0.629643
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_quercusrobur_2sc.p3d",
+              "pos": [
+              2171.78125,
+              15.048335,
+              2248.818604
+            ],
+              "ypr": [
+              49.236637,
+              0.099507,
+              0.156417
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_quercusrobur_2sc.p3d",
+              "pos": [
+              2148.719482,
+              15.114264,
+              2274.959473
+            ],
+              "ypr": [
+              -139.733566,
+              0.564487,
+              0.040119
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_quercusrobur_2s.p3d",
+              "pos": [
+              2124.025391,
+              15.514971,
+              2289.688965
+            ],
+              "ypr": [
+              -23.419342,
+              0.141933,
+              0.54165
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fraxinusexcelsior_3s.p3d",
+              "pos": [
+              2135.726074,
+              17.365219,
+              2291.492188
+            ],
+              "ypr": [
+              120.406189,
+              0.277437,
+              0.165005
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2148.706055,
+              13.78601,
+              2296.503174
+            ],
+              "ypr": [
+              -62.336441,
+              0.245884,
+              0.076329
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2161.02002,
+              14.257751,
+              2308.080811
+            ],
+              "ypr": [
+              165.649185,
+              0.162164,
+              0.597214
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2176.774414,
+              13.939297,
+              2304.432129
+            ],
+              "ypr": [
+              161.836151,
+              0.676299,
+              0.657243
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2183.315918,
+              13.765606,
+              2298.811523
+            ],
+              "ypr": [
+              -122.055908,
+              0.621952,
+              0.580594
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2186.484863,
+              13.680458,
+              2285.273682
+            ],
+              "ypr": [
+              -9.718639,
+              0.44477,
+              0.591425
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2174.571533,
+              13.728092,
+              2293.639893
+            ],
+              "ypr": [
+              -109.032578,
+              0.033411,
+              0.494075
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              2168.220703,
+              13.640713,
+              2300.081543
+            ],
+              "ypr": [
+              70.61808,
+              0.499352,
+              0.244517
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              2157.631836,
+              13.552139,
+              2291.810303
+            ],
+              "ypr": [
+              -128.32724,
+              0.21587,
+              0.486983
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              2158.045898,
+              17.801502,
+              2298.947754
+            ],
+              "ypr": [
+              -52.700062,
+              0.219309,
+              0.263444
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              2167.320313,
+              17.6961,
+              2288.293213
+            ],
+              "ypr": [
+              2.966613,
+              0.398307,
+              0.007413
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              2163.887695,
+              9.975752,
+              2294.573486
+            ],
+              "ypr": [
+              -23.473984,
+              0.072227,
+              0.212217
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              2141.616943,
+              10.004327,
+              2295.810791
+            ],
+              "ypr": [
+              -177.547165,
+              0.412598,
+              0.592942
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              2138.378662,
+              9.916926,
+              2270.484863
+            ],
+              "ypr": [
+              28.663679,
+              0.224073,
+              0.323751
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              2161.113281,
+              9.959285,
+              2264.323242
+            ],
+              "ypr": [
+              -3.206928,
+              0.588605,
+              0.260603
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              2143.842041,
+              8.812975,
+              2241.968506
+            ],
+              "ypr": [
+              117.368858,
+              0.11382,
+              0.280086
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              2155.547119,
+              9.091315,
+              2240.465576
+            ],
+              "ypr": [
+              12.559311,
+              0.571152,
+              0.547033
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              2171.122314,
+              9.916277,
+              2225.624023
+            ],
+              "ypr": [
+              139.831924,
+              0.604157,
+              0.500548
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              2133.458984,
+              9.383684,
+              2223.591553
+            ],
+              "ypr": [
+              66.499138,
+              0.436183,
+              0.470277
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              2103.280273,
+              10.065752,
+              2224.481934
+            ],
+              "ypr": [
+              -4.572693,
+              0.299013,
+              0.060478
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_2s.p3d",
+              "pos": [
+              2115.499756,
+              9.403721,
+              2261.465088
+            ],
+              "ypr": [
+              145.403992,
+              0.035676,
+              0.030698
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_2s.p3d",
+              "pos": [
+              2143.32959,
+              9.489647,
+              2270.763184
+            ],
+              "ypr": [
+              177.667343,
+              0.30461,
+              0.224158
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              2139.780762,
+              12.140831,
+              2277.856689
+            ],
+              "ypr": [
+              -56.622356,
+              0.211747,
+              0.43849
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_2s.p3d",
+              "pos": [
+              2158.434082,
+              9.534317,
+              2274.949463
+            ],
+              "ypr": [
+              70.039032,
+              0.535134,
+              0.387711
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_2s.p3d",
+              "pos": [
+              2146.115967,
+              8.845327,
+              2258.041016
+            ],
+              "ypr": [
+              -1.120168,
+              0.514584,
+              0.406061
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_2s.p3d",
+              "pos": [
+              2162.509277,
+              9.020666,
+              2252.641602
+            ],
+              "ypr": [
+              -94.009834,
+              0.089275,
+              0.003247
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_2s.p3d",
+              "pos": [
+              2176.154297,
+              9.427996,
+              2259.886475
+            ],
+              "ypr": [
+              -85.105453,
+              0.624089,
+              0.505504
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_2s.p3d",
+              "pos": [
+              2188.146484,
+              9.235019,
+              2237.031006
+            ],
+              "ypr": [
+              -151.478622,
+              0.443467,
+              0.34678
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              2177.011963,
+              12.246631,
+              2245.208008
+            ],
+              "ypr": [
+              -160.74353,
+              0.451521,
+              0.522958
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              2179.355713,
+              12.166761,
+              2288.078613
+            ],
+              "ypr": [
+              21.419992,
+              0.658931,
+              0.156909
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_2f.p3d",
+              "pos": [
+              2121.773926,
+              13.553873,
+              2260.128174
+            ],
+              "ypr": [
+              19.639116,
+              0.466432,
+              0.472798
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_1fb.p3d",
+              "pos": [
+              2123.291992,
+              8.113755,
+              2264.42627
+            ],
+              "ypr": [
+              153.805832,
+              0.39397,
+              0.050202
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_1f.p3d",
+              "pos": [
+              2116.073975,
+              11.021002,
+              2265.111572
+            ],
+              "ypr": [
+              93.037476,
+              0.572434,
+              0.186752
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_1s.p3d",
+              "pos": [
+              2108.716553,
+              9.400213,
+              2256.460205
+            ],
+              "ypr": [
+              -59.463017,
+              0.616782,
+              0.060136
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_1s.p3d",
+              "pos": [
+              2149.885498,
+              9.348933,
+              2267.703125
+            ],
+              "ypr": [
+              -122.536659,
+              0.549789,
+              0.540796
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_1fb.p3d",
+              "pos": [
+              2158.388184,
+              7.576462,
+              2255.417969
+            ],
+              "ypr": [
+              -11.608772,
+              0.289528,
+              0.408732
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_1s.p3d",
+              "pos": [
+              2185.342041,
+              9.586273,
+              2290.915771
+            ],
+              "ypr": [
+              -121.444107,
+              0.651347,
+              0.596872
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_2s.p3d",
+              "pos": [
+              2201.928223,
+              8.987283,
+              2228.154785
+            ],
+              "ypr": [
+              55.376827,
+              0.070304,
+              0.438682
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              2182.461182,
+              12.278668,
+              2212.102051
+            ],
+              "ypr": [
+              -56.108837,
+              0.387134,
+              0.391193
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              2208.371826,
+              11.556465,
+              2202.17334
+            ],
+              "ypr": [
+              118.264763,
+              0.636628,
+              0.291793
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              2093.992676,
+              12.239967,
+              2248.994385
+            ],
+              "ypr": [
+              -108.661072,
+              0.308562,
+              0.688881
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              2082.516602,
+              12.277578,
+              2232.501709
+            ],
+              "ypr": [
+              136.00795,
+              0.339987,
+              0.278035
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_2s.p3d",
+              "pos": [
+              2091.981934,
+              9.625143,
+              2228.16626
+            ],
+              "ypr": [
+              -26.391129,
+              0.070219,
+              0.061674
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_3s.p3d",
+              "pos": [
+              2087.443604,
+              15.188822,
+              2254.844727
+            ],
+              "ypr": [
+              101.144287,
+              0.46327,
+              0.054154
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_2w.p3d",
+              "pos": [
+              2094.599121,
+              8.155304,
+              2259.17334
+            ],
+              "ypr": [
+              74.343719,
+              0.319073,
+              0.178229
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_2w.p3d",
+              "pos": [
+              2112.51123,
+              8.277986,
+              2246.734375
+            ],
+              "ypr": [
+              33.612991,
+              0.016599,
+              0.381451
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1879.754395,
+              20.110579,
+              2319.76709
+            ],
+              "ypr": [
+              39.392654,
+              0.458699,
+              0.303734
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1881.408081,
+              17.589157,
+              2308.732422
+            ],
+              "ypr": [
+              -70.432312,
+              0.096153,
+              0.409479
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1867.284668,
+              20.966862,
+              2325.738525
+            ],
+              "ypr": [
+              23.725304,
+              0.158148,
+              0.180899
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1872.890137,
+              17.696285,
+              2310.387451
+            ],
+              "ypr": [
+              103.580696,
+              0.306383,
+              0.572839
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1849.508545,
+              19.501417,
+              2319.339355
+            ],
+              "ypr": [
+              -81.652992,
+              0.063533,
+              0.073893
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1839.234131,
+              23.143284,
+              2345.864014
+            ],
+              "ypr": [
+              173.570267,
+              0.46201,
+              0.696187
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1814.640869,
+              21.009747,
+              2324.682861
+            ],
+              "ypr": [
+              -179.557465,
+              0.041016,
+              0.60326
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1833.030151,
+              19.587189,
+              2314.222168
+            ],
+              "ypr": [
+              154.297455,
+              0.06678,
+              0.427894
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1834.817139,
+              21.455502,
+              2329.227539
+            ],
+              "ypr": [
+              58.73101,
+              0.538061,
+              0.016342
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              1861.319214,
+              22.089464,
+              2337.005127
+            ],
+              "ypr": [
+              -7.653708,
+              0.408069,
+              0.647459
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              1866.044556,
+              17.470192,
+              2306.115967
+            ],
+              "ypr": [
+              160.667084,
+              0.2731,
+              0.227042
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              1812.279175,
+              24.780127,
+              2362.125977
+            ],
+              "ypr": [
+              110.256256,
+              0.183313,
+              0.311895
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              1811.174805,
+              23.380682,
+              2344.105957
+            ],
+              "ypr": [
+              -8.56054,
+              0.622315,
+              0.587174
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              1855.948242,
+              22.026955,
+              2306.447754
+            ],
+              "ypr": [
+              105.536392,
+              0.318688,
+              0.175195
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              1849.674438,
+              25.953382,
+              2334.074951
+            ],
+              "ypr": [
+              -34.508888,
+              0.597577,
+              0.079426
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              1822.816284,
+              27.746853,
+              2350.341553
+            ],
+              "ypr": [
+              92.982834,
+              0.611805,
+              0.652949
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              1819.800781,
+              24.526768,
+              2321.770996
+            ],
+              "ypr": [
+              133.374893,
+              0.482369,
+              0.65077
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              1834.185303,
+              21.548397,
+              2286.214111
+            ],
+              "ypr": [
+              134.664108,
+              0.338641,
+              0.316936
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1842.862183,
+              16.198029,
+              2272.261719
+            ],
+              "ypr": [
+              -124.568794,
+              0.285704,
+              0.235993
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1825.824951,
+              15.983259,
+              2260.694824
+            ],
+              "ypr": [
+              -156.766647,
+              0.415076,
+              0.425929
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1841.288452,
+              15.199575,
+              2257.034424
+            ],
+              "ypr": [
+              112.222862,
+              0.647246,
+              0.657884
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1818.217529,
+              18.28965,
+              2287.975586
+            ],
+              "ypr": [
+              -5.064301,
+              0.043665,
+              0.119139
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1798.733643,
+              18.819431,
+              2283.747559
+            ],
+              "ypr": [
+              3.709554,
+              0.070069,
+              0.110659
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              1801.607788,
+              21.131289,
+              2265.043945
+            ],
+              "ypr": [
+              38.73711,
+              0.639213,
+              0.395636
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              1850.356079,
+              19.636145,
+              2266.410889
+            ],
+              "ypr": [
+              172.029739,
+              0.14674,
+              0.295018
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3fb.p3d",
+              "pos": [
+              1851.745239,
+              21.393278,
+              2281.156006
+            ],
+              "ypr": [
+              -102.269615,
+              0.288524,
+              0.318346
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1850.453735,
+              18.119228,
+              2294.115234
+            ],
+              "ypr": [
+              -38.190792,
+              0.571152,
+              0.271519
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1822.973145,
+              19.973837,
+              2302.804199
+            ],
+              "ypr": [
+              17.08252,
+              0.467372,
+              0.57598
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fraxinusexcelsior_2s.p3d",
+              "pos": [
+              1867.082642,
+              19.492966,
+              2285.45752
+            ],
+              "ypr": [
+              -127.431328,
+              0.049668,
+              0.419392
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_quercusrobur_2sb.p3d",
+              "pos": [
+              1841.96106,
+              20.73407,
+              2306.87915
+            ],
+              "ypr": [
+              54.688522,
+              0.660704,
+              0.30461
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_quercusrobur_2s.p3d",
+              "pos": [
+              1895.180054,
+              17.699909,
+              2286.147217
+            ],
+              "ypr": [
+              147.479874,
+              0.213691,
+              0.658205
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_quercusrobur_2s.p3d",
+              "pos": [
+              1831.119629,
+              18.407982,
+              2272.565918
+            ],
+              "ypr": [
+              -75.764038,
+              0.546051,
+              0.509286
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_quercusrobur_2s.p3d",
+              "pos": [
+              1796.938965,
+              21.812748,
+              2295.667236
+            ],
+              "ypr": [
+              118.931198,
+              0.090791,
+              0.415931
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_quercusrobur_2sb.p3d",
+              "pos": [
+              1810.445435,
+              19.54571,
+              2276.354004
+            ],
+              "ypr": [
+              92.392876,
+              0.672582,
+              0.182693
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              1841.772705,
+              17.616535,
+              2317.552979
+            ],
+              "ypr": [
+              37.426041,
+              0.434217,
+              0.432017
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              1829.99292,
+              16.768631,
+              2289.487793
+            ],
+              "ypr": [
+              90.426239,
+              0.097884,
+              0.443019
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              1844.368774,
+              16.107288,
+              2284.041748
+            ],
+              "ypr": [
+              66.40081,
+              0.214161,
+              0.596039
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              1836.427124,
+              14.442947,
+              2266.104248
+            ],
+              "ypr": [
+              -158.263458,
+              0.208072,
+              0.013373
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              1814.524292,
+              14.460943,
+              2254.754639
+            ],
+              "ypr": [
+              -147.283203,
+              0.322298,
+              0.481578
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              1810.285034,
+              17.132254,
+              2288.203369
+            ],
+              "ypr": [
+              146.146927,
+              0.638038,
+              0.339581
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_2s.p3d",
+              "pos": [
+              1824.36145,
+              18.905424,
+              2293.218262
+            ],
+              "ypr": [
+              -118.046219,
+              0.029096,
+              0.383289
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_1s.p3d",
+              "pos": [
+              1819.617065,
+              15.326301,
+              2294.133545
+            ],
+              "ypr": [
+              -162.524445,
+              0.400721,
+              0.278227
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_1fb.p3d",
+              "pos": [
+              1827.243042,
+              14.092511,
+              2298.352783
+            ],
+              "ypr": [
+              -153.96965,
+              0.207581,
+              0.385446
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_2f.p3d",
+              "pos": [
+              1820.865723,
+              17.335798,
+              2278.851318
+            ],
+              "ypr": [
+              -76.594398,
+              0.13514,
+              0.386771
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2015.722168,
+              13.83375,
+              2219.450684
+            ],
+              "ypr": [
+              -20.349224,
+              0.654722,
+              0.475084
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              2005.078125,
+              13.819901,
+              2209.807129
+            ],
+              "ypr": [
+              -37.688232,
+              0.450624,
+              0.313967
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1992.190186,
+              13.778296,
+              2214.646973
+            ],
+              "ypr": [
+              167.397293,
+              0.332787,
+              0.308605
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1970.727539,
+              13.678207,
+              2236.143066
+            ],
+              "ypr": [
+              -28.434204,
+              0.194507,
+              0.198288
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1986.450073,
+              13.819901,
+              2205.10498
+            ],
+              "ypr": [
+              -11.532301,
+              0.166415,
+              0.583115
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1975.273682,
+              13.741713,
+              2214.750488
+            ],
+              "ypr": [
+              -116.014046,
+              0.197156,
+              0.314074
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              1985.744629,
+              17.688393,
+              2220.80835
+            ],
+              "ypr": [
+              139.296585,
+              0.597684,
+              0.476088
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_robiniapseudoacacia_2s.p3d",
+              "pos": [
+              1987.628662,
+              15.442343,
+              2244.487549
+            ],
+              "ypr": [
+              -26.01968,
+              0.303606,
+              0.619666
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_robiniapseudoacacia_1f.p3d",
+              "pos": [
+              2014.99292,
+              8.53174,
+              2227.603027
+            ],
+              "ypr": [
+              57.266975,
+              0.668566,
+              0.335436
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_2s.p3d",
+              "pos": [
+              2019.849854,
+              9.584766,
+              2227.881836
+            ],
+              "ypr": [
+              -95.484764,
+              0.575745,
+              0.096239
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_2s.p3d",
+              "pos": [
+              1995.224121,
+              9.517288,
+              2227.519531
+            ],
+              "ypr": [
+              -7.828476,
+              0.036188,
+              0.446138
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              1998.634521,
+              12.244814,
+              2216.731201
+            ],
+              "ypr": [
+              80.833542,
+              0.05597,
+              0.554617
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              1979.811035,
+              12.120278,
+              2231.901611
+            ],
+              "ypr": [
+              125.978226,
+              0.046528,
+              0.053364
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              2034.769531,
+              12.216475,
+              2231.030273
+            ],
+              "ypr": [
+              -22.66551,
+              0.45934,
+              0.664101
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              2055.990967,
+              11.6078,
+              2252.486572
+            ],
+              "ypr": [
+              37.26215,
+              0.531994,
+              0.285725
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              2085.968994,
+              12.158737,
+              2248.45874
+            ],
+              "ypr": [
+              4.190282,
+              0.680657,
+              0.414222
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_2s.p3d",
+              "pos": [
+              2065.762451,
+              9.217458,
+              2245.932373
+            ],
+              "ypr": [
+              92.261757,
+              0.061225,
+              0.13232
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_2s.p3d",
+              "pos": [
+              2053.993164,
+              9.304251,
+              2244.189697
+            ],
+              "ypr": [
+              54.590195,
+              0.206513,
+              0.384335
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1863.972168,
+              14.14255,
+              2244.85791
+            ],
+              "ypr": [
+              105.307846,
+              0.3634,
+              0.353831
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              1874.542603,
+              13.869748,
+              2249.886719
+            ],
+              "ypr": [
+              -175.034256,
+              0.601615,
+              0.029245
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              1870.435913,
+              10.306967,
+              2242.157471
+            ],
+              "ypr": [
+              133.243759,
+              0.527102,
+              0.103395
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              1916.588379,
+              17.734476,
+              2227.362305
+            ],
+              "ypr": [
+              0.002852,
+              1.069389,
+              0.152815
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1925.909302,
+              13.75932,
+              2222.035889
+            ],
+              "ypr": [
+              -0.000102,
+              -0.076396,
+              0.076396
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              1965.932495,
+              17.654629,
+              2224.694092
+            ],
+              "ypr": [
+              0,
+              -0.22918,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1968.815063,
+              13.742077,
+              2212.021484
+            ],
+              "ypr": [
+              0.000611,
+              -0.229182,
+              -0.152789
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1969.611206,
+              13.804752,
+              2199.798096
+            ],
+              "ypr": [
+              0,
+              -0.381968,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1949.458496,
+              13.78329,
+              2204.012207
+            ],
+              "ypr": [
+              -0.000204,
+              -0.152788,
+              0.076393
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              1962.829956,
+              13.648427,
+              2196.852295
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              1967.222046,
+              13.64537,
+              2181.720459
+            ],
+              "ypr": [
+              0.000204,
+              0.076396,
+              0.152788
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1fe.p3d",
+              "pos": [
+              1980.421875,
+              15.246564,
+              2209.339355
+            ],
+              "ypr": [
+              0,
+              -0.458356,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              1995.922852,
+              10.059216,
+              2207.456543
+            ],
+              "ypr": [
+              0,
+              -0.152788,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              1975.773071,
+              10.029093,
+              2208.55127
+            ],
+              "ypr": [
+              0.001222,
+              -0.229177,
+              -0.305577
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_1s.p3d",
+              "pos": [
+              1978.256592,
+              9.700037,
+              2203.398682
+            ],
+              "ypr": [
+              0,
+              0,
+              -0.305574
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_1fb.p3d",
+              "pos": [
+              1983.956543,
+              8.254192,
+              2214.290283
+            ],
+              "ypr": [
+              0.000815,
+              -0.305572,
+              -0.15279
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_1f.p3d",
+              "pos": [
+              2047.955444,
+              11.234883,
+              2219.311279
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_betulapendula_1fb.p3d",
+              "pos": [
+              2044.249878,
+              8.310005,
+              2222.359131
+            ],
+              "ypr": [
+              0,
+              -0.076396,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_2s.p3d",
+              "pos": [
+              2000.127075,
+              9.471844,
+              2185.79248
+            ],
+              "ypr": [
+              27.079466,
+              0.457673,
+              0.295275
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              1953.974854,
+              12.151703,
+              2225.744873
+            ],
+              "ypr": [
+              -9.718638,
+              0.447825,
+              0.40839
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1859.568115,
+              13.876137,
+              2172.322021
+            ],
+              "ypr": [
+              -65.810799,
+              0.169748,
+              0.533639
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1876.011353,
+              13.453424,
+              2190.973389
+            ],
+              "ypr": [
+              -126.51358,
+              0.568994,
+              0.62396
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1897.531738,
+              13.916395,
+              2198.059326
+            ],
+              "ypr": [
+              -73.873932,
+              0.432594,
+              0.117345
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1892.565308,
+              13.95779,
+              2180.651611
+            ],
+              "ypr": [
+              61.560745,
+              0.696465,
+              0.015317
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              1885.894775,
+              13.755166,
+              2194.876465
+            ],
+              "ypr": [
+              108.147606,
+              0.614732,
+              0.474742
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              1875.037109,
+              13.64893,
+              2170.925781
+            ],
+              "ypr": [
+              51.716751,
+              0.56423,
+              0.56908
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3fb.p3d",
+              "pos": [
+              1879.719238,
+              18.566483,
+              2197.412598
+            ],
+              "ypr": [
+              -168.872208,
+              0.632441,
+              0.464168
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              1892.283813,
+              17.856596,
+              2201.203857
+            ],
+              "ypr": [
+              -128.370911,
+              0.068019,
+              0.107604
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              1876.301392,
+              17.965851,
+              2223.447266
+            ],
+              "ypr": [
+              11.685262,
+              0.26996,
+              0.025742
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1892.35437,
+              13.899622,
+              2215.59668
+            ],
+              "ypr": [
+              87.683922,
+              0.634086,
+              0.443531
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              1896.579834,
+              13.803682,
+              2232.922607
+            ],
+              "ypr": [
+              -175.718933,
+              0.173443,
+              0.241334
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1864.935669,
+              13.731895,
+              2181.917236
+            ],
+              "ypr": [
+              -172.138962,
+              0.676619,
+              0.437016
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1851.279663,
+              13.744175,
+              2196.700928
+            ],
+              "ypr": [
+              36.16959,
+              0.00047,
+              0.580914
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              1853.70166,
+              13.699503,
+              2174.500488
+            ],
+              "ypr": [
+              -84.635674,
+              0.652159,
+              0.029801
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              1884.906372,
+              10.073509,
+              2209.783203
+            ],
+              "ypr": [
+              169.440369,
+              0.568909,
+              0.498818
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1s.p3d",
+              "pos": [
+              1899.864136,
+              10.121934,
+              2204.085938
+            ],
+              "ypr": [
+              -1.950528,
+              0.176776,
+              0.685933
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_1fb.p3d",
+              "pos": [
+              1900.877319,
+              8.82151,
+              2193.991455
+            ],
+              "ypr": [
+              -57.725838,
+              0.295809,
+              0.675038
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fraxinusexcelsior_2f.p3d",
+              "pos": [
+              1914.449219,
+              14.992476,
+              2208.51123
+            ],
+              "ypr": [
+              141.776428,
+              0.647139,
+              0.342166
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fraxinusexcelsior_3s.p3d",
+              "pos": [
+              1926.503418,
+              18.501802,
+              2271.952393
+            ],
+              "ypr": [
+              54.596481,
+              0.441716,
+              0.172952
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1833.841064,
+              15.002632,
+              2254.083008
+            ],
+              "ypr": [
+              68.247223,
+              0.659337,
+              0.178528
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1830.701172,
+              13.932646,
+              2242.350586
+            ],
+              "ypr": [
+              -11.248218,
+              0.097862,
+              0.548529
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1831.798096,
+              13.950661,
+              2233.270996
+            ],
+              "ypr": [
+              -125.169708,
+              0.434217,
+              0.656731
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1806.916504,
+              15.936701,
+              2250.237549
+            ],
+              "ypr": [
+              -10.876765,
+              0.32781,
+              0.699328
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2s.p3d",
+              "pos": [
+              1824.826904,
+              15.542856,
+              2256.034912
+            ],
+              "ypr": [
+              178.115295,
+              0.568097,
+              0.053513
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_3s.p3d",
+              "pos": [
+              1819.998657,
+              19.28083,
+              2246.11377
+            ],
+              "ypr": [
+              106.683578,
+              0.552887,
+              0.071116
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb.p3d",
+              "pos": [
+              1861.115479,
+              14.841372,
+              2261.569092
+            ],
+              "ypr": [
+              -27.204309,
+              0.648591,
+              0.651988
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              1838.416016,
+              12.470792,
+              2229.581543
+            ],
+              "ypr": [
+              94.217438,
+              0.560129,
+              0.499182
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              1816.46875,
+              12.306455,
+              2222.208984
+            ],
+              "ypr": [
+              -130.490479,
+              0.320119,
+              0.355304
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_2s.p3d",
+              "pos": [
+              1828.63269,
+              9.735765,
+              2231.099854
+            ],
+              "ypr": [
+              54.972595,
+              0.273997,
+              0.001389
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_2s.p3d",
+              "pos": [
+              1795.03772,
+              11.557811,
+              2247.461914
+            ],
+              "ypr": [
+              141.383362,
+              0.252613,
+              0.426078
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              1880.140259,
+              14.516962,
+              2276.927979
+            ],
+              "ypr": [
+              -88.252029,
+              0.105681,
+              0.295574
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_3s.p3d",
+              "pos": [
+              1872.05957,
+              15.383583,
+              2299.125244
+            ],
+              "ypr": [
+              2.256445,
+              0.203458,
+              0.131209
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\t_pyruscommunis_2s.p3d",
+              "pos": [
+              1852.450684,
+              13.24495,
+              2285.39502
+            ],
+              "ypr": [
+              12.067659,
+              0.167205,
+              0.306704
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_crataeguslaevigata_1s.p3d",
+              "pos": [
+              1973.705688,
+              12.382221,
+              2305.20166
+            ],
+              "ypr": [
+              92.086937,
+              0.293736,
+              0.620606
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_crataeguslaevigata_2s.p3d",
+              "pos": [
+              1984.603149,
+              11.345495,
+              2288.180176
+            ],
+              "ypr": [
+              40.21207,
+              0.416251,
+              0.028284
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+              "pos": [
+              1980.764038,
+              9.691045,
+              2278.924072
+            ],
+              "ypr": [
+              124.492348,
+              0.125698,
+              0.661815
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+              "pos": [
+              1986.541382,
+              8.610411,
+              2261.510986
+            ],
+              "ypr": [
+              -85.859329,
+              0.645323,
+              0.643208
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_1s.p3d",
+              "pos": [
+              1974.661743,
+              7.641697,
+              2263.946533
+            ],
+              "ypr": [
+              88.732765,
+              0.504436,
+              0.093205
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_1s.p3d",
+              "pos": [
+              2003.13855,
+              7.150663,
+              2260.681641
+            ],
+              "ypr": [
+              179.033066,
+              0.33439,
+              0.225803
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_1s.p3d",
+              "pos": [
+              2011.72583,
+              7.550769,
+              2272.720947
+            ],
+              "ypr": [
+              -154.29744,
+              0.38252,
+              0.513985
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+              "pos": [
+              2015.308472,
+              8.445192,
+              2268.875732
+            ],
+              "ypr": [
+              -97.637146,
+              0.303542,
+              0.500677
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_betulahumilis_1s.p3d",
+              "pos": [
+              2017.419434,
+              6.386299,
+              2264.680908
+            ],
+              "ypr": [
+              -41.752594,
+              0.306853,
+              0.001709
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_betulahumilis_1s.p3d",
+              "pos": [
+              2161.764404,
+              6.284914,
+              2257.440674
+            ],
+              "ypr": [
+              -84.100288,
+              0.229499,
+              0.574954
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_crataeguslaevigata_2s.p3d",
+              "pos": [
+              2146.540527,
+              9.171614,
+              2294.678467
+            ],
+              "ypr": [
+              -131.757874,
+              0.690548,
+              0.669292
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_crataeguslaevigata_1s.p3d",
+              "pos": [
+              2118.674072,
+              7.616481,
+              2290.724609
+            ],
+              "ypr": [
+              34.312233,
+              0.377328,
+              0.271968
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+              "pos": [
+              2170.401855,
+              8.527725,
+              2268.425049
+            ],
+              "ypr": [
+              57.321602,
+              0.613386,
+              0.561645
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_1s.p3d",
+              "pos": [
+              2174.016357,
+              7.330679,
+              2266.9104
+            ],
+              "ypr": [
+              -24.391714,
+              0.418601,
+              0.389398
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_1s.p3d",
+              "pos": [
+              2165.48584,
+              7.373927,
+              2272.203613
+            ],
+              "ypr": [
+              148.430405,
+              0.299013,
+              0.571536
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_sambucusnigra_1s.p3d",
+              "pos": [
+              2168.494873,
+              7.515366,
+              2261.847656
+            ],
+              "ypr": [
+              145.698975,
+              0.523577,
+              0.216532
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_sambucusnigra_1s.p3d",
+              "pos": [
+              2189.716553,
+              7.310644,
+              2251.54541
+            ],
+              "ypr": [
+              -34.224804,
+              0.411466,
+              0.464851
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_sambucusnigra_2s.p3d",
+              "pos": [
+              2191.903809,
+              8.279732,
+              2248.159424
+            ],
+              "ypr": [
+              132.566376,
+              0.117473,
+              0.330673
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_1s.p3d",
+              "pos": [
+              2194.132324,
+              6.933452,
+              2236.957764
+            ],
+              "ypr": [
+              61.003536,
+              0.69873,
+              0.176584
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_crataeguslaevigata_2s.p3d",
+              "pos": [
+              2107.343018,
+              8.813436,
+              2237.486816
+            ],
+              "ypr": [
+              -19.890373,
+              0.226273,
+              0.154901
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_crataeguslaevigata_2s.p3d",
+              "pos": [
+              2021.868896,
+              9.051372,
+              2271.313232
+            ],
+              "ypr": [
+              -165.911377,
+              0.309438,
+              0.348852
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_betulahumilis_1s.p3d",
+              "pos": [
+              1829.81543,
+              12.059006,
+              2293.393555
+            ],
+              "ypr": [
+              -45.948002,
+              0.039414,
+              0.221103
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\b_betulapendula_1f.p3d",
+              "pos": [
+              1830.499023,
+              12.592543,
+              2297.884277
+            ],
+              "ypr": [
+              -67.4496,
+              0.443446,
+              0.211148
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+              "pos": [
+              2065.554932,
+              7.914525,
+              2270.741211
+            ],
+              "ypr": [
+              -103.799202,
+              0.382605,
+              0.116704
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+              "pos": [
+              2062.656006,
+              7.936106,
+              2251.563965
+            ],
+              "ypr": [
+              106.683578,
+              0.268849,
+              0.610267
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+              "pos": [
+              2080.163818,
+              7.994134,
+              2257.163086
+            ],
+              "ypr": [
+              -48.515533,
+              0.617936,
+              0.255925
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_1s.p3d",
+              "pos": [
+              2077.071533,
+              6.95984,
+              2253.971191
+            ],
+              "ypr": [
+              97.30938,
+              0.373334,
+              0.183676
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_1s.p3d",
+              "pos": [
+              2076.828125,
+              6.762834,
+              2257.47168
+            ],
+              "ypr": [
+              99.25415,
+              0.591617,
+              0.139092
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_sambucusnigra_2s.p3d",
+              "pos": [
+              2099.320313,
+              8.365853,
+              2276.961182
+            ],
+              "ypr": [
+              -129.299606,
+              0.276988,
+              0.637568
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_sambucusnigra_1s.p3d",
+              "pos": [
+              2094.751709,
+              7.303594,
+              2279.796631
+            ],
+              "ypr": [
+              35.131657,
+              0.46624,
+              0.097264
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_crataeguslaevigata_1s.p3d",
+              "pos": [
+              2106.056152,
+              7.53872,
+              2280.406738
+            ],
+              "ypr": [
+              172.23732,
+              0.556177,
+              0.201834
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_crataeguslaevigata_1s.p3d",
+              "pos": [
+              2132.342285,
+              6.99676,
+              2252.170898
+            ],
+              "ypr": [
+              -173.89801,
+              0.507149,
+              0.127471
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_crataeguslaevigata_2s.p3d",
+              "pos": [
+              2133.899414,
+              9.059582,
+              2263.919678
+            ],
+              "ypr": [
+              25.790243,
+              0.002777,
+              0.0972
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_betulahumilis_1s.p3d",
+              "pos": [
+              2131.509033,
+              6.697216,
+              2291.589844
+            ],
+              "ypr": [
+              39.338024,
+              0.129052,
+              0.415055
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_betulahumilis_1s.p3d",
+              "pos": [
+              1985.097168,
+              6.811645,
+              2210.093506
+            ],
+              "ypr": [
+              0.000815,
+              -0.305572,
+              -0.15279
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\tree\\b_betulapendula_1f.p3d",
+              "pos": [
+              2038.372925,
+              7.027557,
+              2221.427002
+            ],
+              "ypr": [
+              0,
+              -0.076396,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_sambucusnigra_2s.p3d",
+              "pos": [
+              2018.210205,
+              8.699751,
+              2213.60083
+            ],
+              "ypr": [
+              0,
+              0.152788,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+              "pos": [
+              2036.605103,
+              8.184024,
+              2194.243164
+            ],
+              "ypr": [
+              0,
+              8.6428,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+              "pos": [
+              2032.797607,
+              8.648596,
+              2197.769775
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+              "pos": [
+              2038.610107,
+              8.648596,
+              2199.808594
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_1s.p3d",
+              "pos": [
+              2035.225098,
+              7.471633,
+              2197.701904
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_1s.p3d",
+              "pos": [
+              2026.703979,
+              7.471633,
+              2198.292969
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_1s.p3d",
+              "pos": [
+              2031.905151,
+              7.088151,
+              2194.145508
+            ],
+              "ypr": [
+              0,
+              6.692105,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_1s.p3d",
+              "pos": [
+              2026.094849,
+              6.843652,
+              2190.29126
+            ],
+              "ypr": [
+              0.164,
+              4.720039,
+              1.99222
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+              "pos": [
+              1914.278198,
+              9.47368,
+              2268.018311
+            ],
+              "ypr": [
+              166.818222,
+              0.182672,
+              0.468846
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_1s.p3d",
+              "pos": [
+              1911.520508,
+              8.140226,
+              2263.784424
+            ],
+              "ypr": [
+              -124.175499,
+              0.412684,
+              0.096944
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_betulahumilis_1s.p3d",
+              "pos": [
+              1965.452271,
+              6.800493,
+              2204.209229
+            ],
+              "ypr": [
+              101.625031,
+              0.306939,
+              0.304781
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_betulahumilis_1s.p3d",
+              "pos": [
+              1967.986084,
+              6.787627,
+              2207.169189
+            ],
+              "ypr": [
+              163.136292,
+              0.440434,
+              0.107625
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_corylusavellana_1f.p3d",
+              "pos": [
+              1976.704346,
+              7.167033,
+              2201.09668
+            ],
+              "ypr": [
+              -108.256874,
+              0.25005,
+              0.016428
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+              "pos": [
+              1982.407349,
+              6.827594,
+              2222.955322
+            ],
+              "ypr": [
+              -72.89061,
+              0.58273,
+              0.257719
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_crataeguslaevigata_2s.p3d",
+              "pos": [
+              2009.977295,
+              9.289557,
+              2214.974121
+            ],
+              "ypr": [
+              -161.453705,
+              0.204953,
+              0.559979
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_crataeguslaevigata_2s.p3d",
+              "pos": [
+              2007.306396,
+              9.275628,
+              2220.488037
+            ],
+              "ypr": [
+              -134.183365,
+              0.033155,
+              0.291942
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_crataeguslaevigata_1s.p3d",
+              "pos": [
+              2010.513794,
+              7.78387,
+              2220.04126
+            ],
+              "ypr": [
+              161.770599,
+              0.395529,
+              0.110124
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_crataeguslaevigata_2s.p3d",
+              "pos": [
+              1902.371582,
+              10.76988,
+              2280.142334
+            ],
+              "ypr": [
+              -129.529007,
+              0.587387,
+              0.366818
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+              "pos": [
+              1899.097046,
+              10.624033,
+              2292.684326
+            ],
+              "ypr": [
+              -95.615898,
+              0.331612,
+              0.516762
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_1s.p3d",
+              "pos": [
+              1917.447021,
+              7.548019,
+              2234.42749
+            ],
+              "ypr": [
+              26.292824,
+              0.499907,
+              0.31307
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\bush\\b_prunusspinosa_1s.p3d",
+              "pos": [
+              1896.42749,
+              7.496676,
+              2216.022461
+            ],
+              "ypr": [
+              158.492889,
+              0.315975,
+              0.123839
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2155.38623,
+              6.116306,
+              2282.601318
+            ],
+              "ypr": [
+              -18.633974,
+              0.032706,
+              0.388501
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2153.402832,
+              6.113619,
+              2282.48291
+            ],
+              "ypr": [
+              -36.123852,
+              0.607532,
+              0.121917
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2153.046875,
+              6.11309,
+              2282.574219
+            ],
+              "ypr": [
+              -169.793854,
+              0.222663,
+              0.630369
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2149.670166,
+              6.106492,
+              2284.14624
+            ],
+              "ypr": [
+              -44.05043,
+              0.43708,
+              0.683519
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2149.248535,
+              6.105966,
+              2284.068359
+            ],
+              "ypr": [
+              -65.064224,
+              0.218519,
+              0.606037
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2147.03125,
+              6.10121,
+              2284.685059
+            ],
+              "ypr": [
+              -34.242374,
+              0.246183,
+              0.652202
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2147.568115,
+              6.102509,
+              2284.543457
+            ],
+              "ypr": [
+              162.480759,
+              0.210443,
+              0.555942
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2148.137451,
+              6.10376,
+              2284.317139
+            ],
+              "ypr": [
+              139.275238,
+              0.652949,
+              0.604628
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2141.409912,
+              6.08582,
+              2285.98999
+            ],
+              "ypr": [
+              -55.149765,
+              0.397858,
+              0.18938
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2141.994873,
+              6.08738,
+              2285.587402
+            ],
+              "ypr": [
+              -70.938347,
+              0.513665,
+              0.563611
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2142.897949,
+              6.089787,
+              2284.369141
+            ],
+              "ypr": [
+              125.847115,
+              0.005618,
+              0.658076
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2142.81543,
+              6.089835,
+              2284.775635
+            ],
+              "ypr": [
+              -151.381729,
+              0.183014,
+              0.438213
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2141.775391,
+              6.08626,
+              2283.129395
+            ],
+              "ypr": [
+              126.812553,
+              0.273057,
+              0.41373
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2141.134277,
+              6.084817,
+              2282.692627
+            ],
+              "ypr": [
+              106.803749,
+              0.087694,
+              0.353082
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2140.6604,
+              6.083821,
+              2282.69165
+            ],
+              "ypr": [
+              -1.163882,
+              0.186175,
+              0.094124
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2139.179688,
+              6.079873,
+              2282.252197
+            ],
+              "ypr": [
+              -168.380569,
+              0.246333,
+              0.334817
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2138.5979,
+              6.07792,
+              2282.310547
+            ],
+              "ypr": [
+              117.6092,
+              0.196152,
+              0.217066
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2138.279785,
+              6.076806,
+              2282.431885
+            ],
+              "ypr": [
+              -60.735138,
+              0.496361,
+              0.537057
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2137.765381,
+              6.075834,
+              2282.233154
+            ],
+              "ypr": [
+              -70.017151,
+              0.419627,
+              0.229136
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2136.445313,
+              6.073986,
+              2281.908447
+            ],
+              "ypr": [
+              -61.265324,
+              0.385211,
+              0.346759
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2135.903564,
+              6.073024,
+              2281.71582
+            ],
+              "ypr": [
+              -63,
+              0,
+              -0.076396
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2136.46582,
+              6.074014,
+              2282.858398
+            ],
+              "ypr": [
+              92.426125,
+              0.574057,
+              0.450303
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2136.961182,
+              6.074674,
+              2283.199707
+            ],
+              "ypr": [
+              122.256859,
+              0.286409,
+              0.440882
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2135.531494,
+              6.072768,
+              2283.015137
+            ],
+              "ypr": [
+              116.979782,
+              0.644853,
+              0.251737
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2134.850342,
+              6.07186,
+              2283.012207
+            ],
+              "ypr": [
+              163.879425,
+              0.263636,
+              0.430436
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              2134.349121,
+              6.070515,
+              2282.943604
+            ],
+              "ypr": [
+              112.858414,
+              0.548016,
+              0.575488
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1987.303345,
+              6.046708,
+              2256.038574
+            ],
+              "ypr": [
+              -42.286785,
+              0.180408,
+              0.15082
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1987.887451,
+              6.042298,
+              2255.585938
+            ],
+              "ypr": [
+              -86.628166,
+              0.559744,
+              0.463911
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1985.487549,
+              6.058813,
+              2255.247803
+            ],
+              "ypr": [
+              -51.064137,
+              0.406424,
+              0.384912
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1984.890259,
+              6.062795,
+              2255.145264
+            ],
+              "ypr": [
+              -74.616844,
+              0.354449,
+              0.04719
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1988.587036,
+              6.036701,
+              2253.178711
+            ],
+              "ypr": [
+              -109.972168,
+              0.123092,
+              0.04593
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1988.411377,
+              6.03971,
+              2253.185303
+            ],
+              "ypr": [
+              151.326553,
+              0.497728,
+              0.455495
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1987.297852,
+              6.046744,
+              2253.150146
+            ],
+              "ypr": [
+              134.618011,
+              0.334518,
+              0.499459
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1986.648193,
+              6.051075,
+              2252.70874
+            ],
+              "ypr": [
+              118.283035,
+              0.02884,
+              0.292476
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1986.216553,
+              6.053953,
+              2252.655518
+            ],
+              "ypr": [
+              159.466431,
+              0.674504,
+              0.45464
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1984.914795,
+              6.062632,
+              2252.537109
+            ],
+              "ypr": [
+              89.508728,
+              0.170111,
+              0.168103
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1984.363159,
+              6.066309,
+              2252.651611
+            ],
+              "ypr": [
+              -46.302803,
+              0.601679,
+              0.546393
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1983.865601,
+              6.069626,
+              2252.643311
+            ],
+              "ypr": [
+              151.271057,
+              0.319115,
+              0.155477
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1983.4104,
+              6.07266,
+              2252.551514
+            ],
+              "ypr": [
+              108.135048,
+              0.666045,
+              0.118478
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1982.598267,
+              6.078075,
+              2253.583252
+            ],
+              "ypr": [
+              -50.29641,
+              0.418815,
+              0.630668
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1982.099121,
+              6.081402,
+              2253.283447
+            ],
+              "ypr": [
+              96.6754,
+              0.619517,
+              0.251844
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1981.236084,
+              6.087156,
+              2253.472412
+            ],
+              "ypr": [
+              -44.841614,
+              0.517638,
+              0.300337
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1980.625488,
+              6.091227,
+              2253.633545
+            ],
+              "ypr": [
+              -4.037288,
+              0.156845,
+              0.084468
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1980.028198,
+              6.095208,
+              2253.48877
+            ],
+              "ypr": [
+              -85.406296,
+              0.507107,
+              0.501104
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1974.989624,
+              6.115435,
+              2252.331543
+            ],
+              "ypr": [
+              -6.194753,
+              0.410505,
+              0.551861
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1974.508667,
+              6.117359,
+              2252.431396
+            ],
+              "ypr": [
+              -41.720886,
+              0.556924,
+              0.621098
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1973.359497,
+              6.121955,
+              2252.649414
+            ],
+              "ypr": [
+              -65.979607,
+              0.260261,
+              0.615373
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1972.993164,
+              6.12342,
+              2252.349121
+            ],
+              "ypr": [
+              -40.943104,
+              0.501275,
+              0.134072
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1969.235229,
+              6.142806,
+              2253.500732
+            ],
+              "ypr": [
+              121.973854,
+              0.622785,
+              0.478182
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants\\clutter\\c_concretegrass_bunch.p3d",
+              "pos": [
+              1968.731201,
+              6.14683,
+              2253.223389
+            ],
+              "ypr": [
+              81.64711,
+              0.516592,
+              0.64334
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Decal_damage_long1_DE",
+              "pos": [
+              2150.733398,
+              5.893421,
+              2283.110107
+            ],
+              "ypr": [
+              -84.388229,
+              0.512618,
+              0.297176
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Decal_damage_long1_DE",
+              "pos": [
+              2138.206543,
+              5.859865,
+              2282.522217
+            ],
+              "ypr": [
+              -101.065849,
+              0.366113,
+              0.632206
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Decal_damage_long2",
+              "pos": [
+              2115.49707,
+              5.799305,
+              2273.243408
+            ],
+              "ypr": [
+              65.812836,
+              0.076713,
+              0.336868
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Decal_damage_long2",
+              "pos": [
+              2104.279785,
+              5.71171,
+              2272.587891
+            ],
+              "ypr": [
+              -107.86261,
+              0.162527,
+              0.692235
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Decal_damage_long1_DE",
+              "pos": [
+              2091.721436,
+              5.506326,
+              2269.356201
+            ],
+              "ypr": [
+              80.206749,
+              0.059602,
+              0.686879
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Decal_damage_long1_DE",
+              "pos": [
+              2044.15332,
+              5.395942,
+              2258.359131
+            ],
+              "ypr": [
+              -98.811966,
+              0.5001,
+              0.480168
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Decal_damage_long4",
+              "pos": [
+              2013.10144,
+              5.586706,
+              2257.302979
+            ],
+              "ypr": [
+              80.394196,
+              0.669997,
+              0.376538
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Decal_damage_long1_DE",
+              "pos": [
+              1983.85376,
+              5.854692,
+              2252.797119
+            ],
+              "ypr": [
+              -96.37851,
+              0.342678,
+              0.377008
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Decal_damage_long1_DE",
+              "pos": [
+              1971.773315,
+              5.918987,
+              2253.237061
+            ],
+              "ypr": [
+              86.183601,
+              0.503155,
+              0.082011
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Decal_damage_long1_DE",
+              "pos": [
+              1958.252441,
+              5.97667,
+              2250.412598
+            ],
+              "ypr": [
+              -96.712051,
+              0.566772,
+              0.099208
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Decal_damage_long2",
+              "pos": [
+              1945.413574,
+              6.01223,
+              2252.012695
+            ],
+              "ypr": [
+              -96.175323,
+              0.199912,
+              0.006323
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Decal_damage_long1_DE",
+              "pos": [
+              1920.213379,
+              6.099516,
+              2245.135986
+            ],
+              "ypr": [
+              -98.457748,
+              0.459639,
+              0.467265
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Decal_damage_long3",
+              "pos": [
+              1949.414673,
+              5.944908,
+              2238.958984
+            ],
+              "ypr": [
+              0.06429,
+              0.3148,
+              0.348938
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Decal_damage_long1_DE",
+              "pos": [
+              1881.241333,
+              6.18,
+              2240.065674
+            ],
+              "ypr": [
+              73.697815,
+              0.680892,
+              0.670659
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Decal_damage_long1_DE",
+              "pos": [
+              1869.84668,
+              6.183079,
+              2235.631104
+            ],
+              "ypr": [
+              -110.286873,
+              0.13623,
+              0.391663
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Decal_damage_long3",
+              "pos": [
+              1905.783936,
+              6.90851,
+              2267.500244
+            ],
+              "ypr": [
+              159.423904,
+              0.569208,
+              0.22576
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Decal_damage_long1_DE",
+              "pos": [
+              1894.953125,
+              7.862981,
+              2281.093018
+            ],
+              "ypr": [
+              131.95932,
+              0.17323,
+              31.036444
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Decal_damage_long4",
+              "pos": [
+              1877.549683,
+              8.730358,
+              2290.360107
+            ],
+              "ypr": [
+              -70.206573,
+              0.269896,
+              28.473692
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Decal_damage_medium2",
+              "pos": [
+              1909.293945,
+              6.115362,
+              2233.947754
+            ],
+              "ypr": [
+              -44.615108,
+              0.158383,
+              0.432508
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Decal_damage_medium1",
+              "pos": [
+              1905.136353,
+              6.066782,
+              2225.682129
+            ],
+              "ypr": [
+              77.643272,
+              0.232447,
+              0.577027
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_decal_dirt_damage_long3",
+              "pos": [
+              2125.020996,
+              5.833284,
+              2274.908447
+            ],
+              "ypr": [
+              -93.605583,
+              0.209375,
+              0.106108
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_decal_dirt_damage_long3",
+              "pos": [
+              2077.175781,
+              5.310055,
+              2269.915771
+            ],
+              "ypr": [
+              40.299473,
+              0.069108,
+              0.366327
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_decal_dirt_damage_long3",
+              "pos": [
+              2045.723145,
+              5.380292,
+              2264.61792
+            ],
+              "ypr": [
+              59.817802,
+              0.664207,
+              0.28784
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_decal_dirt_damage_long3",
+              "pos": [
+              1969.931885,
+              5.927125,
+              2247.658936
+            ],
+              "ypr": [
+              113.574738,
+              0.102199,
+              0.627848
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_elytrigia_summer.p3d",
+              "pos": [
+              1949.784668,
+              6.230845,
+              2236.88501
+            ],
+              "ypr": [
+              -47.510395,
+              0.480467,
+              0.240885
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_elytrigiatall2_summer.p3d",
+              "pos": [
+              1949.830078,
+              6.248683,
+              2238.007324
+            ],
+              "ypr": [
+              65.111565,
+              0.255027,
+              0.625883
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_elytrigia_summer.p3d",
+              "pos": [
+              1949.864502,
+              6.267345,
+              2239.179443
+            ],
+              "ypr": [
+              -146.26712,
+              0.08936,
+              0.646541
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_elytrigia_green_summer.p3d",
+              "pos": [
+              1949.68689,
+              6.284302,
+              2240.209717
+            ],
+              "ypr": [
+              -2.17994,
+              0.661559,
+              0.312365
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_elytrigiatall2_summer.p3d",
+              "pos": [
+              1948.753784,
+              6.284248,
+              2240.050781
+            ],
+              "ypr": [
+              -52.437828,
+              0.369318,
+              0.268101
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_elytrigia_summer.p3d",
+              "pos": [
+              1948.368164,
+              6.270307,
+              2239.115234
+            ],
+              "ypr": [
+              -5.413926,
+              0.577219,
+              0.259364
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_elytrigiatall2_summer.p3d",
+              "pos": [
+              1948.36792,
+              6.254699,
+              2238.139648
+            ],
+              "ypr": [
+              13.367808,
+              0.154324,
+              0.264833
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "DZ\\plants_bliss\\clutter\\c_elytrigia_green_summer.p3d",
+              "pos": [
+              1949.187256,
+              6.236709,
+              2237.151855
+            ],
+              "ypr": [
+              -162.677383,
+              0.62881,
+              0.460386
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          }
+			]
+            }
