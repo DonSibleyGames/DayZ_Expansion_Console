@@ -1,0 +1,3979 @@
+{
+                      "Objects": [
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9049.982993155796,
+                    350.960465,
+                    4417.224092180718
+                  ],
+                    "ypr": [
+                    276.33151399999997,
+                    -32.000008,
+                    -178
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9050.45096001243,
+                    350.860459,
+                    4422.61013568839
+                  ],
+                    "ypr": [
+                    276.331422,
+                    -39.999996,
+                    179.000061
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_special_a.p3d",
+                    "pos": [
+                    9051.758631569588,
+                    350.110413,
+                    4423.27826450867
+                  ],
+                    "ypr": [
+                    6.331468,
+                    -3,
+                    -55.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9050.590210244929,
+                    350.810455,
+                    4420.215409560212
+                  ],
+                    "ypr": [
+                    96.331437,
+                    -46.000015,
+                    177.999954
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_i.p3d",
+                    "pos": [
+                    9050.134392479968,
+                    350.366104,
+                    4417.902580237989
+                  ],
+                    "ypr": [
+                    276.331468,
+                    57.000008,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9053.578743583035,
+                    347.860275,
+                    4417.447198569232
+                  ],
+                    "ypr": [
+                    186.331453,
+                    -89.000046,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9046.7308187164,
+                    347.860275,
+                    4418.131870933348
+                  ],
+                    "ypr": [
+                    96.331468,
+                    2,
+                    -90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_f.p3d",
+                    "pos": [
+                    9048.433369557575,
+                    344.997276,
+                    4418.071335880349
+                  ],
+                    "ypr": [
+                    6.331463,
+                    -89.000046,
+                    -0.000005
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_j.p3d",
+                    "pos": [
+                    9051.018790074366,
+                    343.79720299999997,
+                    4417.784465164301
+                  ],
+                    "ypr": [
+                    276.331453,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9058.480195630393,
+                    345.26586199999997,
+                    4416.848775893291
+                  ],
+                    "ypr": [
+                    8.331468000000001,
+                    -89.000046,
+                    -0.000009
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_l.p3d",
+                    "pos": [
+                    9055.911210133792,
+                    342.847145,
+                    4417.236940992837
+                  ],
+                    "ypr": [
+                    6.331459,
+                    89.000046,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_c.p3d",
+                    "pos": [
+                    9056.465979976652,
+                    341.097038,
+                    4417.26558652972
+                  ],
+                    "ypr": [
+                    186.331483,
+                    0,
+                    -11
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_b.p3d",
+                    "pos": [
+                    9056.023610230392,
+                    343.04715699999997,
+                    4417.303603079921
+                  ],
+                    "ypr": [
+                    6.331468,
+                    0,
+                    -72
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_roof_b.p3d",
+                    "pos": [
+                    9054.40976234174,
+                    346.86699699999997,
+                    4418.9976112719605
+                  ],
+                    "ypr": [
+                    332.331483,
+                    -44.000027,
+                    134.000427
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9056.435988192003,
+                    346.89739199999997,
+                    4418.657042180776
+                  ],
+                    "ypr": [
+                    241.33143,
+                    -32.000008,
+                    153.999924
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9056.748457433187,
+                    346.89739199999997,
+                    4418.8462631267785
+                  ],
+                    "ypr": [
+                    35.331474,
+                    -26.999983,
+                    -156.000015
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+                    "pos": [
+                    9056.448632547932,
+                    347.34742,
+                    4423.523824571513
+                  ],
+                    "ypr": [
+                    66.33145999999999,
+                    -24.999996,
+                    -166.000015
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_l.p3d",
+                    "pos": [
+                    9057.477413485323,
+                    346.9534,
+                    4425.680509946025
+                  ],
+                    "ypr": [
+                    161.331499,
+                    -19.999983,
+                    155.000031
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+                    "pos": [
+                    9055.735741338542,
+                    347.003403,
+                    4426.12679216334
+                  ],
+                    "ypr": [
+                    290.331415,
+                    -10.000002,
+                    -146.000229
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_special_a.p3d",
+                    "pos": [
+                    9058.945519280625,
+                    344.465744,
+                    4422.320645387965
+                  ],
+                    "ypr": [
+                    7.331468,
+                    11,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9058.73313416164,
+                    342.86564699999997,
+                    4419.953135718647
+                  ],
+                    "ypr": [
+                    276.331476,
+                    85.000008,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_l.p3d",
+                    "pos": [
+                    9058.67930520859,
+                    344.915772,
+                    4419.0146124935545
+                  ],
+                    "ypr": [
+                    96.331506,
+                    -89.000046,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_a.p3d",
+                    "pos": [
+                    9059.534980362992,
+                    345.453308,
+                    4427.179769544687
+                  ],
+                    "ypr": [
+                    186.331422,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9054.852666738738,
+                    345.16578699999997,
+                    4427.85962828633
+                  ],
+                    "ypr": [
+                    186.331453,
+                    -89.000046,
+                    -0.000063
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_i.p3d",
+                    "pos": [
+                    9058.52172817101,
+                    342.86564699999997,
+                    4427.419813444055
+                  ],
+                    "ypr": [
+                    186.331529,
+                    -89.000046,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_c.p3d",
+                    "pos": [
+                    9058.348593998762,
+                    342.76588499999997,
+                    4427.320809863066
+                  ],
+                    "ypr": [
+                    186.331483,
+                    0,
+                    88
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_k.p3d",
+                    "pos": [
+                    9053.784376279822,
+                    343.630875,
+                    4429.024836840436
+                  ],
+                    "ypr": [
+                    186.331483,
+                    -87.000038,
+                    -0.000005
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_o.p3d",
+                    "pos": [
+                    9048.59188321166,
+                    344.115723,
+                    4429.567013537153
+                  ],
+                    "ypr": [
+                    96.331468,
+                    0,
+                    -90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_l.p3d",
+                    "pos": [
+                    9047.888850568297,
+                    343.38086,
+                    4427.545160951517
+                  ],
+                    "ypr": [
+                    276.33151399999997,
+                    -89.000046,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_o.p3d",
+                    "pos": [
+                    9054.439504721837,
+                    342.43080199999997,
+                    4427.581755037605
+                  ],
+                    "ypr": [
+                    6.331468,
+                    0,
+                    90.000015
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_g.p3d",
+                    "pos": [
+                    9049.095909802763,
+                    342.71563699999996,
+                    4428.512548650975
+                  ],
+                    "ypr": [
+                    233.331529,
+                    0,
+                    -179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_f.p3d",
+                    "pos": [
+                    9053.654839683877,
+                    342.865891,
+                    4427.935970664101
+                  ],
+                    "ypr": [
+                    34.331478,
+                    0,
+                    -179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9047.062609431283,
+                    342.65995799999996,
+                    4422.742331337857
+                  ],
+                    "ypr": [
+                    6.331468,
+                    0,
+                    90.000038
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_k.p3d",
+                    "pos": [
+                    9047.204301515509,
+                    347.815949,
+                    4424.270571956392
+                  ],
+                    "ypr": [
+                    276.331476,
+                    -89.000046,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_i.p3d",
+                    "pos": [
+                    9046.972231130429,
+                    342.76588499999997,
+                    4421.735886499746
+                  ],
+                    "ypr": [
+                    276.331476,
+                    -89.000046,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_j.p3d",
+                    "pos": [
+                    9046.71217441976,
+                    346.265854,
+                    4419.381889488065
+                  ],
+                    "ypr": [
+                    6.331468,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_c.p3d",
+                    "pos": [
+                    9046.433930995361,
+                    342.71563699999996,
+                    4422.153932260603
+                  ],
+                    "ypr": [
+                    96.331468,
+                    0,
+                    1
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_b.p3d",
+                    "pos": [
+                    9046.627515125845,
+                    343.015656,
+                    4421.676479533585
+                  ],
+                    "ypr": [
+                    6.331468,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9135.28636185335,
+                    349.026611,
+                    4429.200921800168
+                  ],
+                    "ypr": [
+                    93.769003,
+                    -36.000011,
+                    -179
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_special_a.p3d",
+                    "pos": [
+                    9136.029576713741,
+                    348.32415000000003,
+                    4431.347051808585
+                  ],
+                    "ypr": [
+                    2.7689809999999966,
+                    0,
+                    -53.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_l.p3d",
+                    "pos": [
+                    9135.957964530557,
+                    348.822059,
+                    4434.415900614869
+                  ],
+                    "ypr": [
+                    93.769012,
+                    -43.000011,
+                    -179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9135.770978012953,
+                    349.019272,
+                    4436.605227209567
+                  ],
+                    "ypr": [
+                    183.76905,
+                    0,
+                    -37
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_special_a.p3d",
+                    "pos": [
+                    9136.612217275378,
+                    346.78274500000003,
+                    4436.47266019393
+                  ],
+                    "ypr": [
+                    93.769012,
+                    -24.999992,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+                    "pos": [
+                    9133.559205248788,
+                    345.876098,
+                    4436.508731893703
+                  ],
+                    "ypr": [
+                    93.76897600000001,
+                    -84.000008,
+                    89.999954
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9139.195625238797,
+                    346.019088,
+                    4436.014748227064
+                  ],
+                    "ypr": [
+                    273.768966,
+                    0,
+                    -90.000038
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_a.p3d",
+                    "pos": [
+                    9132.264770995982,
+                    340.568756,
+                    4436.476821637822
+                  ],
+                    "ypr": [
+                    88.769013,
+                    0,
+                    -90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_c.p3d",
+                    "pos": [
+                    9133.122193439987,
+                    339.018661,
+                    4436.32019078546
+                  ],
+                    "ypr": [
+                    183.769012,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_g.p3d",
+                    "pos": [
+                    9133.845348914629,
+                    345.969085,
+                    4436.2725506109555
+                  ],
+                    "ypr": [
+                    4.769012000000004,
+                    -1,
+                    -167.000015
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_g.p3d",
+                    "pos": [
+                    9138.315181424501,
+                    339.768707,
+                    4435.9831733147585
+                  ],
+                    "ypr": [
+                    3.7690120000000036,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_c.p3d",
+                    "pos": [
+                    9138.24614229434,
+                    341.01878300000004,
+                    4435.937614017874
+                  ],
+                    "ypr": [
+                    3.7690120000000036,
+                    -0.2,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_u.p3d",
+                    "pos": [
+                    9137.097811767148,
+                    342.818893,
+                    4438.257621553324
+                  ],
+                    "ypr": [
+                    93.769012,
+                    0,
+                    90.000015
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_s.p3d",
+                    "pos": [
+                    9135.150208051116,
+                    343.798759,
+                    4436.925633090053
+                  ],
+                    "ypr": [
+                    273.768997,
+                    -42.000015,
+                    -177.999969
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_k.p3d",
+                    "pos": [
+                    9135.788992180449,
+                    344.128784,
+                    4437.248060405551
+                  ],
+                    "ypr": [
+                    93.769012,
+                    -36.999992,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_g.p3d",
+                    "pos": [
+                    9137.087780439799,
+                    342.88250700000003,
+                    4436.103714400098
+                  ],
+                    "ypr": [
+                    354.768997,
+                    -7,
+                    -45.999992
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+                    "pos": [
+                    9131.673629649107,
+                    343.768951,
+                    4435.156631555361
+                  ],
+                    "ypr": [
+                    3.7690120000000036,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_d.p3d",
+                    "pos": [
+                    9131.86353635395,
+                    340.568756,
+                    4436.424583543257
+                  ],
+                    "ypr": [
+                    183.769012,
+                    -1,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_a.p3d",
+                    "pos": [
+                    9131.669114238823,
+                    343.068908,
+                    4433.902178191356
+                  ],
+                    "ypr": [
+                    7.76900400000001,
+                    -1,
+                    89.000015
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_g.p3d",
+                    "pos": [
+                    9131.661445629106,
+                    343.26892100000003,
+                    4434.5183399412845
+                  ],
+                    "ypr": [
+                    93.769012,
+                    0,
+                    -179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_a.p3d",
+                    "pos": [
+                    9131.621396186132,
+                    340.46875,
+                    4433.805107957956
+                  ],
+                    "ypr": [
+                    272.768966,
+                    0,
+                    -90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9132.072993073214,
+                    348.70806100000004,
+                    4430.149409853019
+                  ],
+                    "ypr": [
+                    6.76900400000001,
+                    -57.000008,
+                    178.000031
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9132.345563578614,
+                    348.669006,
+                    4429.979483090703
+                  ],
+                    "ypr": [
+                    180.769058,
+                    -57.000008,
+                    -179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_roof_b.p3d",
+                    "pos": [
+                    9135.029301406887,
+                    348.924186,
+                    4429.902450789605
+                  ],
+                    "ypr": [
+                    40.769027,
+                    -57.000027,
+                    111.000572
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_roof_b.p3d",
+                    "pos": [
+                    9135.068368803988,
+                    349.06903,
+                    4429.661585768243
+                  ],
+                    "ypr": [
+                    240.769027,
+                    33.999992,
+                    37.999996
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9135.212296121521,
+                    348.971519,
+                    4433.189043127853
+                  ],
+                    "ypr": [
+                    273.768997,
+                    -49.000015,
+                    177.999969
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+                    "pos": [
+                    9137.279272258902,
+                    347.718948,
+                    4433.9156133030065
+                  ],
+                    "ypr": [
+                    277.769012,
+                    32.999989,
+                    -179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+                    "pos": [
+                    9130.78498812522,
+                    348.11897200000004,
+                    4430.838711837545
+                  ],
+                    "ypr": [
+                    218.769012,
+                    50.000008,
+                    -153.000137
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_g.p3d",
+                    "pos": [
+                    9130.392487132054,
+                    347.068908,
+                    4431.487564990408
+                  ],
+                    "ypr": [
+                    3.7690199999999976,
+                    36.000011,
+                    -171.999969
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+                    "pos": [
+                    9132.248114416328,
+                    346.76889,
+                    4435.5153520422855
+                  ],
+                    "ypr": [
+                    64.76893000000001,
+                    30.999987,
+                    163.000015
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9135.364008244362,
+                    348.919265,
+                    4436.561010458551
+                  ],
+                    "ypr": [
+                    183.769012,
+                    0,
+                    -145
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_special_a.p3d",
+                    "pos": [
+                    9139.181243384213,
+                    341.318802,
+                    4433.937116023291
+                  ],
+                    "ypr": [
+                    183.769004,
+                    -7.000001,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_r.p3d",
+                    "pos": [
+                    9139.292683022772,
+                    343.768951,
+                    4433.346824908942
+                  ],
+                    "ypr": [
+                    358.769027,
+                    0,
+                    -89.999992
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9139.382054195,
+                    345.76907300000005,
+                    4435.464103489348
+                  ],
+                    "ypr": [
+                    273.768966,
+                    -89.000046,
+                    0.00005
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+                    "pos": [
+                    9139.144959724204,
+                    344.26898200000005,
+                    4432.625682685168
+                  ],
+                    "ypr": [
+                    4.769027000000008,
+                    12,
+                    -89.999992
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9138.850075874327,
+                    345.66906700000004,
+                    4428.149390172931
+                  ],
+                    "ypr": [
+                    273.768997,
+                    -88.000015,
+                    0.000009
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_j.p3d",
+                    "pos": [
+                    9138.65659408798,
+                    342.76889,
+                    4424.5107688129365
+                  ],
+                    "ypr": [
+                    2.7689809999999966,
+                    0,
+                    -92.000031
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_c.p3d",
+                    "pos": [
+                    9138.756000787796,
+                    339.768707,
+                    4426.721344501401
+                  ],
+                    "ypr": [
+                    93.769012,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_g.p3d",
+                    "pos": [
+                    9138.745370430082,
+                    342.26886,
+                    4426.559977269338
+                  ],
+                    "ypr": [
+                    93.769012,
+                    0,
+                    -5.000009
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_c.p3d",
+                    "pos": [
+                    9139.006287974205,
+                    346.169098,
+                    4430.52066636623
+                  ],
+                    "ypr": [
+                    93.769012,
+                    -1,
+                    -179.999954
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_c.p3d",
+                    "pos": [
+                    9138.718263792407,
+                    345.56906100000003,
+                    4426.149734817214
+                  ],
+                    "ypr": [
+                    93.769012,
+                    0,
+                    -96.999977
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_b.p3d",
+                    "pos": [
+                    9138.775649631858,
+                    340.668762,
+                    4427.019611000519
+                  ],
+                    "ypr": [
+                    273.768997,
+                    89.000046,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+                    "pos": [
+                    9134.043748536802,
+                    346.86914,
+                    4423.281978421522
+                  ],
+                    "ypr": [
+                    93.769012,
+                    -27.00001,
+                    -91.999969
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_g.p3d",
+                    "pos": [
+                    9134.956435717013,
+                    345.51905800000003,
+                    4423.372177632915
+                  ],
+                    "ypr": [
+                    273.769027,
+                    -55.000004,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9134.653377112121,
+                    348.71925300000004,
+                    4423.191706655732
+                  ],
+                    "ypr": [
+                    93.76902100000001,
+                    -40.000011,
+                    -89.999992
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_l.p3d",
+                    "pos": [
+                    9136.855042943473,
+                    346.069091,
+                    4423.269717364754
+                  ],
+                    "ypr": [
+                    3.7690120000000036,
+                    -89.000046,
+                    -0.000005
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9138.307103402547,
+                    340.46875,
+                    4423.224168637124
+                  ],
+                    "ypr": [
+                    273.768966,
+                    0,
+                    90.000038
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_j.p3d",
+                    "pos": [
+                    9135.221295816056,
+                    344.01896600000003,
+                    4423.477560158789
+                  ],
+                    "ypr": [
+                    93.769012,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_g.p3d",
+                    "pos": [
+                    9131.317822671863,
+                    342.61888100000004,
+                    4423.860441438926
+                  ],
+                    "ypr": [
+                    3.7690120000000036,
+                    2,
+                    12.00001
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_c.p3d",
+                    "pos": [
+                    9131.14094222486,
+                    340.16873100000004,
+                    4423.821985381295
+                  ],
+                    "ypr": [
+                    183.769012,
+                    0,
+                    -9.000002
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9130.834123449495,
+                    345.869079,
+                    4423.934328887146
+                  ],
+                    "ypr": [
+                    3.7690120000000036,
+                    -87.000038,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9134.671861183006,
+                    348.86901800000004,
+                    4426.625013309514
+                  ],
+                    "ypr": [
+                    273.768997,
+                    -36.000011,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9129.382835400476,
+                    344.06896900000004,
+                    4430.330939168539
+                  ],
+                    "ypr": [
+                    273.768997,
+                    -89.000046,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9129.141278712019,
+                    343.26892100000003,
+                    4429.902863876014
+                  ],
+                    "ypr": [
+                    93.769007,
+                    -83.000015,
+                    -0.000005
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9129.550530234106,
+                    340.568756,
+                    4431.55139952199
+                  ],
+                    "ypr": [
+                    183.76905,
+                    89.000046,
+                    -89.999992
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_l.p3d",
+                    "pos": [
+                    9129.595035526865,
+                    340.568756,
+                    4432.226983175745
+                  ],
+                    "ypr": [
+                    273.768997,
+                    89.000046,
+                    0.000009
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_a.p3d",
+                    "pos": [
+                    9129.627057019054,
+                    342.918899,
+                    4434.234339855171
+                  ],
+                    "ypr": [
+                    183.769027,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_c.p3d",
+                    "pos": [
+                    9129.48216306265,
+                    339.61869800000005,
+                    4428.9923056822345
+                  ],
+                    "ypr": [
+                    93.769012,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_a.p3d",
+                    "pos": [
+                    9131.124220526595,
+                    343.21891700000003,
+                    4426.3758181014455
+                  ],
+                    "ypr": [
+                    276.769043,
+                    0,
+                    90.000015
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_b.p3d",
+                    "pos": [
+                    9131.111314285674,
+                    340.21873400000004,
+                    4426.073870420059
+                  ],
+                    "ypr": [
+                    93.769012,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9099.120839108098,
+                    349.569321,
+                    4453.796049836848
+                  ],
+                    "ypr": [
+                    6.329002000000003,
+                    -29.999987,
+                    177.999939
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9092.327762821815,
+                    348.456314,
+                    4456.610165420256
+                  ],
+                    "ypr": [
+                    6.329048,
+                    -52.000008,
+                    178.999939
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9099.047095290689,
+                    348.426262,
+                    4455.87711161114
+                  ],
+                    "ypr": [
+                    6.329048,
+                    -57.999996,
+                    178.999954
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_l.p3d",
+                    "pos": [
+                    9098.71723351283,
+                    348.711685,
+                    4455.631510818541
+                  ],
+                    "ypr": [
+                    186.32900999999998,
+                    25.000008,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9096.503096774939,
+                    349.562233,
+                    4453.692391917152
+                  ],
+                    "ypr": [
+                    187.329002,
+                    -31.999987,
+                    -179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_special_a.p3d",
+                    "pos": [
+                    9093.830725293883,
+                    347.573685,
+                    4451.540233161412
+                  ],
+                    "ypr": [
+                    96.328956,
+                    0,
+                    -37.000004
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9097.973244887347,
+                    348.423737,
+                    4451.525176222265
+                  ],
+                    "ypr": [
+                    186.32900999999998,
+                    -60.000065,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_special_a.p3d",
+                    "pos": [
+                    9092.7104447091,
+                    346.805161,
+                    4455.356320790992
+                  ],
+                    "ypr": [
+                    6.329017000000007,
+                    -10,
+                    -179.999939
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_c.p3d",
+                    "pos": [
+                    9092.222694514821,
+                    348.155243,
+                    4455.04086947272
+                  ],
+                    "ypr": [
+                    212.32899400000002,
+                    -89.000046,
+                    -0.000009
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9092.536979936136,
+                    345.355072,
+                    4455.352532993555
+                  ],
+                    "ypr": [
+                    96.32898700000001,
+                    -89.000046,
+                    -0.000036
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9091.978342701937,
+                    345.55508399999997,
+                    4450.2712899825265
+                  ],
+                    "ypr": [
+                    276.329002,
+                    -89.000046,
+                    -179.999954
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_r.p3d",
+                    "pos": [
+                    9092.27417930629,
+                    343.25494399999997,
+                    4453.3921353824935
+                  ],
+                    "ypr": [
+                    186.329002,
+                    0,
+                    -90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_l.p3d",
+                    "pos": [
+                    9092.38360671197,
+                    342.404892,
+                    4454.423278915214
+                  ],
+                    "ypr": [
+                    96.32898700000001,
+                    89.000046,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_g.p3d",
+                    "pos": [
+                    9092.558763006571,
+                    341.904862,
+                    4455.095363313686
+                  ],
+                    "ypr": [
+                    276.329002,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_f.p3d",
+                    "pos": [
+                    9092.875111865775,
+                    342.255127,
+                    4457.947581293531
+                  ],
+                    "ypr": [
+                    276.342447,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_d.p3d",
+                    "pos": [
+                    9092.958346057185,
+                    343.505203,
+                    4458.244458157616
+                  ],
+                    "ypr": [
+                    276.329002,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_c.p3d",
+                    "pos": [
+                    9092.135616679334,
+                    344.75527999999997,
+                    4450.957087255257
+                  ],
+                    "ypr": [
+                    96.32907799999998,
+                    0,
+                    -20.000006
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9094.900132690418,
+                    345.73202499999996,
+                    4449.901075397354
+                  ],
+                    "ypr": [
+                    6.328994000000009,
+                    50.000008,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9091.949019904163,
+                    345.73202499999996,
+                    4450.3290555123485
+                  ],
+                    "ypr": [
+                    186.32896399999998,
+                    -12.000002,
+                    -1
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9097.75560230882,
+                    345.582016,
+                    4449.342955563831
+                  ],
+                    "ypr": [
+                    186.32900999999998,
+                    -21.000008,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_special_a.p3d",
+                    "pos": [
+                    9101.541839111354,
+                    347.60521,
+                    4453.4292840062135
+                  ],
+                    "ypr": [
+                    6.329002000000003,
+                    11,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9101.622455713172,
+                    345.955109,
+                    4453.689588528718
+                  ],
+                    "ypr": [
+                    96.32898700000001,
+                    89.000046,
+                    -0.000036
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9102.257648671608,
+                    345.455078,
+                    4454.8453465754765
+                  ],
+                    "ypr": [
+                    276.328997,
+                    -89.000046,
+                    -0.000005
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_l.p3d",
+                    "pos": [
+                    9101.92190345403,
+                    345.305069,
+                    4451.372928864153
+                  ],
+                    "ypr": [
+                    276.328997,
+                    -89.000046,
+                    -0.000005
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9101.130272230399,
+                    342.354889,
+                    4449.115068160013
+                  ],
+                    "ypr": [
+                    96.32898700000001,
+                    89.000046,
+                    0.000036
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_k.p3d",
+                    "pos": [
+                    9101.871548447312,
+                    345.055054,
+                    4454.890648322121
+                  ],
+                    "ypr": [
+                    276.328997,
+                    -89.000046,
+                    -0.000005
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_i.p3d",
+                    "pos": [
+                    9100.340713113314,
+                    344.255005,
+                    4446.393983821616
+                  ],
+                    "ypr": [
+                    191.32899400000002,
+                    67.000008,
+                    -90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9095.050271630918,
+                    343.054932,
+                    4446.687416185156
+                  ],
+                    "ypr": [
+                    6.329002000000003,
+                    -89.000046,
+                    -0.000005
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9097.055219695898,
+                    344.455017,
+                    4446.364426599739
+                  ],
+                    "ypr": [
+                    6.329009999999997,
+                    -75.000038,
+                    0.000036
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_a.p3d",
+                    "pos": [
+                    9091.78765045974,
+                    345.47556299999997,
+                    4450.031497918676
+                  ],
+                    "ypr": [
+                    186.329002,
+                    0,
+                    90.000046
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9101.877989080127,
+                    342.104874,
+                    4457.724384104299
+                  ],
+                    "ypr": [
+                    6.328970999999996,
+                    89.000046,
+                    -0.000009
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9099.030564705528,
+                    344.705033,
+                    4458.040201289008
+                  ],
+                    "ypr": [
+                    186.329002,
+                    -89.000046,
+                    -0.000005
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_g.p3d",
+                    "pos": [
+                    9095.911735939406,
+                    342.05404699999997,
+                    4458.33581422188
+                  ],
+                    "ypr": [
+                    6.329002000000003,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9178.6498857989,
+                    342.35692600000004,
+                    4390.84184400016
+                  ],
+                    "ypr": [
+                    277.043083,
+                    -48.000011,
+                    177.999954
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9177.944382900489,
+                    342.50779,
+                    4384.514753917344
+                  ],
+                    "ypr": [
+                    277.043083,
+                    -39.000015,
+                    179.999954
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+                    "pos": [
+                    9176.988774810905,
+                    340.907692,
+                    4393.299700252328
+                  ],
+                    "ypr": [
+                    68.043092,
+                    35.000019,
+                    163.000397
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_roof_a.p3d",
+                    "pos": [
+                    9182.15292047107,
+                    339.95763400000004,
+                    4391.797253329598
+                  ],
+                    "ypr": [
+                    277.043022,
+                    -86.000015,
+                    -0.000009
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9179.062617890215,
+                    342.35778100000005,
+                    4390.731219703341
+                  ],
+                    "ypr": [
+                    97.043098,
+                    -46.999992,
+                    179.999924
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_roof_b.p3d",
+                    "pos": [
+                    9180.050942830854,
+                    341.907753,
+                    4394.374743610865
+                  ],
+                    "ypr": [
+                    277.043083,
+                    -21.999998,
+                    178.999969
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_special_a.p3d",
+                    "pos": [
+                    9179.013005966586,
+                    341.85775,
+                    4386.75979128101
+                  ],
+                    "ypr": [
+                    0.043082999999995764,
+                    7,
+                    -51.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9176.104301042695,
+                    339.912689,
+                    4390.522095592662
+                  ],
+                    "ypr": [
+                    97.043093,
+                    -89.000046,
+                    -0.000005
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9175.50295770118,
+                    337.31253100000004,
+                    4385.648768702423
+                  ],
+                    "ypr": [
+                    277.043083,
+                    88.000015,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_i.p3d",
+                    "pos": [
+                    9176.413627001004,
+                    337.41253700000004,
+                    4393.0221764192775
+                  ],
+                    "ypr": [
+                    277.043083,
+                    -89.000046,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_special_a.p3d",
+                    "pos": [
+                    9180.089075817637,
+                    340.012695,
+                    4393.71012581928
+                  ],
+                    "ypr": [
+                    278.043037,
+                    58.000011,
+                    -179.999924
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9181.962326766075,
+                    339.862686,
+                    4393.277333563622
+                  ],
+                    "ypr": [
+                    279.043067,
+                    -86.000015,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9181.141028665383,
+                    339.76268000000005,
+                    4388.668629432826
+                  ],
+                    "ypr": [
+                    97.043093,
+                    -89.000046,
+                    179.999954
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_special_a.p3d",
+                    "pos": [
+                    9177.397983938177,
+                    339.71267700000004,
+                    4384.177074090782
+                  ],
+                    "ypr": [
+                    97.043098,
+                    1,
+                    -73
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_l.p3d",
+                    "pos": [
+                    9177.985556402959,
+                    340.262711,
+                    4385.259908179305
+                  ],
+                    "ypr": [
+                    7.0431290000000075,
+                    89.000046,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9180.024333975098,
+                    339.412659,
+                    4382.055051247567
+                  ],
+                    "ypr": [
+                    274.043067,
+                    -1.000009,
+                    165.999924
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_a.p3d",
+                    "pos": [
+                    9175.60809203671,
+                    337.212525,
+                    4385.422224091386
+                  ],
+                    "ypr": [
+                    277.043083,
+                    88.000015,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_b.p3d",
+                    "pos": [
+                    9180.210208202596,
+                    339.412659,
+                    4384.062233913398
+                  ],
+                    "ypr": [
+                    277.043037,
+                    -89.000046,
+                    -0.000005
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_c.p3d",
+                    "pos": [
+                    9180.290511559475,
+                    335.81243900000004,
+                    4385.099703989202
+                  ],
+                    "ypr": [
+                    277.043052,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_g.p3d",
+                    "pos": [
+                    9177.355724681998,
+                    337.162521,
+                    4393.875212038193
+                  ],
+                    "ypr": [
+                    7.0430980000000005,
+                    1,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_c.p3d",
+                    "pos": [
+                    9179.187128808135,
+                    335.362412,
+                    4382.128877049334
+                  ],
+                    "ypr": [
+                    6.0430669999999935,
+                    -1,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_o.p3d",
+                    "pos": [
+                    9176.397624134932,
+                    337.662552,
+                    4382.320062528924
+                  ],
+                    "ypr": [
+                    97.043098,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9146.886224989557,
+                    342.581779,
+                    4390.820416345247
+                  ],
+                    "ypr": [
+                    100.011062,
+                    -40.000011,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_k.p3d",
+                    "pos": [
+                    9147.81225188164,
+                    342.854607,
+                    4396.307139120095
+                  ],
+                    "ypr": [
+                    100.011093,
+                    -40.000015,
+                    -0.000009
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_l.p3d",
+                    "pos": [
+                    9147.798735842809,
+                    342.481773,
+                    4394.402599384593
+                  ],
+                    "ypr": [
+                    98.011116,
+                    -40.000011,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9146.046877264107,
+                    342.654633,
+                    4387.658703747342
+                  ],
+                    "ypr": [
+                    280.011055,
+                    -34.999992,
+                    179.999924
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9147.035504274485,
+                    342.673973,
+                    4393.854271998649
+                  ],
+                    "ypr": [
+                    280.011093,
+                    -40.999996,
+                    178.000046
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_roof_b.p3d",
+                    "pos": [
+                    9143.997674217182,
+                    340.24850499999997,
+                    4397.724518297394
+                  ],
+                    "ypr": [
+                    152.01115399999998,
+                    -68.000053,
+                    -93.000229
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_special_a.p3d",
+                    "pos": [
+                    9144.595832837485,
+                    340.90610499999997,
+                    4394.3150131964485
+                  ],
+                    "ypr": [
+                    190.011047,
+                    -5,
+                    -54.999989
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_special_a.p3d",
+                    "pos": [
+                    9150.022964830729,
+                    341.086075,
+                    4393.957492529463
+                  ],
+                    "ypr": [
+                    358.011077,
+                    4,
+                    -79
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+                    "pos": [
+                    9149.49246728622,
+                    341.131691,
+                    4391.2378882321855
+                  ],
+                    "ypr": [
+                    67.011307,
+                    -8.000001,
+                    -173.000031
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9147.978105348573,
+                    341.231697,
+                    4387.198918376633
+                  ],
+                    "ypr": [
+                    10.011093,
+                    0,
+                    -167.000015
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_g.p3d",
+                    "pos": [
+                    9151.474395787847,
+                    340.981682,
+                    4395.146406549883
+                  ],
+                    "ypr": [
+                    357.010863,
+                    0,
+                    -168.999969
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9143.842377964082,
+                    337.48585499999996,
+                    4397.621395704336
+                  ],
+                    "ypr": [
+                    99.01110800000001,
+                    86.000015,
+                    -178.000031
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9143.465328785082,
+                    339.83599899999996,
+                    4394.04734538176
+                  ],
+                    "ypr": [
+                    100.011093,
+                    -89.000046,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_g.p3d",
+                    "pos": [
+                    9143.651131018321,
+                    336.73580899999996,
+                    4394.524638939647
+                  ],
+                    "ypr": [
+                    100.011131,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_c.p3d",
+                    "pos": [
+                    9143.939793599748,
+                    335.93575999999996,
+                    4396.159873057862
+                  ],
+                    "ypr": [
+                    100.011093,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_a.p3d",
+                    "pos": [
+                    9142.430661080285,
+                    339.78599499999996,
+                    4388.1860940774295
+                  ],
+                    "ypr": [
+                    20.011099,
+                    0,
+                    90.000038
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_b.p3d",
+                    "pos": [
+                    9142.697274797089,
+                    337.18614199999996,
+                    4389.12117365806
+                  ],
+                    "ypr": [
+                    280.011093,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9153.841379189176,
+                    339.78599499999996,
+                    4389.828047718945
+                  ],
+                    "ypr": [
+                    280.011093,
+                    -89.000046,
+                    -0.000005
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+                    "pos": [
+                    9146.0904636702,
+                    340.83606,
+                    4387.5024140785945
+                  ],
+                    "ypr": [
+                    280.011055,
+                    -28.99999,
+                    -90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_l.p3d",
+                    "pos": [
+                    9150.652913819804,
+                    339.88600199999996,
+                    4386.6462464679635
+                  ],
+                    "ypr": [
+                    281.011093,
+                    -83.000015,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_k.p3d",
+                    "pos": [
+                    9143.804038399814,
+                    339.98600799999997,
+                    4388.040777995621
+                  ],
+                    "ypr": [
+                    190.011078,
+                    -89.000046,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_c.p3d",
+                    "pos": [
+                    9152.930051192592,
+                    336.03576699999996,
+                    4387.130895451559
+                  ],
+                    "ypr": [
+                    280.011093,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_g.p3d",
+                    "pos": [
+                    9153.084549218656,
+                    336.135773,
+                    4387.844899026212
+                  ],
+                    "ypr": [
+                    280.011093,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_g.p3d",
+                    "pos": [
+                    9152.197801430144,
+                    336.485794,
+                    4386.491001028655
+                  ],
+                    "ypr": [
+                    10.011093,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_a.p3d",
+                    "pos": [
+                    9154.38327258219,
+                    340.036011,
+                    4395.268706503268
+                  ],
+                    "ypr": [
+                    195.01115399999998,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+                    "pos": [
+                    9149.687223778414,
+                    340.036011,
+                    4396.78593705222
+                  ],
+                    "ypr": [
+                    10.011084,
+                    -89.000046,
+                    -0.000009
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_l.p3d",
+                    "pos": [
+                    9152.148433368478,
+                    340.436035,
+                    4396.48275669092
+                  ],
+                    "ypr": [
+                    280.011139,
+                    -79.000015,
+                    -89.999992
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_c.p3d",
+                    "pos": [
+                    9144.863734116241,
+                    336.535797,
+                    4397.485091842421
+                  ],
+                    "ypr": [
+                    190.011047,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    8957.090739527406,
+                    348.357056,
+                    4429.909668013119
+                  ],
+                    "ypr": [
+                    179.752906,
+                    -32.000008,
+                    178.999954
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_roof_b.p3d",
+                    "pos": [
+                    8959.978634580555,
+                    348.227898,
+                    4429.913795150577
+                  ],
+                    "ypr": [
+                    320.752929,
+                    -44.000027,
+                    119.000633
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+                    "pos": [
+                    8964.344431705777,
+                    347.456879,
+                    4429.0709403806295
+                  ],
+                    "ypr": [
+                    146.75298199999997,
+                    -36.000011,
+                    -162.000153
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    8954.14042398115,
+                    348.483269,
+                    4429.976946371672
+                  ],
+                    "ypr": [
+                    359.752921,
+                    -37.999996,
+                    -179.000061
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    8958.89798057522,
+                    348.177895,
+                    4430.191371765802
+                  ],
+                    "ypr": [
+                    359.752921,
+                    -46.999992,
+                    179.999939
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_roof_a.p3d",
+                    "pos": [
+                    8952.365207038476,
+                    345.414681,
+                    4430.629387397596
+                  ],
+                    "ypr": [
+                    273.75295900000003,
+                    -83.000015,
+                    171.000031
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_l.p3d",
+                    "pos": [
+                    8954.40187350746,
+                    346.464745,
+                    4428.151625816063
+                  ],
+                    "ypr": [
+                    268.752883,
+                    -32.999989,
+                    179.999954
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_l.p3d",
+                    "pos": [
+                    8963.394105085103,
+                    348.027886,
+                    4430.350292303864
+                  ],
+                    "ypr": [
+                    359.752921,
+                    -40.999996,
+                    -179.999954
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    8956.274299356543,
+                    345.8069,
+                    4432.516841623066
+                  ],
+                    "ypr": [
+                    179.752906,
+                    -89.000046,
+                    -0.000063
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    8959.482350140142,
+                    342.806717,
+                    4432.480674952349
+                  ],
+                    "ypr": [
+                    179.752906,
+                    89.000046,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_a.p3d",
+                    "pos": [
+                    8959.23582987883,
+                    345.856903,
+                    4432.279609045273
+                  ],
+                    "ypr": [
+                    91.75295200000001,
+                    0,
+                    89
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_i.p3d",
+                    "pos": [
+                    8963.219924256384,
+                    343.056733,
+                    4432.475951969464
+                  ],
+                    "ypr": [
+                    89.752959,
+                    -89.000046,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_l.p3d",
+                    "pos": [
+                    8962.862821710067,
+                    345.656891,
+                    4432.495252261442
+                  ],
+                    "ypr": [
+                    359.752921,
+                    -89.000046,
+                    179.999924
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_c.p3d",
+                    "pos": [
+                    8961.633682363525,
+                    341.906968,
+                    4432.389950022593
+                  ],
+                    "ypr": [
+                    359.752921,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    8965.210158165131,
+                    342.906723,
+                    4432.494178369099
+                  ],
+                    "ypr": [
+                    179.752906,
+                    89.000046,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_d.p3d",
+                    "pos": [
+                    8952.554406913727,
+                    344.864647,
+                    4430.311191301514
+                  ],
+                    "ypr": [
+                    172.752952,
+                    68.999992,
+                    -97.000015
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_g.p3d",
+                    "pos": [
+                    8961.158171518526,
+                    347.177834,
+                    4431.440642712081
+                  ],
+                    "ypr": [
+                    179.752906,
+                    40.000011,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_special_a.p3d",
+                    "pos": [
+                    8965.299619326808,
+                    345.95691,
+                    4430.131487173966
+                  ],
+                    "ypr": [
+                    359.752921,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_a.p3d",
+                    "pos": [
+                    8965.30015005721,
+                    343.006729,
+                    4427.745050274776
+                  ],
+                    "ypr": [
+                    350.752917,
+                    0,
+                    -90.000038
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_l.p3d",
+                    "pos": [
+                    8965.399172971294,
+                    343.006729,
+                    4430.235212430747
+                  ],
+                    "ypr": [
+                    89.752959,
+                    89.000046,
+                    -0.000005
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_c.p3d",
+                    "pos": [
+                    8965.35770861232,
+                    342.806717,
+                    4428.2556932248235
+                  ],
+                    "ypr": [
+                    89.752913,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_l.p3d",
+                    "pos": [
+                    8962.223420839904,
+                    345.623482,
+                    4427.588658436321
+                  ],
+                    "ypr": [
+                    179.75298199999997,
+                    -89.000046,
+                    179.999924
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_g.p3d",
+                    "pos": [
+                    8958.52273346676,
+                    343.977639,
+                    4425.612616065095
+                  ],
+                    "ypr": [
+                    89.752936,
+                    -1,
+                    -90.000038
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_k.p3d",
+                    "pos": [
+                    8958.065577257457,
+                    345.856903,
+                    4425.616780767785
+                  ],
+                    "ypr": [
+                    179.752906,
+                    -89.000046,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    8954.680391215677,
+                    343.006729,
+                    4425.4905260907635
+                  ],
+                    "ypr": [
+                    359.752912,
+                    86.000015,
+                    -179.999939
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_b.p3d",
+                    "pos": [
+                    8956.126860282759,
+                    342.906723,
+                    4425.608420609741
+                  ],
+                    "ypr": [
+                    359.752921,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_c.p3d",
+                    "pos": [
+                    8955.783879861048,
+                    342.306687,
+                    4425.656942070427
+                  ],
+                    "ypr": [
+                    359.752921,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_g.p3d",
+                    "pos": [
+                    8954.566485104866,
+                    342.656708,
+                    4426.275989210873
+                  ],
+                    "ypr": [
+                    89.752921,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_l.p3d",
+                    "pos": [
+                    8952.554152300967,
+                    344.864647,
+                    4428.384925294208
+                  ],
+                    "ypr": [
+                    269.752921,
+                    -89.000046,
+                    179.999939
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_a.p3d",
+                    "pos": [
+                    8952.295380913692,
+                    345.014656,
+                    4432.311248932395
+                  ],
+                    "ypr": [
+                    179.75298199999997,
+                    0,
+                    89.999992
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_d.p3d",
+                    "pos": [
+                    8952.566789576074,
+                    342.85672,
+                    4426.620812386546
+                  ],
+                    "ypr": [
+                    89.752921,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_c.p3d",
+                    "pos": [
+                    8954.092227091105,
+                    341.806656,
+                    4432.30742920597
+                  ],
+                    "ypr": [
+                    359.752921,
+                    -1,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_k.p3d",
+                    "pos": [
+                    8958.120967933148,
+                    348.192849,
+                    4429.5623193053525
+                  ],
+                    "ypr": [
+                    179.752906,
+                    -24.000006,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9061.166535355116,
+                    346.129135,
+                    4456.2084466049755
+                  ],
+                    "ypr": [
+                    3.617272,
+                    -89.000046,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9057.719213638902,
+                    343.713485,
+                    4456.435580524571
+                  ],
+                    "ypr": [
+                    3.617333000000002,
+                    84.000008,
+                    -179.999954
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_a.p3d",
+                    "pos": [
+                    9051.565684230838,
+                    346.513656,
+                    4456.57409414913
+                  ],
+                    "ypr": [
+                    93.617287,
+                    0,
+                    89.999977
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_k.p3d",
+                    "pos": [
+                    9054.918011019216,
+                    345.081565,
+                    4456.521298950747
+                  ],
+                    "ypr": [
+                    273.61724100000004,
+                    0,
+                    90.000015
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_special_a.p3d",
+                    "pos": [
+                    9051.656483489352,
+                    347.097938,
+                    4459.190640325638
+                  ],
+                    "ypr": [
+                    184.617318,
+                    -27.999992,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9051.735751250839,
+                    343.663604,
+                    4463.226619933282
+                  ],
+                    "ypr": [
+                    93.617287,
+                    89.000046,
+                    179.999939
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_j.p3d",
+                    "pos": [
+                    9051.372973751817,
+                    344.61354,
+                    4457.488072470185
+                  ],
+                    "ypr": [
+                    3.6172870000000046,
+                    0,
+                    94.000031
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9051.851317092847,
+                    346.313583,
+                    4463.469815196864
+                  ],
+                    "ypr": [
+                    183.617287,
+                    -89.000046,
+                    -0.000005
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9058.781169403514,
+                    346.163635,
+                    4462.931522569726
+                  ],
+                    "ypr": [
+                    3.6172949999999986,
+                    -89.000046,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_a.p3d",
+                    "pos": [
+                    9062.579005009866,
+                    346.415527,
+                    4462.700958296632
+                  ],
+                    "ypr": [
+                    101.617298,
+                    1,
+                    89.999992
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_l.p3d",
+                    "pos": [
+                    9068.20861566966,
+                    343.663543,
+                    4461.483840733507
+                  ],
+                    "ypr": [
+                    183.617325,
+                    88.000015,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_k.p3d",
+                    "pos": [
+                    9065.344356087528,
+                    346.050453,
+                    4462.580177952732
+                  ],
+                    "ypr": [
+                    183.617325,
+                    -89.000046,
+                    -0.000005
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_k.p3d",
+                    "pos": [
+                    9067.51918991963,
+                    346.113693,
+                    4456.918244897781
+                  ],
+                    "ypr": [
+                    273.61724100000004,
+                    -84.000008,
+                    90.000038
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9051.323452182765,
+                    346.465118,
+                    4456.111934236707
+                  ],
+                    "ypr": [
+                    359.617256,
+                    34.000031,
+                    179.000061
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9054.917617083962,
+                    349.1949,
+                    4459.668778421911
+                  ],
+                    "ypr": [
+                    183.617279,
+                    -50.000015,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_l.p3d",
+                    "pos": [
+                    9059.721631647119,
+                    348.975044,
+                    4459.218191257668
+                  ],
+                    "ypr": [
+                    183.617287,
+                    -38.000015,
+                    -179.999954
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_special_a.p3d",
+                    "pos": [
+                    9060.42759981554,
+                    347.963684,
+                    4458.067955946522
+                  ],
+                    "ypr": [
+                    93.617287,
+                    -3,
+                    -55.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9063.156899731564,
+                    349.184234,
+                    4459.231348546327
+                  ],
+                    "ypr": [
+                    183.617325,
+                    -50.000004,
+                    179.999954
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_special_a.p3d",
+                    "pos": [
+                    9066.07751809134,
+                    347.013748,
+                    4460.265869793072
+                  ],
+                    "ypr": [
+                    3.6172870000000046,
+                    -25.999992,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9066.445421184055,
+                    349.283233,
+                    4459.22933310223
+                  ],
+                    "ypr": [
+                    3.6172870000000046,
+                    -32.000008,
+                    -2
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9060.877849315115,
+                    349.113693,
+                    4459.642687221418
+                  ],
+                    "ypr": [
+                    3.617272,
+                    -38.000015,
+                    178.999924
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9055.46795221871,
+                    349.32904,
+                    4459.880925492814
+                  ],
+                    "ypr": [
+                    1.6172559999999976,
+                    -54.000004,
+                    179
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_roof_a.p3d",
+                    "pos": [
+                    9061.245910457503,
+                    346.43164,
+                    4463.4607622380045
+                  ],
+                    "ypr": [
+                    273.617272,
+                    -86.000015,
+                    -96.999931
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_dry_c.p3d",
+                    "pos": [
+                    9064.120014747696,
+                    342.451866,
+                    4456.079860373326
+                  ],
+                    "ypr": [
+                    183.617287,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9101.594598028008,
+                    342.016922,
+                    4411.725791374745
+                  ],
+                    "ypr": [
+                    186.707626,
+                    -89.000046,
+                    -0.000005
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9107.994619199404,
+                    341.81691,
+                    4410.92275251776
+                  ],
+                    "ypr": [
+                    186.707588,
+                    -89.000046,
+                    -0.000009
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_l.p3d",
+                    "pos": [
+                    9112.231301981445,
+                    341.666901,
+                    4410.474837320004
+                  ],
+                    "ypr": [
+                    185.707588,
+                    -89.000046,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9118.746405956565,
+                    338.96673599999997,
+                    4409.708613518869
+                  ],
+                    "ypr": [
+                    6.707549999999998,
+                    89.000046,
+                    -0.000005
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_a.p3d",
+                    "pos": [
+                    9118.554207011559,
+                    342.216935,
+                    4409.529838113559
+                  ],
+                    "ypr": [
+                    186.707626,
+                    -89.000046,
+                    -0.000005
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9105.394998511445,
+                    344.26706,
+                    4408.509882550531
+                  ],
+                    "ypr": [
+                    5.707556999999994,
+                    -38.999992,
+                    -179.000061
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9110.015708678826,
+                    344.271508,
+                    4407.948774284616
+                  ],
+                    "ypr": [
+                    5.707549999999998,
+                    -36.000011,
+                    -179.999924
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_a.p3d",
+                    "pos": [
+                    9110.051147769414,
+                    344.317063,
+                    4407.86159720632
+                  ],
+                    "ypr": [
+                    6.707588000000001,
+                    -43.000011,
+                    -179.999954
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9118.498818878223,
+                    344.516953,
+                    4406.918433997998
+                  ],
+                    "ypr": [
+                    7.707588000000001,
+                    -32.999989,
+                    -3.000001
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9118.279822404776,
+                    338.966919,
+                    4404.6283380077175
+                  ],
+                    "ypr": [
+                    276.707573,
+                    81.999985,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9117.926374644923,
+                    339.166809,
+                    4404.619558425047
+                  ],
+                    "ypr": [
+                    6.707588000000001,
+                    89.000046,
+                    -0.000005
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9107.404770904792,
+                    342.016861,
+                    4405.907321460577
+                  ],
+                    "ypr": [
+                    186.707603,
+                    -89.000046,
+                    -0.000005
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_special_e.p3d",
+                    "pos": [
+                    9110.903769981598,
+                    343.866936,
+                    4409.805190505103
+                  ],
+                    "ypr": [
+                    166.49300399999998,
+                    1.694371,
+                    -7.222174
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9113.726271543304,
+                    341.876107,
+                    4405.101336819231
+                  ],
+                    "ypr": [
+                    6.707588000000001,
+                    -80.000008,
+                    -0.000009
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_a.p3d",
+                    "pos": [
+                    9107.299615387961,
+                    339.216751,
+                    4405.86934492465
+                  ],
+                    "ypr": [
+                    180.70761900000002,
+                    0,
+                    -91.000015
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_a.p3d",
+                    "pos": [
+                    9107.367786622242,
+                    342.308297,
+                    4405.738890430739
+                  ],
+                    "ypr": [
+                    12.332931000000002,
+                    50.000004,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+                    "pos": [
+                    9114.548049898309,
+                    344.289513,
+                    4406.993965910982
+                  ],
+                    "ypr": [
+                    185.707588,
+                    -48.000004,
+                    -179.000061
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9107.787348903159,
+                    344.317002,
+                    4407.87611247924
+                  ],
+                    "ypr": [
+                    186.707603,
+                    -44,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_roof_a.p3d",
+                    "pos": [
+                    9101.714642205357,
+                    342.469208,
+                    4404.6130847805225
+                  ],
+                    "ypr": [
+                    193.707626,
+                    -78.000015,
+                    173.999863
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9106.979614930844,
+                    342.391663,
+                    4404.057033780857
+                  ],
+                    "ypr": [
+                    6.7075729999999965,
+                    22.999985,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_k.p3d",
+                    "pos": [
+                    9105.686557790117,
+                    344.358979,
+                    4408.06749066521
+                  ],
+                    "ypr": [
+                    191.70761900000002,
+                    -36.999992,
+                    175.999908
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_a.p3d",
+                    "pos": [
+                    9100.817732568263,
+                    344.566895,
+                    4408.715928092539
+                  ],
+                    "ypr": [
+                    185.70763399999998,
+                    -44.000008,
+                    174.999969
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_a.p3d",
+                    "pos": [
+                    9103.70871123321,
+                    342.453881,
+                    4404.469140657128
+                  ],
+                    "ypr": [
+                    285.707832,
+                    0,
+                    89
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_d.p3d",
+                    "pos": [
+                    9100.91626582265,
+                    342.900422,
+                    4407.272872735228
+                  ],
+                    "ypr": [
+                    186.70773300000002,
+                    42.000015,
+                    -89.999992
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_j.p3d",
+                    "pos": [
+                    9100.852456421953,
+                    340.539467,
+                    4407.1313460965075
+                  ],
+                    "ypr": [
+                    7.707611,
+                    0,
+                    88.999954
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_n.p3d",
+                    "pos": [
+                    9101.395988606739,
+                    338.966675,
+                    4411.74914727916
+                  ],
+                    "ypr": [
+                    96.707579,
+                    89.000046,
+                    179.999954
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "DZ\\plants_bliss\\building\\ivy_special_c.p3d",
+                    "pos": [
+                    9106.269468157683,
+                    342.086296,
+                    4404.327739489018
+                  ],
+                    "ypr": [
+                    331.707649,
+                    -89.000046,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                }
+			]
+            }
