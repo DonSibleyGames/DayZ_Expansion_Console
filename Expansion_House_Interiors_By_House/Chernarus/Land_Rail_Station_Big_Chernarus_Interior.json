@@ -1,0 +1,2524 @@
+{
+                      "Objects": [
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        2477.89594620041,
+                        190.582839,
+                        5235.392288254173
+                      ],
+                        "ypr": [
+                        357.797046,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        3545.0219682226348,
+                        220.236266,
+                        12560.963184673103
+                      ],
+                        "ypr": [
+                        350.578272,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        6547.387498265394,
+                        14.074573000000001,
+                        2617.3116864264084
+                      ],
+                        "ypr": [
+                        135.360733,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        7849.898425966746,
+                        140.093032,
+                        12412.860657880705
+                      ],
+                        "ypr": [
+                        4.205772,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        10336.05546646334,
+                        6.138906999999999,
+                        2120.1381798630687
+                      ],
+                        "ypr": [
+                        348.000012,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        11645.930106729587,
+                        58.204589,
+                        14113.162749309558
+                      ],
+                        "ypr": [
+                        190.7052,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        12987.800807157122,
+                        6.160768,
+                        10239.965119680717
+                      ],
+                        "ypr": [
+                        293.000008,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        13984.359200302744,
+                        3.429586999999999,
+                        13484.068764158275
+                      ],
+                        "ypr": [
+                        60.43969,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        2479.222130882787,
+                        190.582839,
+                        5235.505864759899
+                      ],
+                        "ypr": [
+                        351.797046,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        3546.323369186538,
+                        220.236266,
+                        12561.24250700586
+                      ],
+                        "ypr": [
+                        344.578272,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        6546.4853751773135,
+                        14.074573000000001,
+                        2616.332993743092
+                      ],
+                        "ypr": [
+                        129.360733,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        7851.229000668633,
+                        140.093032,
+                        12412.825495441606
+                      ],
+                        "ypr": [
+                        358.205772,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        10337.342985042429,
+                        6.138906999999999,
+                        2120.4757614723508
+                      ],
+                        "ypr": [
+                        342.00001199999997,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        11644.612063702185,
+                        58.204589,
+                        14113.34829718032
+                      ],
+                        "ypr": [
+                        184.7052,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        12988.262766308993,
+                        6.160768,
+                        10241.21342219871
+                      ],
+                        "ypr": [
+                        287.000008,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        13985.069507583441,
+                        3.429586999999999,
+                        13482.94309591167
+                      ],
+                        "ypr": [
+                        54.43969,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        2477.8191600961477,
+                        190.582839,
+                        5235.947621115038
+                      ],
+                        "ypr": [
+                        174.797046,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        3544.8760085867116,
+                        220.236266,
+                        12561.504466925579
+                      ],
+                        "ypr": [
+                        167.578272,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        6547.818890677688,
+                        14.074573000000001,
+                        2616.9536483295815
+                      ],
+                        "ypr": [
+                        312.360733,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        7849.8841061522435,
+                        140.093032,
+                        12413.421091315713
+                      ],
+                        "ypr": [
+                        181.205772,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        10335.885305618634,
+                        6.138906999999999,
+                        2120.6723483562364
+                      ],
+                        "ypr": [
+                        165.000012,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        11645.880897505647,
+                        58.204589,
+                        14112.604296854606
+                      ],
+                        "ypr": [
+                        7.705199999999991,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        12987.265641625998,
+                        6.160768,
+                        10240.132118322812
+                      ],
+                        "ypr": [
+                        110.00000799999998,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        13984.81713722901,
+                        3.429586999999999,
+                        13484.392159371175
+                      ],
+                        "ypr": [
+                        237.43968999999998,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        2479.0547905724834,
+                        190.582839,
+                        5236.083043828494
+                      ],
+                        "ypr": [
+                        172.797046,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        3546.0848279580014,
+                        220.236266,
+                        12561.794083418485
+                      ],
+                        "ypr": [
+                        165.578272,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        6546.998340282351,
+                        14.074573000000001,
+                        2616.0199358288182
+                      ],
+                        "ypr": [
+                        310.360733,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        7851.12713100958,
+                        140.093032,
+                        12413.417746257765
+                      ],
+                        "ypr": [
+                        179.205772,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        10337.079873253158,
+                        6.138906999999999,
+                        2121.0160490282155
+                      ],
+                        "ypr": [
+                        163.000012,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        11644.646240146965,
+                        58.204589,
+                        14112.748321824743
+                      ],
+                        "ypr": [
+                        5.705199999999991,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        12987.669273892769,
+                        6.160768,
+                        10241.307789611308
+                      ],
+                        "ypr": [
+                        108.000008,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        13985.505234206736,
+                        3.429586999999999,
+                        13483.356956717289
+                      ],
+                        "ypr": [
+                        235.43968999999998,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        2477.587697290842,
+                        190.582839,
+                        5238.078420642975
+                      ],
+                        "ypr": [
+                        354.797046,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        3544.3786278553575,
+                        220.236266,
+                        12563.589291634416
+                      ],
+                        "ypr": [
+                        347.578272,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        6549.427516944718,
+                        14.074573000000001,
+                        2615.5372433057555
+                      ],
+                        "ypr": [
+                        132.360733,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        7849.89193036182,
+                        140.093032,
+                        12415.56441127322
+                      ],
+                        "ypr": [
+                        1.205772,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        10335.29464492906,
+                        6.138906999999999,
+                        2122.7326885243374
+                      ],
+                        "ypr": [
+                        345.000012,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        11645.630515286606,
+                        58.204589,
+                        14110.475637557563
+                      ],
+                        "ypr": [
+                        187.7052,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        12985.239120431785,
+                        6.160768,
+                        10240.83003916926
+                      ],
+                        "ypr": [
+                        290.000008,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        13986.603256964874,
+                        3.429586999999999,
+                        13485.576920084424
+                      ],
+                        "ypr": [
+                        57.43969,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        2478.810451225044,
+                        190.582839,
+                        5238.1706547131125
+                      ],
+                        "ypr": [
+                        357.797046,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        3545.58009975982,
+                        220.236266,
+                        12563.834443771033
+                      ],
+                        "ypr": [
+                        350.578272,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        6548.587327380452,
+                        14.074573000000001,
+                        2614.6440939322474
+                      ],
+                        "ypr": [
+                        135.360733,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        7851.117338412098,
+                        140.093032,
+                        12415.519584745212
+                      ],
+                        "ypr": [
+                        4.205772,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        10336.483872712592,
+                        6.138906999999999,
+                        2123.0316393332955
+                      ],
+                        "ypr": [
+                        348.000012,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        11644.418056914556,
+                        58.204589,
+                        14110.658883303338
+                      ],
+                        "ypr": [
+                        190.7052,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        12985.676346839688,
+                        6.160768,
+                        10241.975668854424
+                      ],
+                        "ypr": [
+                        293.000008,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        13987.247078346842,
+                        3.429586999999999,
+                        13484.533306968648
+                      ],
+                        "ypr": [
+                        60.43969,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        2477.5449829098666,
+                        190.582839,
+                        5238.678509666503
+                      ],
+                        "ypr": [
+                        176.797046,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        3544.2608458938284,
+                        220.236266,
+                        12564.17925668765
+                      ],
+                        "ypr": [
+                        169.578272,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        6549.863963608878,
+                        14.074573000000001,
+                        2615.123183329613
+                      ],
+                        "ypr": [
+                        314.360733,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        7849.916465052274,
+                        140.093032,
+                        12416.165518088574
+                      ],
+                        "ypr": [
+                        183.205772,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        10335.150443294897,
+                        6.138906999999999,
+                        2123.316758077734
+                      ],
+                        "ypr": [
+                        167.000012,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        11645.538097341725,
+                        58.204589,
+                        14109.88117117671
+                      ],
+                        "ypr": [
+                        9.70519999999999,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        12984.67796791661,
+                        6.160768,
+                        10241.046924413602
+                      ],
+                        "ypr": [
+                        112.00000799999998,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        13987.116601701238,
+                        3.429586999999999,
+                        13485.890621433078
+                      ],
+                        "ypr": [
+                        239.43968999999998,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        2478.7658712408575,
+                        190.582839,
+                        5238.811080755923
+                      ],
+                        "ypr": [
+                        173.797046,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        3545.455398302301,
+                        220.236266,
+                        12564.4641916871
+                      ],
+                        "ypr": [
+                        166.578272,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        6549.0523691351445,
+                        14.074573000000001,
+                        2614.201522968794
+                      ],
+                        "ypr": [
+                        311.360733,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        7851.144521589793,
+                        140.093032,
+                        12416.160984750008
+                      ],
+                        "ypr": [
+                        180.205772,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        10336.330969000466,
+                        6.138906999999999,
+                        2123.6551402122996
+                      ],
+                        "ypr": [
+                        164.000012,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        11644.318446606934,
+                        58.204589,
+                        14110.024682485051
+                      ],
+                        "ypr": [
+                        6.705199999999991,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        12985.07790276045,
+                        6.160768,
+                        10242.208042638067
+                      ],
+                        "ypr": [
+                        109.000008,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        13987.795391398142,
+                        3.429586999999999,
+                        13484.86720169618
+                      ],
+                        "ypr": [
+                        236.43968999999998,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_wall_board",
+                        "pos": [
+                        2476.831169571302,
+                        191.182879,
+                        5239.497864282458
+                      ],
+                        "ypr": [
+                        84.797046,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_wall_board",
+                        "pos": [
+                        3543.4497318472786,
+                        220.836306,
+                        12564.902420204768
+                      ],
+                        "ypr": [
+                        77.578272,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_wall_board",
+                        "pos": [
+                        6550.943653864776,
+                        14.674613,
+                        2615.000136914304
+                      ],
+                        "ypr": [
+                        222.360733,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_wall_board",
+                        "pos": [
+                        7849.298569035785,
+                        140.693072,
+                        12417.05942858846
+                      ],
+                        "ypr": [
+                        91.205772,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_wall_board",
+                        "pos": [
+                        10334.3076196458,
+                        6.738947,
+                        2124.0027025109953
+                      ],
+                        "ypr": [
+                        75.000012,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_wall_board",
+                        "pos": [
+                        11646.050837975501,
+                        58.804629000000006,
+                        14108.92306444389
+                      ],
+                        "ypr": [
+                        277.7052,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_wall_board",
+                        "pos": [
+                        12983.632651465921,
+                        6.760808000000001,
+                        10240.749964842416
+                      ],
+                        "ypr": [
+                        20.000007999999994,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_wall_board",
+                        "pos": [
+                        13987.516292779545,
+                        4.029627,
+                        13486.901125520611
+                      ],
+                        "ypr": [
+                        147.43968999999998,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_wall_board_02",
+                        "pos": [
+                        2477.0758627251384,
+                        191.096919,
+                        5236.810672045835
+                      ],
+                        "ypr": [
+                        84.797046,
+                        0,
+                        -2
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_wall_board_02",
+                        "pos": [
+                        3544.0301534067867,
+                        220.750346,
+                        12562.2672754897
+                      ],
+                        "ypr": [
+                        77.578272,
+                        0,
+                        -2
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_wall_board_02",
+                        "pos": [
+                        6548.949825945217,
+                        14.588653,
+                        2616.8182477699147
+                      ],
+                        "ypr": [
+                        222.360733,
+                        0,
+                        -2
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_wall_board_02",
+                        "pos": [
+                        7849.241787749181,
+                        140.607112,
+                        12414.361716086803
+                      ],
+                        "ypr": [
+                        91.205772,
+                        0,
+                        -2
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_wall_board_02",
+                        "pos": [
+                        10335.005992617127,
+                        6.6529869999999995,
+                        2121.396334914316
+                      ],
+                        "ypr": [
+                        75.000012,
+                        0,
+                        -2
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_wall_board_02",
+                        "pos": [
+                        11646.412615847312,
+                        58.718669000000006,
+                        14111.597011643737
+                      ],
+                        "ypr": [
+                        277.7052,
+                        0,
+                        -2
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_wall_board_02",
+                        "pos": [
+                        12986.168233461514,
+                        6.674848000000001,
+                        10239.82708846948
+                      ],
+                        "ypr": [
+                        20.000007999999994,
+                        0,
+                        -2
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_wall_board_02",
+                        "pos": [
+                        13985.242088463949,
+                        3.9436669999999996,
+                        13485.448930083689
+                      ],
+                        "ypr": [
+                        147.43968999999998,
+                        0,
+                        -2
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_vending_machine",
+                        "pos": [
+                        2482.3750446286435,
+                        191.038299,
+                        5238.479548511427
+                      ],
+                        "ypr": [
+                        39.797046,
+                        -90,
+                        180
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_vending_machine",
+                        "pos": [
+                        3549.077623653526,
+                        220.691726,
+                        12564.588809812538
+                      ],
+                        "ypr": [
+                        32.578272,
+                        -90,
+                        180
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_vending_machine",
+                        "pos": [
+                        6546.1649907747,
+                        14.530033,
+                        2612.0108398844845
+                      ],
+                        "ypr": [
+                        177.360733,
+                        -90,
+                        180
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_vending_machine",
+                        "pos": [
+                        7854.694135231956,
+                        140.54849199999998,
+                        12415.42866708423
+                      ],
+                        "ypr": [
+                        46.205772,
+                        -90,
+                        180
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_vending_machine",
+                        "pos": [
+                        10339.943921820483,
+                        6.594366999999999,
+                        2123.942573843893
+                      ],
+                        "ypr": [
+                        30.000011999999998,
+                        -90,
+                        180
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_vending_machine",
+                        "pos": [
+                        11640.874539220427,
+                        58.660049,
+                        14111.154084134336
+                      ],
+                        "ypr": [
+                        232.7052,
+                        -90,
+                        180
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_vending_machine",
+                        "pos": [
+                        12986.914754262518,
+                        6.616228,
+                        10245.33246622196
+                      ],
+                        "ypr": [
+                        335.000008,
+                        -90,
+                        180
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_vending_machine",
+                        "pos": [
+                        13989.1594940366,
+                        3.8850469999999993,
+                        13481.509334789347
+                      ],
+                        "ypr": [
+                        102.43969,
+                        -90,
+                        180
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_rubble_glass",
+                        "pos": [
+                        2482.953983955209,
+                        190.615879,
+                        5237.745504502734
+                      ],
+                        "ypr": [
+                        354.797046,
+                        0,
+                        2
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_rubble_glass",
+                        "pos": [
+                        3549.744212771624,
+                        220.269306,
+                        12563.933332659484
+                      ],
+                        "ypr": [
+                        347.578272,
+                        0,
+                        2
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_rubble_glass",
+                        "pos": [
+                        6545.242406353131,
+                        14.107613,
+                        2612.1619336819163
+                      ],
+                        "ypr": [
+                        132.360733,
+                        0,
+                        2
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_rubble_glass",
+                        "pos": [
+                        7855.187522474199,
+                        140.126072,
+                        12414.634588763323
+                      ],
+                        "ypr": [
+                        1.205772,
+                        0,
+                        2
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_rubble_glass",
+                        "pos": [
+                        10340.639322048177,
+                        6.171946999999999,
+                        2123.317745968501
+                      ],
+                        "ypr": [
+                        345.000012,
+                        0,
+                        2
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_rubble_glass",
+                        "pos": [
+                        11640.474206869276,
+                        58.237629,
+                        14111.998906813462
+                      ],
+                        "ypr": [
+                        187.7052,
+                        0,
+                        2
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_rubble_glass",
+                        "pos": [
+                        12987.82544839361,
+                        6.193808000000001,
+                        10245.543718559551
+                      ],
+                        "ypr": [
+                        290.000008,
+                        0,
+                        2
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_rubble_glass",
+                        "pos": [
+                        13988.773592372643,
+                        3.4626269999999995,
+                        13480.657823628939
+                      ],
+                        "ypr": [
+                        57.43969,
+                        0,
+                        2
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_office_chair",
+                        "pos": [
+                        2485.4812119488447,
+                        190.992939,
+                        5235.956198859853
+                      ],
+                        "ypr": [
+                        140.797046,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_office_chair",
+                        "pos": [
+                        3552.47624997003,
+                        220.646366,
+                        12562.475776910298
+                      ],
+                        "ypr": [
+                        133.578272,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_office_chair",
+                        "pos": [
+                        6542.169871528563,
+                        14.484673,
+                        2611.7771925127176
+                      ],
+                        "ypr": [
+                        278.360733,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_office_chair",
+                        "pos": [
+                        7857.499234706952,
+                        140.503132,
+                        12412.574374558828
+                      ],
+                        "ypr": [
+                        147.205772,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_office_chair",
+                        "pos": [
+                        10343.43416011843,
+                        6.549007,
+                        2121.984563244144
+                      ],
+                        "ypr": [
+                        131.000012,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_office_chair",
+                        "pos": [
+                        11638.410553228347,
+                        58.614689,
+                        14114.307549199311
+                      ],
+                        "ypr": [
+                        333.7052,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_office_chair",
+                        "pos": [
+                        12990.520580396133,
+                        6.570868000000001,
+                        10247.068434764109
+                      ],
+                        "ypr": [
+                        76.000008,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_office_chair",
+                        "pos": [
+                        13988.345766431681,
+                        3.8396869999999996,
+                        13477.590991227305
+                      ],
+                        "ypr": [
+                        203.43968999999998,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        2478.8566764762954,
+                        193.624259,
+                        5239.440177372126
+                      ],
+                        "ypr": [
+                        354.797046,
+                        0,
+                        1.1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        3545.4664325811577,
+                        223.277686,
+                        12565.099712251671
+                      ],
+                        "ypr": [
+                        347.578272,
+                        0,
+                        1.1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        6549.409848075236,
+                        17.115993,
+                        2613.6759595086005
+                      ],
+                        "ypr": [
+                        132.360733,
+                        0,
+                        1.1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        7851.3049793599575,
+                        143.13445199999998,
+                        12416.77601438124
+                      ],
+                        "ypr": [
+                        1.205772,
+                        0,
+                        1.1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        10336.313403945367,
+                        9.180326999999998,
+                        2124.290513812742
+                      ],
+                        "ypr": [
+                        345.000012,
+                        0,
+                        1.1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        11644.08940319167,
+                        61.246009,
+                        14109.431768277746
+                      ],
+                        "ypr": [
+                        187.7052,
+                        0,
+                        1.1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        12984.547360134533,
+                        9.202188,
+                        10242.558089299795
+                      ],
+                        "ypr": [
+                        290.000008,
+                        0,
+                        1.1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        13988.395856906272,
+                        6.471006999999999,
+                        13485.07564669335
+                      ],
+                        "ypr": [
+                        57.43969,
+                        0,
+                        1.1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        2479.305834418154,
+                        193.624259,
+                        5234.593479044504
+                      ],
+                        "ypr": [
+                        355.797046,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        3546.5210580694725,
+                        223.277686,
+                        12560.34787128052
+                      ],
+                        "ypr": [
+                        348.578272,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        6545.807948838715,
+                        17.115993,
+                        2616.9498790900257
+                      ],
+                        "ypr": [
+                        133.360733,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        7851.210340322595,
+                        143.13445199999998,
+                        12411.909468276628
+                      ],
+                        "ypr": [
+                        2.205772,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        10337.580717970292,
+                        9.180326999999998,
+                        2119.5909241819413
+                      ],
+                        "ypr": [
+                        346.000012,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        11644.734291759418,
+                        61.246009,
+                        14114.256324865753
+                      ],
+                        "ypr": [
+                        188.7052,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        12989.12394071542,
+                        9.202188,
+                        10240.900640138478
+                      ],
+                        "ypr": [
+                        291.000008,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        13984.297630262357,
+                        6.471006999999999,
+                        13482.449477256547
+                      ],
+                        "ypr": [
+                        58.43969,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        2482.493696417381,
+                        193.597059,
+                        5239.773881312554
+                      ],
+                        "ypr": [
+                        354.797046,
+                        0,
+                        1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        3549.032691329839,
+                        223.250486,
+                        12565.88779277368
+                      ],
+                        "ypr": [
+                        347.578272,
+                        0,
+                        1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        6546.950799820061,
+                        17.088793,
+                        2610.975523608522
+                      ],
+                        "ypr": [
+                        132.360733,
+                        0,
+                        1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        7854.956519435033,
+                        143.107252,
+                        12416.701667546533
+                      ],
+                        "ypr": [
+                        1.205772,
+                        0,
+                        1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        10339.84060172165,
+                        9.153127,
+                        2125.2382206338098
+                      ],
+                        "ypr": [
+                        345.000012,
+                        0,
+                        1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        11640.469746916198,
+                        61.218809,
+                        14109.918965177521
+                      ],
+                        "ypr": [
+                        187.7052,
+                        0,
+                        1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        12985.794160307443,
+                        9.174988,
+                        10245.99098337048
+                      ],
+                        "ypr": [
+                        290.000008,
+                        0,
+                        1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        13990.363590724228,
+                        6.443807,
+                        13481.998749556073
+                      ],
+                        "ypr": [
+                        57.43969,
+                        0,
+                        1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        2483.3886080863404,
+                        190.632839,
+                        5235.138553555095
+                      ],
+                        "ypr": [
+                        24.797046,
+                        0,
+                        180
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        3550.502976854548,
+                        220.28626599999998,
+                        12561.401659606892
+                      ],
+                        "ypr": [
+                        17.578272,
+                        0,
+                        180
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        6543.162548535592,
+                        14.124573000000002,
+                        2613.7926644498775
+                      ],
+                        "ypr": [
+                        162.360733,
+                        0,
+                        180
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        7855.328441832314,
+                        140.14303199999998,
+                        12411.995415954796
+                      ],
+                        "ypr": [
+                        31.205772,
+                        0,
+                        180
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        10341.511202455169,
+                        6.1889069999999995,
+                        2120.822767825379
+                      ],
+                        "ypr": [
+                        15.000012,
+                        0,
+                        180
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        11640.632928439854,
+                        58.254589,
+                        14114.637068833086
+                      ],
+                        "ypr": [
+                        217.7052,
+                        0,
+                        180
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        12990.369305184537,
+                        6.210768000000001,
+                        10244.826861526377
+                      ],
+                        "ypr": [
+                        320.000008,
+                        0,
+                        180
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        13986.65793564225,
+                        3.4795869999999995,
+                        13479.073813534938
+                      ],
+                        "ypr": [
+                        87.43969,
+                        0,
+                        180
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_flag_chernarus_pole",
+                        "pos": [
+                        2481.75389221859,
+                        193.810629,
+                        5242.762516998913
+                      ],
+                        "ypr": [
+                        264.797046,
+                        0.000149,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_flag_chernarus_pole",
+                        "pos": [
+                        3547.923204316747,
+                        223.464056,
+                        12568.75977677191
+                      ],
+                        "ypr": [
+                        257.57827199999997,
+                        0.000149,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_flag_chernarus_pole",
+                        "pos": [
+                        6549.513438541335,
+                        17.302363,
+                        2609.26902535111
+                      ],
+                        "ypr": [
+                        42.36073300000001,
+                        0.000149,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_flag_chernarus_pole",
+                        "pos": [
+                        7854.554930886462,
+                        143.320822,
+                        12419.754204222148
+                      ],
+                        "ypr": [
+                        271.205772,
+                        0.000149,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_flag_chernarus_pole",
+                        "pos": [
+                        10338.603044918575,
+                        9.366696999999998,
+                        2128.0573883616125
+                      ],
+                        "ypr": [
+                        255.000012,
+                        0.000149,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_flag_chernarus_pole",
+                        "pos": [
+                        11640.523229431652,
+                        61.432379000000005,
+                        14106.840590096595
+                      ],
+                        "ypr": [
+                        97.70519999999999,
+                        0.000149,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_flag_chernarus_pole",
+                        "pos": [
+                        12982.774999636966,
+                        9.388558,
+                        10246.594243152138
+                      ],
+                        "ypr": [
+                        200.00000799999998,
+                        0.000149,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_flag_chernarus_pole",
+                        "pos": [
+                        13992.678001564462,
+                        6.657376999999999,
+                        13484.029206642772
+                      ],
+                        "ypr": [
+                        327.43969,
+                        0.000149,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_flag_chernarus_pole",
+                        "pos": [
+                        2479.204508823246,
+                        193.804259,
+                        5242.530372586301
+                      ],
+                        "ypr": [
+                        264.797046,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_flag_chernarus_pole",
+                        "pos": [
+                        3545.4231992596588,
+                        223.457686,
+                        12568.209121308582
+                      ],
+                        "ypr": [
+                        257.57827199999997,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_flag_chernarus_pole",
+                        "pos": [
+                        6551.238310161243,
+                        17.295993,
+                        2611.1606026346485
+                      ],
+                        "ypr": [
+                        42.36073300000001,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_flag_chernarus_pole",
+                        "pos": [
+                        7851.995566742951,
+                        143.314452,
+                        12419.808073561031
+                      ],
+                        "ypr": [
+                        271.205772,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_flag_chernarus_pole",
+                        "pos": [
+                        10336.130341186188,
+                        9.360327,
+                        2127.3948304572714
+                      ],
+                        "ypr": [
+                        255.000012,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_flag_chernarus_pole",
+                        "pos": [
+                        11643.060047043138,
+                        61.426009,
+                        14106.497365489651
+                      ],
+                        "ypr": [
+                        97.70519999999999,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_flag_chernarus_pole",
+                        "pos": [
+                        12981.89945166944,
+                        9.382188000000001,
+                        10244.188694881715
+                      ],
+                        "ypr": [
+                        200.00000799999998,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_flag_chernarus_pole",
+                        "pos": [
+                        13991.300279910154,
+                        6.651006999999999,
+                        13486.186781616674
+                      ],
+                        "ypr": [
+                        327.43969,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_school_clock",
+                        "pos": [
+                        2485.840090882451,
+                        192.947099,
+                        5237.214303113279
+                      ],
+                        "ypr": [
+                        84.797046,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_school_clock",
+                        "pos": [
+                        3552.67419306797,
+                        222.600526,
+                        12563.769005015256
+                      ],
+                        "ypr": [
+                        77.578272,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_school_clock",
+                        "pos": [
+                        6542.753940317489,
+                        16.438833,
+                        2610.606515763449
+                      ],
+                        "ypr": [
+                        222.360733,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_school_clock",
+                        "pos": [
+                        7857.996301013946,
+                        142.457292,
+                        12413.784558630747
+                      ],
+                        "ypr": [
+                        91.205772,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_school_clock",
+                        "pos": [
+                        10343.573728457466,
+                        8.503167,
+                        2123.2853864758763
+                      ],
+                        "ypr": [
+                        75.000012,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_school_clock",
+                        "pos": [
+                        11637.779697471467,
+                        60.568849,
+                        14113.16140722927
+                      ],
+                        "ypr": [
+                        277.7052,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_school_clock",
+                        "pos": [
+                        12989.535061151724,
+                        8.525028,
+                        10247.928883612316
+                      ],
+                        "ypr": [
+                        20.000007999999994,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_school_clock",
+                        "pos": [
+                        13989.628080173396,
+                        5.7938469999999995,
+                        13477.850397991455
+                      ],
+                        "ypr": [
+                        147.43968999999998,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_tac_board_posters_level2",
+                        "pos": [
+                        2477.348719982307,
+                        191.632909,
+                        5233.6470106575525
+                      ],
+                        "ypr": [
+                        264.797046,
+                        0,
+                        -1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_tac_board_posters_level2",
+                        "pos": [
+                        3544.698388121677,
+                        221.286336,
+                        12559.16297736801
+                      ],
+                        "ypr": [
+                        257.57827199999997,
+                        0,
+                        -1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_tac_board_posters_level2",
+                        "pos": [
+                        6546.613704891536,
+                        15.124643,
+                        2618.9690017970056
+                      ],
+                        "ypr": [
+                        42.36073300000001,
+                        0,
+                        -1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_tac_board_posters_level2",
+                        "pos": [
+                        7849.159810913469,
+                        141.143102,
+                        12411.187368238676
+                      ],
+                        "ypr": [
+                        271.205772,
+                        0,
+                        -1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_tac_board_posters_level2",
+                        "pos": [
+                        10335.813194180031,
+                        7.1889769999999995,
+                        2118.3252390025373
+                      ],
+                        "ypr": [
+                        255.000012,
+                        0,
+                        -1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_tac_board_posters_level2",
+                        "pos": [
+                        11646.85337900661,
+                        59.254659000000004,
+                        14114.74167892342
+                      ],
+                        "ypr": [
+                        97.70519999999999,
+                        0,
+                        -1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_tac_board_posters_level2",
+                        "pos": [
+                        12989.146920193407,
+                        7.210838000000001,
+                        10238.726802226836
+                      ],
+                        "ypr": [
+                        200.00000799999998,
+                        0,
+                        -1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_tac_board_posters_level2",
+                        "pos": [
+                        13982.557646928157,
+                        4.479657,
+                        13483.752764377332
+                      ],
+                        "ypr": [
+                        327.43969,
+                        0,
+                        -1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    }
+			]
+            }

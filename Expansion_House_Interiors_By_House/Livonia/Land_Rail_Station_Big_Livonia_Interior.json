@@ -1,0 +1,319 @@
+{
+                      "Objects": [
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        1645.0651016018046,
+                        181.358809,
+                        7488.7128589415715
+                      ],
+                        "ypr": [
+                        166.207123,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        1643.7887752691242,
+                        181.358809,
+                        7488.335159951724
+                      ],
+                        "ypr": [
+                        160.207123,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        1645.2518916943193,
+                        181.358809,
+                        7488.184275784914
+                      ],
+                        "ypr": [
+                        343.207123,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        1644.0686622485716,
+                        181.358809,
+                        7487.803368888041
+                      ],
+                        "ypr": [
+                        341.207123,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        1645.9067251681097,
+                        181.358809,
+                        7486.143424300825
+                      ],
+                        "ypr": [
+                        163.207123,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        1644.7274328683734,
+                        181.358809,
+                        7485.807412427401
+                      ],
+                        "ypr": [
+                        166.207123,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        1646.0691300151798,
+                        181.358809,
+                        7485.564152326579
+                      ],
+                        "ypr": [
+                        345.207123,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_hospital_bench",
+                        "pos": [
+                        1644.899769222731,
+                        181.358809,
+                        7485.18900069379
+                      ],
+                        "ypr": [
+                        342.207123,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_wall_board",
+                        "pos": [
+                        1646.933002223836,
+                        181.95884900000001,
+                        7484.904913162002
+                      ],
+                        "ypr": [
+                        253.207123,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_wall_board_02",
+                        "pos": [
+                        1646.1534256172085,
+                        181.87288900000001,
+                        7487.488154763266
+                      ],
+                        "ypr": [
+                        253.207123,
+                        0,
+                        -2
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_vending_machine",
+                        "pos": [
+                        1641.2975781052544,
+                        181.814269,
+                        7484.7886691744
+                      ],
+                        "ypr": [
+                        208.207123,
+                        -90,
+                        180
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_rubble_glass",
+                        "pos": [
+                        1640.5829693017552,
+                        181.391849,
+                        7485.39143414394
+                      ],
+                        "ypr": [
+                        163.207123,
+                        0,
+                        2
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_office_chair",
+                        "pos": [
+                        1637.7477881277132,
+                        181.768909,
+                        7486.636521982536
+                      ],
+                        "ypr": [
+                        309.207123,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        1644.937204638686,
+                        184.400229,
+                        7484.554487705009
+                      ],
+                        "ypr": [
+                        163.207123,
+                        0,
+                        1.1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        1643.5234747849001,
+                        184.400229,
+                        7489.212126101902
+                      ],
+                        "ypr": [
+                        164.207123,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        1641.4413845772228,
+                        184.373029,
+                        7483.496889260613
+                      ],
+                        "ypr": [
+                        163.207123,
+                        0,
+                        1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_fluor_lamp",
+                        "pos": [
+                        1639.6334552480632,
+                        181.408809,
+                        7487.85791228911
+                      ],
+                        "ypr": [
+                        193.207123,
+                        0,
+                        180
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_flag_chernarus_pole",
+                        "pos": [
+                        1642.7665389395981,
+                        184.586599,
+                        7480.717821173249
+                      ],
+                        "ypr": [
+                        73.207123,
+                        0.000149,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_flag_chernarus_pole",
+                        "pos": [
+                        1645.2173026604323,
+                        184.580229,
+                        7481.457418299666
+                      ],
+                        "ypr": [
+                        73.207123,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_school_clock",
+                        "pos": [
+                        1637.6489870256567,
+                        183.723069,
+                        7485.331968900554
+                      ],
+                        "ypr": [
+                        253.207123,
+                        0,
+                        0
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    },
+{
+                        "name": "staticobj_furniture_tac_board_posters_level2",
+                        "pos": [
+                        1645.2505337231298,
+                        182.408879,
+                        7490.532492242933
+                      ],
+                        "ypr": [
+                        73.207123,
+                        0,
+                        -1
+                        ],
+                        "scale": 1,
+                        "enableCEPersistency": false
+                    }
+			]
+            }
