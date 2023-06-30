@@ -1,0 +1,6139 @@
+{
+                      "Objects": [
+{
+                    "name": "staticobj_furniture_couch_beige84x213x75_dz",
+                    "pos": [
+                    4275.032348037437,
+                    248.22948499999998,
+                    4821.928048333247
+                  ],
+                    "ypr": [
+                    218.999992,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_library_a",
+                    "pos": [
+                    4282.003969685526,
+                    251.031777,
+                    4826.66242245183
+                  ],
+                    "ypr": [
+                    219.989997,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_library_a",
+                    "pos": [
+                    4281.311843730856,
+                    251.031777,
+                    4827.243049322763
+                  ],
+                    "ypr": [
+                    219.998985,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_g",
+                    "pos": [
+                    4280.48021497738,
+                    252.855034,
+                    4823.292966049415
+                  ],
+                    "ypr": [
+                    39.999983,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_a_05",
+                    "pos": [
+                    4283.562861074005,
+                    251.731819,
+                    4824.592686049976
+                  ],
+                    "ypr": [
+                    309.999977,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_luxury_lamp",
+                    "pos": [
+                    4283.51730536688,
+                    252.755913,
+                    4825.454709983472
+                  ],
+                    "ypr": [
+                    39.999992,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_luxury_lamp",
+                    "pos": [
+                    4281.291202823986,
+                    252.75592799999998,
+                    4822.80175050339
+                  ],
+                    "ypr": [
+                    219.998985,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_luxury_lamp",
+                    "pos": [
+                    4274.800380467511,
+                    250.003624,
+                    4830.383168578524
+                  ],
+                    "ypr": [
+                    309.999954,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_luxury_lamp",
+                    "pos": [
+                    4272.93877048893,
+                    250.00363199999998,
+                    4828.164588198541
+                  ],
+                    "ypr": [
+                    309.999992,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_a_02",
+                    "pos": [
+                    4273.826208829658,
+                    248.829521,
+                    4825.932617997414
+                  ],
+                    "ypr": [
+                    129.999992,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_d",
+                    "pos": [
+                    4274.485186144771,
+                    249.829521,
+                    4826.735069542233
+                  ],
+                    "ypr": [
+                    130.00003,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_library_a_open",
+                    "pos": [
+                    4273.349520750112,
+                    248.279488,
+                    4822.984265810971
+                  ],
+                    "ypr": [
+                    39.999992,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_carpet_2_dz",
+                    "pos": [
+                    4281.102382418626,
+                    251.109253,
+                    4824.683278957736
+                  ],
+                    "ypr": [
+                    36.999978999999996,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_case_a_open",
+                    "pos": [
+                    4277.666431861992,
+                    251.026932,
+                    4822.077194450978
+                  ],
+                    "ypr": [
+                    219.998985,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_luxury_lamp",
+                    "pos": [
+                    4280.836350282701,
+                    252.70591,
+                    4822.556821604144
+                  ],
+                    "ypr": [
+                    39.999992,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_luxury_lamp",
+                    "pos": [
+                    4279.188242851465,
+                    252.705933,
+                    4820.592683651987
+                  ],
+                    "ypr": [
+                    219.998985,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_a",
+                    "pos": [
+                    4280.27690836512,
+                    252.83180099999998,
+                    4823.2285872406965
+                  ],
+                    "ypr": [
+                    219.998985,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_case_cans_b",
+                    "pos": [
+                    4277.5893076415505,
+                    251.031777,
+                    4827.520187387955
+                  ],
+                    "ypr": [
+                    219.899971,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_a_03",
+                    "pos": [
+                    4276.98730205391,
+                    251.48180399999998,
+                    4823.291835761103
+                  ],
+                    "ypr": [
+                    309.999954,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_library_a_open",
+                    "pos": [
+                    4277.787044371471,
+                    251.026932,
+                    4824.492291629676
+                  ],
+                    "ypr": [
+                    309.999992,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_radiator",
+                    "pos": [
+                    4279.914254977196,
+                    248.429497,
+                    4823.682596283505
+                  ],
+                    "ypr": [
+                    130.00003,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_c",
+                    "pos": [
+                    4274.038191721153,
+                    252.63181,
+                    4825.174028882463
+                  ],
+                    "ypr": [
+                    129.999992,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_f",
+                    "pos": [
+                    4274.784156574505,
+                    249.979512,
+                    4821.5585441806625
+                  ],
+                    "ypr": [
+                    39.999992,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_box_c_multi",
+                    "pos": [
+                    4348.7617933954,
+                    232.297302,
+                    4649.355088014297
+                  ],
+                    "ypr": [
+                    102.00007700000003,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_ch_mod_h",
+                    "pos": [
+                    4349.01527667217,
+                    233.635307,
+                    4648.745976018359
+                  ],
+                    "ypr": [
+                    25.000007999999994,
+                    -88.000114,
+                    -0.000009
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_bucket",
+                    "pos": [
+                    4349.625600324643,
+                    233.487297,
+                    4648.348686317042
+                  ],
+                    "ypr": [
+                    304.000042,
+                    -82.59996,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_ch_office_b",
+                    "pos": [
+                    4348.658245003657,
+                    233.8656,
+                    4648.941540952278
+                  ],
+                    "ypr": [
+                    185.000046,
+                    -45.000019,
+                    179.999969
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_class_case_b_closed",
+                    "pos": [
+                    4348.656720381833,
+                    232.497238,
+                    4647.417359667773
+                  ],
+                    "ypr": [
+                    195.000046,
+                    0,
+                    -22.000013
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_f_02",
+                    "pos": [
+                    4349.518631406454,
+                    232.332298,
+                    4649.367281406298
+                  ],
+                    "ypr": [
+                    282.000046,
+                    33.199997,
+                    2
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_d",
+                    "pos": [
+                    4348.488518004897,
+                    233.965551,
+                    4649.6821505327325
+                  ],
+                    "ypr": [
+                    102.00106800000003,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_e",
+                    "pos": [
+                    4348.197740763937,
+                    233.965555,
+                    4648.314156570291
+                  ],
+                    "ypr": [
+                    101.999954,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_box_c_multi",
+                    "pos": [
+                    4346.9667430248,
+                    232.265503,
+                    4656.119468452876
+                  ],
+                    "ypr": [
+                    17.00005399999999,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_case_cans_b",
+                    "pos": [
+                    4350.1992401369525,
+                    232.747299,
+                    4656.1734659582835
+                  ],
+                    "ypr": [
+                    192.00003800000002,
+                    0,
+                    53.999996
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_box_c",
+                    "pos": [
+                    4348.773627691901,
+                    232.565513,
+                    4656.515917005913
+                  ],
+                    "ypr": [
+                    271.000039,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_debris_small_house",
+                    "pos": [
+                    4348.691750982807,
+                    232.265495,
+                    4655.092262695183
+                  ],
+                    "ypr": [
+                    84.000046,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_sofa_leather_old",
+                    "pos": [
+                    4346.617922220615,
+                    232.69725,
+                    4650.043324307899
+                  ],
+                    "ypr": [
+                    282.000046,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_box_c",
+                    "pos": [
+                    4346.4363846779725,
+                    232.597297,
+                    4648.700372279817
+                  ],
+                    "ypr": [
+                    271.000045,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_c_02",
+                    "pos": [
+                    4346.87254520939,
+                    232.515518,
+                    4648.957520410283
+                  ],
+                    "ypr": [
+                    282.000046,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_f",
+                    "pos": [
+                    4346.810394140815,
+                    232.965484,
+                    4648.665123776042
+                  ],
+                    "ypr": [
+                    282.000046,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_b",
+                    "pos": [
+                    4346.840788277942,
+                    233.965544,
+                    4648.735970641549
+                  ],
+                    "ypr": [
+                    282.000024,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_b_02",
+                    "pos": [
+                    4346.715630752885,
+                    233.36557,
+                    4648.219298847922
+                  ],
+                    "ypr": [
+                    282.000046,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_a",
+                    "pos": [
+                    4346.723542446339,
+                    233.837295,
+                    4648.256520292221
+                  ],
+                    "ypr": [
+                    282.000037,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_e_02",
+                    "pos": [
+                    4346.650773079695,
+                    232.265503,
+                    4647.914168690387
+                  ],
+                    "ypr": [
+                    282.000046,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_c",
+                    "pos": [
+                    4346.58948110547,
+                    233.897301,
+                    4647.625813761341
+                  ],
+                    "ypr": [
+                    282.000037,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_g",
+                    "pos": [
+                    4346.622911560419,
+                    234.5073,
+                    4647.783091065371
+                  ],
+                    "ypr": [
+                    282.000046,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_carpet_big",
+                    "pos": [
+                    4345.6658923269215,
+                    232.315506,
+                    4650.102774336117
+                  ],
+                    "ypr": [
+                    10.000038000000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_lobby_table",
+                    "pos": [
+                    4345.377971136479,
+                    232.265503,
+                    4650.33479805748
+                  ],
+                    "ypr": [
+                    289.000046,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_fridge",
+                    "pos": [
+                    4342.459239561391,
+                    232.265503,
+                    4648.423932449218
+                  ],
+                    "ypr": [
+                    102.00007700000003,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_kitchenstove_elec",
+                    "pos": [
+                    4342.5771600375765,
+                    232.265503,
+                    4648.975446304045
+                  ],
+                    "ypr": [
+                    282.000046,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "BoxCerealCrunchin",
+                    "pos": [
+                    4345.426831229321,
+                    232.772301,
+                    4650.38456599167
+                  ],
+                    "ypr": [
+                    2,
+                    -90,
+                    -0.000022
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_radio_b",
+                    "pos": [
+                    4343.159926127043,
+                    233.057297,
+                    4651.196910660263
+                  ],
+                    "ypr": [
+                    69.000168,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Pot",
+                    "pos": [
+                    4342.424992272749,
+                    233.112297,
+                    4648.893851832221
+                  ],
+                    "ypr": [
+                    110.000031,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Vodka",
+                    "pos": [
+                    4342.594693341776,
+                    233.802627,
+                    4648.436720367161
+                  ],
+                    "ypr": [
+                    15.298821000000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Vodka",
+                    "pos": [
+                    4342.496120467116,
+                    233.701301,
+                    4648.477825142433
+                  ],
+                    "ypr": [
+                    173.6082,
+                    90,
+                    -0.000022
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "WaterBottle",
+                    "pos": [
+                    4343.3717076116045,
+                    233.0923,
+                    4651.380019035295
+                  ],
+                    "ypr": [
+                    28.833168,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_tv_a",
+                    "pos": [
+                    4344.465798366294,
+                    233.938382,
+                    4654.1963438416215
+                  ],
+                    "ypr": [
+                    2.000030999999993,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_flowers_01",
+                    "pos": [
+                    4345.097029028573,
+                    233.941382,
+                    4654.114995440297
+                  ],
+                    "ypr": [
+                    282.000046,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_radiator",
+                    "pos": [
+                    4343.140956328459,
+                    232.365509,
+                    4653.4967521565795
+                  ],
+                    "ypr": [
+                    282.000046,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_debris_small_house",
+                    "pos": [
+                    4346.2005803138045,
+                    232.247299,
+                    4652.574822631815
+                  ],
+                    "ypr": [
+                    282.000046,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_lekarnicka",
+                    "pos": [
+                    4341.574909314406,
+                    233.565582,
+                    4647.409422085713
+                  ],
+                    "ypr": [
+                    282.000046,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "FirstAidKit",
+                    "pos": [
+                    4341.915941071819,
+                    234.367302,
+                    4646.945666069554
+                  ],
+                    "ypr": [
+                    300.000035,
+                    -89.965729,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_flowers_02",
+                    "pos": [
+                    4343.178818506107,
+                    232.847297,
+                    4644.1278761545245
+                  ],
+                    "ypr": [
+                    314.00005,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_washing_machine",
+                    "pos": [
+                    4343.544372144724,
+                    232.265495,
+                    4645.171138961914
+                  ],
+                    "ypr": [
+                    102.00007700000003,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_bag_dz",
+                    "pos": [
+                    4343.665596512187,
+                    232.682625,
+                    4645.870049901066
+                  ],
+                    "ypr": [
+                    82.00006099999999,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_box_c",
+                    "pos": [
+                    4341.696438218059,
+                    232.597297,
+                    4644.152581383421
+                  ],
+                    "ypr": [
+                    197.000023,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_bucket",
+                    "pos": [
+                    4343.469946611591,
+                    232.2873,
+                    4644.565248701782
+                  ],
+                    "ypr": [
+                    282.000046,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_radiator",
+                    "pos": [
+                    4344.321605322228,
+                    232.365501,
+                    4646.30102131639
+                  ],
+                    "ypr": [
+                    282.000046,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_desk_globe",
+                    "pos": [
+                    4344.390484754466,
+                    233.057297,
+                    4644.7014936386295
+                  ],
+                    "ypr": [
+                    0.000045999999997548,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_flag_chernarus_wall",
+                    "pos": [
+                    4344.199775260662,
+                    234.365623,
+                    4645.49758823149
+                  ],
+                    "ypr": [
+                    282.000046,
+                    0,
+                    -2
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_vaulting_box_small",
+                    "pos": [
+                    4346.504318623351,
+                    232.2873,
+                    4643.076796400909
+                  ],
+                    "ypr": [
+                    279.000042,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_radio_b",
+                    "pos": [
+                    4346.411971046044,
+                    232.841301,
+                    4643.231238572141
+                  ],
+                    "ypr": [
+                    207.00000799999998,
+                    90,
+                    179.999985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Bear_Beige",
+                    "pos": [
+                    4347.43489702971,
+                    232.949867,
+                    4642.674732410247
+                  ],
+                    "ypr": [
+                    194.611847,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_school_map",
+                    "pos": [
+                    4349.379204618772,
+                    234.107307,
+                    4645.277522242133
+                  ],
+                    "ypr": [
+                    282.000046,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_debris_small_house",
+                    "pos": [
+                    4346.474155829751,
+                    232.267296,
+                    4644.397118037978
+                  ],
+                    "ypr": [
+                    282.000046,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_case_bedroom_b",
+                    "pos": [
+                    4349.4547022803645,
+                    235.51461,
+                    4646.518899617633
+                  ],
+                    "ypr": [
+                    19.000061000000002,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_box_c",
+                    "pos": [
+                    4349.918907108071,
+                    235.814628,
+                    4649.709096633929
+                  ],
+                    "ypr": [
+                    13.000053999999992,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_box_c",
+                    "pos": [
+                    4349.031422028513,
+                    235.8143,
+                    4649.891210509872
+                  ],
+                    "ypr": [
+                    192.00000799999998,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_box_c",
+                    "pos": [
+                    4348.885756050221,
+                    235.8143,
+                    4649.402000796463
+                  ],
+                    "ypr": [
+                    11.000061000000002,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_box_c",
+                    "pos": [
+                    4349.759153122234,
+                    235.8143,
+                    4649.160197628856
+                  ],
+                    "ypr": [
+                    12.000045999999998,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_box_c",
+                    "pos": [
+                    4348.9962974144855,
+                    236.414665,
+                    4649.8263223832655
+                  ],
+                    "ypr": [
+                    19.000045999999998,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_box_c",
+                    "pos": [
+                    4349.918492435215,
+                    236.414299,
+                    4649.676022085838
+                  ],
+                    "ypr": [
+                    194.00003800000002,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_box_c",
+                    "pos": [
+                    4349.64127840495,
+                    235.8143,
+                    4648.637281187043
+                  ],
+                    "ypr": [
+                    185.00003099999998,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_box_c",
+                    "pos": [
+                    4348.703116361175,
+                    235.8143,
+                    4648.916519862202
+                  ],
+                    "ypr": [
+                    195.000046,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_box_c",
+                    "pos": [
+                    4349.516265525193,
+                    236.414299,
+                    4649.011361540096
+                  ],
+                    "ypr": [
+                    214.00003099999998,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "WindscreenBox",
+                    "pos": [
+                    4347.745638235313,
+                    235.497299,
+                    4645.679726263838
+                  ],
+                    "ypr": [
+                    13.000077000000005,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_library_a_open",
+                    "pos": [
+                    4344.210438249861,
+                    235.51461,
+                    4646.110384432547
+                  ],
+                    "ypr": [
+                    13.000077000000005,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_postel_manz_kov",
+                    "pos": [
+                    4343.463891286615,
+                    237.25730099999998,
+                    4649.562745815855
+                  ],
+                    "ypr": [
+                    20.00005399999999,
+                    0,
+                    90.000038
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_foldingbed_open",
+                    "pos": [
+                    4343.7800070041585,
+                    235.255302,
+                    4648.100956567985
+                  ],
+                    "ypr": [
+                    8.000053999999992,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_box_c_multi",
+                    "pos": [
+                    4346.592344002883,
+                    235.51461,
+                    4649.136552037424
+                  ],
+                    "ypr": [
+                    274.000045,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "StaticObj_Furniture_class_case_b_closed",
+                    "pos": [
+                    4344.618358847888,
+                    232.312022,
+                    4654.1000227511295
+                  ],
+                    "ypr": [
+                    12.000045999999998,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_couch_dz",
+                    "pos": [
+                    4389.27433340384,
+                    232.413978,
+                    4625.587710702689
+                  ],
+                    "ypr": [
+                    216,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_case_bedroom_b",
+                    "pos": [
+                    4390.2044795858765,
+                    231.780762,
+                    4624.690813907529
+                  ],
+                    "ypr": [
+                    124.999992,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_couch_dz",
+                    "pos": [
+                    4391.93244453198,
+                    232.648979,
+                    4624.940350137495
+                  ],
+                    "ypr": [
+                    165.999988,
+                    -84.000038,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_couch_dz",
+                    "pos": [
+                    4395.977272506365,
+                    232.413978,
+                    4620.94444162857
+                  ],
+                    "ypr": [
+                    209,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_couch_dz",
+                    "pos": [
+                    4393.917418209994,
+                    232.413978,
+                    4622.347580057808
+                  ],
+                    "ypr": [
+                    214.99999200000002,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_case_bedroom_a",
+                    "pos": [
+                    4394.943059901152,
+                    232.715027,
+                    4621.722712151928
+                  ],
+                    "ypr": [
+                    124.999992,
+                    0.023906,
+                    0.000014
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_flowers_02",
+                    "pos": [
+                    4392.707519648033,
+                    232.432494,
+                    4623.366916091122
+                  ],
+                    "ypr": [
+                    258.999931,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_tac_board_posters_level2",
+                    "pos": [
+                    4395.776139241783,
+                    233.382691,
+                    4628.278265718789
+                  ],
+                    "ypr": [
+                    305.000023,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_hospital_transport_bed",
+                    "pos": [
+                    4398.343836178936,
+                    232.788978,
+                    4626.641122460959
+                  ],
+                    "ypr": [
+                    90.00001900000001,
+                    0,
+                    93.000023
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_ch_office_b",
+                    "pos": [
+                    4396.8038255428455,
+                    232.416977,
+                    4627.965099711662
+                  ],
+                    "ypr": [
+                    114.999988,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_debris_small_house",
+                    "pos": [
+                    4392.759355467567,
+                    232.423981,
+                    4624.985210451445
+                  ],
+                    "ypr": [
+                    97.99998400000001,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_debris_small_house",
+                    "pos": [
+                    4397.97751334027,
+                    232.423981,
+                    4626.043747587657
+                  ],
+                    "ypr": [
+                    111.00000200000001,
+                    0.018253,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_case_d",
+                    "pos": [
+                    4395.224851992921,
+                    232.382691,
+                    4626.332411357424
+                  ],
+                    "ypr": [
+                    214.99999200000002,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_c",
+                    "pos": [
+                    4399.679859525572,
+                    234.132685,
+                    4633.802796927235
+                  ],
+                    "ypr": [
+                    124.999983,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_kitchen_unit_a_dz",
+                    "pos": [
+                    4399.891835032263,
+                    232.413978,
+                    4633.669667627213
+                  ],
+                    "ypr": [
+                    304.99897,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_case_sink_a",
+                    "pos": [
+                    4398.898445421215,
+                    232.432709,
+                    4632.1463532053085
+                  ],
+                    "ypr": [
+                    214.99999200000002,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_light_kitchen_03",
+                    "pos": [
+                    4400.926573070884,
+                    234.333603,
+                    4630.846749463659
+                  ],
+                    "ypr": [
+                    124.999992,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_sofa_leather_old",
+                    "pos": [
+                    4403.801904891243,
+                    232.818978,
+                    4631.299573295374
+                  ],
+                    "ypr": [
+                    303.999977,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_lobby_table",
+                    "pos": [
+                    4402.368779485372,
+                    232.384003,
+                    4632.3301742025
+                  ],
+                    "ypr": [
+                    124.999992,
+                    0.018259,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_tv_a",
+                    "pos": [
+                    4402.444830727614,
+                    232.86298399999998,
+                    4632.520092298076
+                  ],
+                    "ypr": [
+                    308.000038,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_radio_b",
+                    "pos": [
+                    4402.230688228564,
+                    232.863983,
+                    4632.083829084438
+                  ],
+                    "ypr": [
+                    205.999984,
+                    0.018259,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_carpet_big",
+                    "pos": [
+                    4402.143547955556,
+                    232.434014,
+                    4631.605617034171
+                  ],
+                    "ypr": [
+                    223,
+                    0.018259,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_library_a",
+                    "pos": [
+                    4401.16472646832,
+                    232.384055,
+                    4627.763337711803
+                  ],
+                    "ypr": [
+                    34.99998400000001,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_kitchen_chair_a",
+                    "pos": [
+                    4400.613780938756,
+                    232.643982,
+                    4630.18142512176
+                  ],
+                    "ypr": [
+                    278.000023,
+                    -87.000038,
+                    -0.000009
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_hanged_doctor",
+                    "pos": [
+                    4400.879067710121,
+                    236.62216899999999,
+                    4629.397937857264
+                  ],
+                    "ypr": [
+                    158,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_case_a_open",
+                    "pos": [
+                    4398.015349591505,
+                    232.423981,
+                    4630.152913741778
+                  ],
+                    "ypr": [
+                    214.99999200000002,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_kitchenstove_elec",
+                    "pos": [
+                    4360.563825422531,
+                    236.55972100000002,
+                    4717.9052492573355
+                  ],
+                    "ypr": [
+                    246.000071,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_kitchen_desk_a",
+                    "pos": [
+                    4361.069439661691,
+                    237.619721,
+                    4716.761799787022
+                  ],
+                    "ypr": [
+                    335.000071,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_library_a_open",
+                    "pos": [
+                    4369.0080534223625,
+                    236.544517,
+                    4718.347557624573
+                  ],
+                    "ypr": [
+                    245.000056,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_luxury_lamp",
+                    "pos": [
+                    4366.907845229403,
+                    238.51866900000002,
+                    4718.126166024797
+                  ],
+                    "ypr": [
+                    245.000071,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_couch_beige84x213x75_dz",
+                    "pos": [
+                    4364.55037416877,
+                    236.514721,
+                    4717.831311889753
+                  ],
+                    "ypr": [
+                    154.000025,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_carpet_big",
+                    "pos": [
+                    4363.956764908277,
+                    236.56972100000002,
+                    4719.158269327302
+                  ],
+                    "ypr": [
+                    156.00001,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_chest_dz",
+                    "pos": [
+                    4363.166490128691,
+                    236.30972100000002,
+                    4721.366266669664
+                  ],
+                    "ypr": [
+                    66.00008600000001,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_tv_a",
+                    "pos": [
+                    4363.142697273088,
+                    237.18895300000003,
+                    4721.370792426196
+                  ],
+                    "ypr": [
+                    333.000071,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_bar_shelves_dz",
+                    "pos": [
+                    4367.167287953521,
+                    236.51943300000002,
+                    4722.599580830641
+                  ],
+                    "ypr": [
+                    65.00007099999999,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_washing_machine",
+                    "pos": [
+                    4367.721333326796,
+                    236.544517,
+                    4715.681819027176
+                  ],
+                    "ypr": [
+                    335.000071,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_lekarnicka",
+                    "pos": [
+                    4370.747480859755,
+                    237.84459700000002,
+                    4715.757843827543
+                  ],
+                    "ypr": [
+                    65.00007099999999,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_class_case_a_closed",
+                    "pos": [
+                    4359.973433197327,
+                    236.544517,
+                    4719.384314509588
+                  ],
+                    "ypr": [
+                    245.000056,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_e_02",
+                    "pos": [
+                    4363.704052557803,
+                    237.34456600000001,
+                    4714.4153936441635
+                  ],
+                    "ypr": [
+                    335.000071,
+                    0.000024,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_postel_manz_kov",
+                    "pos": [
+                    4365.410784598071,
+                    239.553673,
+                    4721.721553473705
+                  ],
+                    "ypr": [
+                    66.00008600000001,
+                    -0.000003,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_case_bedroom_a",
+                    "pos": [
+                    4366.548326330752,
+                    239.91346700000003,
+                    4722.372365863673
+                  ],
+                    "ypr": [
+                    335.000071,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_case_bedroom_a",
+                    "pos": [
+                    4367.526455765324,
+                    239.91346700000003,
+                    4720.280622121971
+                  ],
+                    "ypr": [
+                    335.000071,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_carpet_2_dz",
+                    "pos": [
+                    4364.985537307063,
+                    239.77972400000002,
+                    4720.528850271507
+                  ],
+                    "ypr": [
+                    60.00007899999999,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_box_c_multi",
+                    "pos": [
+                    4364.6720881145475,
+                    239.68972000000002,
+                    4717.770747954839
+                  ],
+                    "ypr": [
+                    327.000069,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_kitchen_chair_a",
+                    "pos": [
+                    4361.473840613933,
+                    239.889725,
+                    4718.076675521227
+                  ],
+                    "ypr": [
+                    154.99999499999998,
+                    -64.000015,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_kitchen_chair_a",
+                    "pos": [
+                    4362.613173528301,
+                    239.70368200000001,
+                    4718.244953416254
+                  ],
+                    "ypr": [
+                    266.000071,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_box_c",
+                    "pos": [
+                    4363.142394953253,
+                    240.0037,
+                    4720.109031091099
+                  ],
+                    "ypr": [
+                    31.000062999999997,
+                    -0.000003,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_b_02",
+                    "pos": [
+                    4364.373733212073,
+                    240.78971900000002,
+                    4719.807230577307
+                  ],
+                    "ypr": [
+                    344.000028,
+                    90,
+                    -0.000009
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_flowers_02",
+                    "pos": [
+                    4368.745019779765,
+                    239.69471000000001,
+                    4717.282706361486
+                  ],
+                    "ypr": [
+                    171.000025,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_case_bedroom_a",
+                    "pos": [
+                    4363.202184442489,
+                    236.775932,
+                    4714.51943872205
+                  ],
+                    "ypr": [
+                    153.000071,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_flowers_02",
+                    "pos": [
+                    4368.745019779765,
+                    239.69471000000001,
+                    4717.282706361486
+                  ],
+                    "ypr": [
+                    171.000025,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_fridge",
+                    "pos": [
+                    4360.737491386795,
+                    236.544517,
+                    4720.387862765741
+                  ],
+                    "ypr": [
+                    154.990076,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_case_bedroom_a",
+                    "pos": [
+                    4363.202184442489,
+                    236.775932,
+                    4714.51943872205
+                  ],
+                    "ypr": [
+                    153.000071,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_washing_machine",
+                    "pos": [
+                    4458.419248361724,
+                    235.316879,
+                    4628.766421196008
+                  ],
+                    "ypr": [
+                    241.990021,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_case_d",
+                    "pos": [
+                    4458.708221424179,
+                    235.316879,
+                    4627.89895304475
+                  ],
+                    "ypr": [
+                    239.998993,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_box_c_multi",
+                    "pos": [
+                    4464.527219145497,
+                    235.316879,
+                    4631.178193332582
+                  ],
+                    "ypr": [
+                    156,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_case_sink_a",
+                    "pos": [
+                    4461.652056687846,
+                    235.385124,
+                    4628.478698663549
+                  ],
+                    "ypr": [
+                    60,
+                    0,
+                    0.000019
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_carpet_big",
+                    "pos": [
+                    4463.835824989188,
+                    235.502624,
+                    4621.845890059171
+                  ],
+                    "ypr": [
+                    60,
+                    0,
+                    0.000007
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_office_desk",
+                    "pos": [
+                    4466.060875017805,
+                    235.890106,
+                    4621.690922186149
+                  ],
+                    "ypr": [
+                    330.008133,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_ch_office_b",
+                    "pos": [
+                    4465.878174806557,
+                    235.502624,
+                    4622.073190293563
+                  ],
+                    "ypr": [
+                    352,
+                    0,
+                    0.000007
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_pc",
+                    "pos": [
+                    4465.963278057254,
+                    236.30578599999998,
+                    4621.582449074184
+                  ],
+                    "ypr": [
+                    60,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_kitchen_table_a",
+                    "pos": [
+                    4463.024243743617,
+                    235.45843499999998,
+                    4626.314164607933
+                  ],
+                    "ypr": [
+                    60,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_office_chair",
+                    "pos": [
+                    4463.565958004629,
+                    235.88011899999998,
+                    4625.594379859822
+                  ],
+                    "ypr": [
+                    136,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_office_chair",
+                    "pos": [
+                    4462.5082405254525,
+                    235.88011899999998,
+                    4625.982186394545
+                  ],
+                    "ypr": [
+                    232.000031,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_chest_dz",
+                    "pos": [
+                    4463.113766775556,
+                    235.230117,
+                    4623.115875775182
+                  ],
+                    "ypr": [
+                    60,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_tv_a",
+                    "pos": [
+                    4463.142879074992,
+                    236.110122,
+                    4623.070537785918
+                  ],
+                    "ypr": [
+                    334,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_library_a_open",
+                    "pos": [
+                    4462.443182614716,
+                    235.490119,
+                    4623.376469690835
+                  ],
+                    "ypr": [
+                    329.999985,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_library_a_open",
+                    "pos": [
+                    4463.224442349493,
+                    235.490119,
+                    4623.827530136293
+                  ],
+                    "ypr": [
+                    330,
+                    0,
+                    0.000007
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_case_bedroom_a",
+                    "pos": [
+                    4461.951536303864,
+                    235.690094,
+                    4621.63633590449
+                  ],
+                    "ypr": [
+                    148,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_couch_dz",
+                    "pos": [
+                    4460.442483090573,
+                    235.490119,
+                    4624.25527916327
+                  ],
+                    "ypr": [
+                    238.999969,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_luxury_light",
+                    "pos": [
+                    4464.205121479738,
+                    238.095123,
+                    4622.231735795357
+                  ],
+                    "ypr": [
+                    60,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_flowers_02",
+                    "pos": [
+                    4459.911558645574,
+                    235.490119,
+                    4625.271393436922
+                  ],
+                    "ypr": [
+                    83.999994,
+                    0,
+                    0.000007
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_luxury_light",
+                    "pos": [
+                    4462.383345142129,
+                    238.085121,
+                    4626.08745156554
+                  ],
+                    "ypr": [
+                    60,
+                    0,
+                    0.000007
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_light_kitchen_03",
+                    "pos": [
+                    4468.023477117382,
+                    237.102722,
+                    4625.166393917878
+                  ],
+                    "ypr": [
+                    60,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_d_02",
+                    "pos": [
+                    4468.22296123509,
+                    236.202667,
+                    4626.918939488696
+                  ],
+                    "ypr": [
+                    239.999878,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_debris_small_house",
+                    "pos": [
+                    4466.2391592727745,
+                    235.460121,
+                    4623.360288987765
+                  ],
+                    "ypr": [
+                    179.99994700000002,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_debris_small_house",
+                    "pos": [
+                    4461.10037025283,
+                    235.465118,
+                    4625.595157288682
+                  ],
+                    "ypr": [
+                    337.000008,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_kitchen_unit_a_dz",
+                    "pos": [
+                    4416.759138585334,
+                    236.34124,
+                    4693.214147177416
+                  ],
+                    "ypr": [
+                    285.000023,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_lekarnicka",
+                    "pos": [
+                    4420.735304872232,
+                    236.786385,
+                    4694.42280057287
+                  ],
+                    "ypr": [
+                    32.999984999999995,
+                    -90,
+                    -0.000009
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_case_a",
+                    "pos": [
+                    4415.989548772493,
+                    236.34639,
+                    4690.217169109107
+                  ],
+                    "ypr": [
+                    285.000023,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_carpet_big",
+                    "pos": [
+                    4418.261807673468,
+                    236.34124,
+                    4689.1556660544875
+                  ],
+                    "ypr": [
+                    288.000024,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_lobby_chair",
+                    "pos": [
+                    4417.950573006192,
+                    236.336388,
+                    4691.720547242863
+                  ],
+                    "ypr": [
+                    84.000054,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_debris_small_house",
+                    "pos": [
+                    4418.180724913172,
+                    236.34124,
+                    4693.171904425798
+                  ],
+                    "ypr": [
+                    242.000023,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_bucket",
+                    "pos": [
+                    4419.817551830973,
+                    236.34124,
+                    4690.625791541242
+                  ],
+                    "ypr": [
+                    285.000023,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_flowers_01",
+                    "pos": [
+                    4420.371350521165,
+                    236.336388,
+                    4692.672960480365
+                  ],
+                    "ypr": [
+                    240.000034,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_fluor_lamp",
+                    "pos": [
+                    4392.253346163774,
+                    234.948135,
+                    4602.641417643517
+                  ],
+                    "ypr": [
+                    35.000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_fluor_lamp",
+                    "pos": [
+                    4393.785521055743,
+                    234.948135,
+                    4601.5671461675265
+                  ],
+                    "ypr": [
+                    35.000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_library_a",
+                    "pos": [
+                    4386.2751262550155,
+                    232.138138,
+                    4609.875648914045
+                  ],
+                    "ypr": [
+                    125.00000399999999,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_a_05",
+                    "pos": [
+                    4388.212970488175,
+                    232.73793,
+                    4607.550510118884
+                  ],
+                    "ypr": [
+                    35.000004,
+                    0,
+                    -1
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_c_02",
+                    "pos": [
+                    4389.219568177195,
+                    232.72816500000002,
+                    4606.845682619631
+                  ],
+                    "ypr": [
+                    35.000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_d_02",
+                    "pos": [
+                    4390.047341600194,
+                    232.58792100000002,
+                    4608.292555272138
+                  ],
+                    "ypr": [
+                    215.00001899999998,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_debris_small_house",
+                    "pos": [
+                    4393.265023596094,
+                    232.138138,
+                    4601.143979432194
+                  ],
+                    "ypr": [
+                    87.00000399999999,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_couch_beige84x213x75_dz",
+                    "pos": [
+                    4388.530367822714,
+                    232.08813500000002,
+                    4604.513755307735
+                  ],
+                    "ypr": [
+                    124.00000399999999,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_lobby_table",
+                    "pos": [
+                    4387.388546483791,
+                    232.128006,
+                    4605.300858279224
+                  ],
+                    "ypr": [
+                    129.000035,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_light_kitchen_03",
+                    "pos": [
+                    4385.4169897765605,
+                    233.698494,
+                    4605.747829917814
+                  ],
+                    "ypr": [
+                    35.000004,
+                    -0.000004,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_office_desk",
+                    "pos": [
+                    4383.883382645218,
+                    232.504982,
+                    4608.828433027911
+                  ],
+                    "ypr": [
+                    125.00000399999999,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_ch_office_b",
+                    "pos": [
+                    4384.115632513655,
+                    232.135132,
+                    4608.719668009528
+                  ],
+                    "ypr": [
+                    115.00000399999999,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_pc",
+                    "pos": [
+                    4383.930392055193,
+                    232.92066200000002,
+                    4608.856622552912
+                  ],
+                    "ypr": [
+                    203.00001899999998,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_flowers_01",
+                    "pos": [
+                    4383.550790296564,
+                    232.918236,
+                    4608.465301593379
+                  ],
+                    "ypr": [
+                    34.999975,
+                    -0.004193,
+                    0.396783
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_a_05",
+                    "pos": [
+                    4385.889959163524,
+                    232.93794200000002,
+                    4608.945153448591
+                  ],
+                    "ypr": [
+                    215.00001899999998,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_luxury_lamp",
+                    "pos": [
+                    4388.519982598558,
+                    234.162048,
+                    4609.1666999231575
+                  ],
+                    "ypr": [
+                    35.000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_luxury_lamp",
+                    "pos": [
+                    4390.410611544801,
+                    234.15813400000002,
+                    4607.842866889631
+                  ],
+                    "ypr": [
+                    35.03673,
+                    1.679372,
+                    1.252985
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_a_03",
+                    "pos": [
+                    4382.703393004783,
+                    232.58792100000002,
+                    4607.912890314324
+                  ],
+                    "ypr": [
+                    125.00000399999999,
+                    0,
+                    1
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_luxury_lamp",
+                    "pos": [
+                    4382.835542441239,
+                    234.20813700000002,
+                    4607.82441122728
+                  ],
+                    "ypr": [
+                    305.000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_luxury_lamp",
+                    "pos": [
+                    4383.994167073706,
+                    234.20813700000002,
+                    4609.479098194969
+                  ],
+                    "ypr": [
+                    305.000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_a_02",
+                    "pos": [
+                    4388.593370153115,
+                    232.73793,
+                    4603.8764393002375
+                  ],
+                    "ypr": [
+                    304.99998899999997,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_c",
+                    "pos": [
+                    4389.928986019394,
+                    233.93794300000002,
+                    4605.775178638351
+                  ],
+                    "ypr": [
+                    305.000004,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_washing_machine",
+                    "pos": [
+                    4390.303486469878,
+                    232.13789400000002,
+                    4602.832064561854
+                  ],
+                    "ypr": [
+                    307.000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_library_a",
+                    "pos": [
+                    4387.429990870707,
+                    232.12825,
+                    4601.615380296596
+                  ],
+                    "ypr": [
+                    35.000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_chest_dz",
+                    "pos": [
+                    4381.977976697974,
+                    231.978058,
+                    4599.822780656404
+                  ],
+                    "ypr": [
+                    125.00001900000001,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_tv_a",
+                    "pos": [
+                    4381.902144261026,
+                    232.85813100000001,
+                    4599.896322209437
+                  ],
+                    "ypr": [
+                    217.000035,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_flowers_02",
+                    "pos": [
+                    4381.134514105285,
+                    232.138138,
+                    4600.597892469996
+                  ],
+                    "ypr": [
+                    67.02026000000001,
+                    0.979769,
+                    1.18437
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_flowers_01",
+                    "pos": [
+                    4382.384662563486,
+                    232.85813100000001,
+                    4599.461734734652
+                  ],
+                    "ypr": [
+                    35.000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_carpet_2_dz",
+                    "pos": [
+                    4383.4718815448905,
+                    232.628036,
+                    4602.462064092532
+                  ],
+                    "ypr": [
+                    204.000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_luxury_lamp",
+                    "pos": [
+                    4384.964007508311,
+                    234.10813100000001,
+                    4602.633875359309
+                  ],
+                    "ypr": [
+                    35.000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_luxury_lamp",
+                    "pos": [
+                    4383.149657992975,
+                    234.10813100000001,
+                    4603.904296944431
+                  ],
+                    "ypr": [
+                    35.000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_case_bedroom_a",
+                    "pos": [
+                    4384.796836153537,
+                    232.37802100000002,
+                    4602.392113830798
+                  ],
+                    "ypr": [
+                    304.999966,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_case_bedroom_a",
+                    "pos": [
+                    4382.880289105416,
+                    232.378136,
+                    4603.746063395267
+                  ],
+                    "ypr": [
+                    308.000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_c",
+                    "pos": [
+                    4384.142449210197,
+                    233.83792400000002,
+                    4603.399577698146
+                  ],
+                    "ypr": [
+                    215.00001899999998,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_flowers_01",
+                    "pos": [
+                    4382.8782336080885,
+                    232.65813400000002,
+                    4603.923795966791
+                  ],
+                    "ypr": [
+                    35.000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_luxury_light",
+                    "pos": [
+                    4383.400386991881,
+                    234.699478,
+                    4600.314737982411
+                  ],
+                    "ypr": [
+                    35.000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_a",
+                    "pos": [
+                    4385.830949524304,
+                    233.837927,
+                    4597.455601001703
+                  ],
+                    "ypr": [
+                    304.99998899999997,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_e",
+                    "pos": [
+                    4386.408761937857,
+                    233.837927,
+                    4598.280802403161
+                  ],
+                    "ypr": [
+                    305.000004,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_carpet_big",
+                    "pos": [
+                    4384.8580525091165,
+                    232.148132,
+                    4599.277006527643
+                  ],
+                    "ypr": [
+                    35.000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_case_sink_a",
+                    "pos": [
+                    4327.760155240544,
+                    233.492614,
+                    4631.520402586591
+                  ],
+                    "ypr": [
+                    15.000045999999998,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_kitchen_unit_a_dz",
+                    "pos": [
+                    4327.506947484476,
+                    233.37236000000001,
+                    4630.475360631501
+                  ],
+                    "ypr": [
+                    105.000031,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_light_kitchen_03",
+                    "pos": [
+                    4326.209794577694,
+                    235.092361,
+                    4631.536516739021
+                  ],
+                    "ypr": [
+                    195.000031,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_carpet_big",
+                    "pos": [
+                    4324.211613525512,
+                    233.442611,
+                    4633.317271118807
+                  ],
+                    "ypr": [
+                    195.008248,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_almara_open",
+                    "pos": [
+                    4325.396606414104,
+                    233.39236400000001,
+                    4635.249222963691
+                  ],
+                    "ypr": [
+                    105.000031,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_luxury_lamp",
+                    "pos": [
+                    4321.316725045066,
+                    235.447212,
+                    4635.558849803934
+                  ],
+                    "ypr": [
+                    285.00003100000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_flowers_01",
+                    "pos": [
+                    4320.420798681998,
+                    233.423057,
+                    4632.03681414852
+                  ],
+                    "ypr": [
+                    195.000031,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_d_02",
+                    "pos": [
+                    4327.9983999867845,
+                    234.173111,
+                    4631.304922979382
+                  ],
+                    "ypr": [
+                    285.00003100000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_debris_small_house",
+                    "pos": [
+                    4322.402560083867,
+                    233.443405,
+                    4632.1503043774665
+                  ],
+                    "ypr": [
+                    126.000031,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_debris_small_house",
+                    "pos": [
+                    4323.535811715057,
+                    233.412361,
+                    4634.564391221291
+                  ],
+                    "ypr": [
+                    47.023026000000016,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_e_02",
+                    "pos": [
+                    4322.704401041722,
+                    234.02309400000001,
+                    4629.5136719827615
+                  ],
+                    "ypr": [
+                    104.99999300000002,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_d_02",
+                    "pos": [
+                    4323.015077385745,
+                    233.89239500000002,
+                    4628.599007517225
+                  ],
+                    "ypr": [
+                    15.000045999999998,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_a_02",
+                    "pos": [
+                    4323.697205485417,
+                    233.992401,
+                    4628.416231741702
+                  ],
+                    "ypr": [
+                    15.000045999999998,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_e_02",
+                    "pos": [
+                    4324.692418145526,
+                    233.692382,
+                    4628.1495651641935
+                  ],
+                    "ypr": [
+                    15.000045999999998,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_a",
+                    "pos": [
+                    4323.309489634731,
+                    234.292361,
+                    4628.520119948808
+                  ],
+                    "ypr": [
+                    14.999955,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_c",
+                    "pos": [
+                    4323.960374143455,
+                    234.41236400000003,
+                    4628.340539491828
+                  ],
+                    "ypr": [
+                    15.000016000000016,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_e",
+                    "pos": [
+                    4324.187497972184,
+                    233.892337,
+                    4628.281752363788
+                  ],
+                    "ypr": [
+                    15.001037999999994,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_f",
+                    "pos": [
+                    4324.8440494207225,
+                    233.692361,
+                    4628.103759282671
+                  ],
+                    "ypr": [
+                    15.000016000000016,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_almara_open",
+                    "pos": [
+                    4391.040204236732,
+                    233.485885,
+                    4566.917507464904
+                  ],
+                    "ypr": [
+                    35.999992000000006,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_almara_open",
+                    "pos": [
+                    4381.708868204376,
+                    238.15730299999998,
+                    4693.706607255398
+                  ],
+                    "ypr": [
+                    177.148132,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_kitchen_unit_a_dz",
+                    "pos": [
+                    4390.43773627556,
+                    233.405212,
+                    4571.3557082108555
+                  ],
+                    "ypr": [
+                    35.02203300000001,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_kitchen_unit_a_dz",
+                    "pos": [
+                    4384.962176566184,
+                    238.07663,
+                    4690.628202114974
+                  ],
+                    "ypr": [
+                    176.170173,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_c_02",
+                    "pos": [
+                    4391.144606964571,
+                    234.105255,
+                    4569.141311928365
+                  ],
+                    "ypr": [
+                    305.000007,
+                    0,
+                    2
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_c_02",
+                    "pos": [
+                    4383.022575491077,
+                    238.776673,
+                    4691.909281634883
+                  ],
+                    "ypr": [
+                    86.148147,
+                    0,
+                    2
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_d",
+                    "pos": [
+                    4387.948191062959,
+                    234.88591,
+                    4564.004136034729
+                  ],
+                    "ypr": [
+                    34.999977,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_d",
+                    "pos": [
+                    4382.289251433534,
+                    239.55732799999998,
+                    4697.915102694894
+                  ],
+                    "ypr": [
+                    176.148117,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_radiator",
+                    "pos": [
+                    4387.178336669374,
+                    233.635894,
+                    4570.9253993800785
+                  ],
+                    "ypr": [
+                    305.000007,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_radiator",
+                    "pos": [
+                    4387.230563420101,
+                    238.307312,
+                    4693.007965246806
+                  ],
+                    "ypr": [
+                    86.148147,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_sofa_leather_new",
+                    "pos": [
+                    4386.453226286528,
+                    233.89397400000001,
+                    4566.794558627997
+                  ],
+                    "ypr": [
+                    64.008194,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_sofa_leather_new",
+                    "pos": [
+                    4385.203943374586,
+                    238.565392,
+                    4696.679809684891
+                  ],
+                    "ypr": [
+                    205.15633400000002,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_carpet_big",
+                    "pos": [
+                    4387.252421375601,
+                    233.505035,
+                    4566.993598070955
+                  ],
+                    "ypr": [
+                    164.013408,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_carpet_big",
+                    "pos": [
+                    4384.7064132666665,
+                    238.17645299999998,
+                    4696.023461239348
+                  ],
+                    "ypr": [
+                    305.161548,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_f",
+                    "pos": [
+                    4390.580641397454,
+                    235.13592500000001,
+                    4571.5730463596865
+                  ],
+                    "ypr": [
+                    215.00003,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_f",
+                    "pos": [
+                    4384.98722452737,
+                    239.807343,
+                    4690.369299924096
+                  ],
+                    "ypr": [
+                    356.14817,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_luxury_light",
+                    "pos": [
+                    4387.730378112368,
+                    235.934974,
+                    4567.042699216271
+                  ],
+                    "ypr": [
+                    124.999992,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_luxury_light",
+                    "pos": [
+                    4384.364996365188,
+                    240.606392,
+                    4695.6853960620865
+                  ],
+                    "ypr": [
+                    266.14813200000003,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_almara_open",
+                    "pos": [
+                    4332.92337057692,
+                    231.688322,
+                    4614.764812100538
+                  ],
+                    "ypr": [
+                    11.000039000000001,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_flowers_02",
+                    "pos": [
+                    4336.107915305263,
+                    231.688322,
+                    4614.163149349286
+                  ],
+                    "ypr": [
+                    169.013421,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_kitchen_unit_a_dz",
+                    "pos": [
+                    4336.733088250622,
+                    231.686461,
+                    4611.376305186821
+                  ],
+                    "ypr": [
+                    280.00003100000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_case_sink_a",
+                    "pos": [
+                    4336.5959013519205,
+                    231.68071600000002,
+                    4610.305708647238
+                  ],
+                    "ypr": [
+                    190.000031,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_couch_beige84x213x75_dz",
+                    "pos": [
+                    4340.589139754882,
+                    231.675238,
+                    4613.384301987491
+                  ],
+                    "ypr": [
+                    9.000023000000013,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_case_bedroom_a",
+                    "pos": [
+                    4339.221701748792,
+                    231.95670900000002,
+                    4613.5862762965
+                  ],
+                    "ypr": [
+                    275.000037,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_radiator",
+                    "pos": [
+                    4338.311310189865,
+                    231.888326,
+                    4608.1671829023235
+                  ],
+                    "ypr": [
+                    190.000031,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_b",
+                    "pos": [
+                    4339.187678052705,
+                    233.524817,
+                    4614.062727882386
+                  ],
+                    "ypr": [
+                    189.990044,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_luxury_light",
+                    "pos": [
+                    4338.851498253722,
+                    233.890038,
+                    4611.0275516386655
+                  ],
+                    "ypr": [
+                    280.000024,
+                    -0.005523,
+                    0.074255
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_carpet_big",
+                    "pos": [
+                    4340.077429574353,
+                    231.726767,
+                    4612.826543137883
+                  ],
+                    "ypr": [
+                    282.999978,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_debris_small_house",
+                    "pos": [
+                    4334.593999980464,
+                    231.698347,
+                    4612.404516036363
+                  ],
+                    "ypr": [
+                    281.00003100000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_sofacorner",
+                    "pos": [
+                    4429.363795344861,
+                    232.69665600000002,
+                    4609.448065719325
+                  ],
+                    "ypr": [
+                    115,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_carpet_big",
+                    "pos": [
+                    4429.459185789763,
+                    232.284149,
+                    4609.321067197909
+                  ],
+                    "ypr": [
+                    124.00000299999999,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_lobby_table",
+                    "pos": [
+                    4430.1441749966125,
+                    232.284943,
+                    4609.696185938822
+                  ],
+                    "ypr": [
+                    216.999977,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_case_sink_a",
+                    "pos": [
+                    4432.144639398561,
+                    232.284149,
+                    4611.0948533531955
+                  ],
+                    "ypr": [
+                    25,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_case_cans_b",
+                    "pos": [
+                    4425.547618933947,
+                    232.284149,
+                    4611.759919403117
+                  ],
+                    "ypr": [
+                    113,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_chest_dz",
+                    "pos": [
+                    4421.593395178823,
+                    232.012406,
+                    4612.792480662812
+                  ],
+                    "ypr": [
+                    207.00001500000002,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_carpet_2_dz",
+                    "pos": [
+                    4420.453572944404,
+                    232.78240200000002,
+                    4613.332919289116
+                  ],
+                    "ypr": [
+                    108,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_lobby_chair",
+                    "pos": [
+                    4422.65350229215,
+                    232.284149,
+                    4611.51535969527
+                  ],
+                    "ypr": [
+                    253.999985,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_lobby_chair",
+                    "pos": [
+                    4423.354036330563,
+                    232.284149,
+                    4612.985408326625
+                  ],
+                    "ypr": [
+                    309.99998500000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_office_table_a",
+                    "pos": [
+                    4423.523413207489,
+                    232.284149,
+                    4615.381498595014
+                  ],
+                    "ypr": [
+                    116,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_kitchen_chair_a",
+                    "pos": [
+                    4423.210478378471,
+                    232.284149,
+                    4614.872052432527
+                  ],
+                    "ypr": [
+                    219,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_library_a",
+                    "pos": [
+                    4419.504661260444,
+                    232.284149,
+                    4610.884473373259
+                  ],
+                    "ypr": [
+                    25,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_library_a_open",
+                    "pos": [
+                    4420.3228759172625,
+                    232.284149,
+                    4610.502933577999
+                  ],
+                    "ypr": [
+                    25,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_box_c_multi",
+                    "pos": [
+                    4422.965537931787,
+                    232.284149,
+                    4610.393707646613
+                  ],
+                    "ypr": [
+                    210,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_box_c",
+                    "pos": [
+                    4423.390657752651,
+                    233.218399,
+                    4609.255213147582
+                  ],
+                    "ypr": [
+                    119.000098,
+                    0,
+                    -86.000008
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_c",
+                    "pos": [
+                    4423.769659026924,
+                    233.727458,
+                    4615.764199728829
+                  ],
+                    "ypr": [
+                    205,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_debris_small_house",
+                    "pos": [
+                    4428.691826884617,
+                    232.247399,
+                    4611.516858706883
+                  ],
+                    "ypr": [
+                    115,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_almara",
+                    "pos": [
+                    4350.097225315879,
+                    233.113991,
+                    4676.999899759755
+                  ],
+                    "ypr": [
+                    273.69989,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_luxury_lamp",
+                    "pos": [
+                    4352.383295497203,
+                    235.088142,
+                    4676.2538237391245
+                  ],
+                    "ypr": [
+                    183.699852,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_kitchen_desk_a",
+                    "pos": [
+                    4351.954851017039,
+                    234.176842,
+                    4679.855979250401
+                  ],
+                    "ypr": [
+                    93.699905,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_kitchenstove_elec",
+                    "pos": [
+                    4350.196703055611,
+                    233.113991,
+                    4678.240313764786
+                  ],
+                    "ypr": [
+                    185.69984399999998,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_flowers_01",
+                    "pos": [
+                    4352.563554729228,
+                    233.113991,
+                    4677.980832070799
+                  ],
+                    "ypr": [
+                    223.699886,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_fridge",
+                    "pos": [
+                    4349.819293920448,
+                    233.113991,
+                    4680.016894977685
+                  ],
+                    "ypr": [
+                    184.69988999999998,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_b_02",
+                    "pos": [
+                    4348.005736624691,
+                    233.864036,
+                    4678.027005098032
+                  ],
+                    "ypr": [
+                    3.699928,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_c_02",
+                    "pos": [
+                    4347.356182875572,
+                    233.714027,
+                    4679.095355774612
+                  ],
+                    "ypr": [
+                    93.69982900000001,
+                    0,
+                    2
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_case_a",
+                    "pos": [
+                    4349.71652671962,
+                    233.113991,
+                    4673.938084777684
+                  ],
+                    "ypr": [
+                    183.69988999999998,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_conference_table_a",
+                    "pos": [
+                    4349.279074325016,
+                    233.456314,
+                    4675.740744960975
+                  ],
+                    "ypr": [
+                    182.699875,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_office_chair",
+                    "pos": [
+                    4349.545799727905,
+                    233.51004799999998,
+                    4675.4372364761275
+                  ],
+                    "ypr": [
+                    192.69988999999998,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_pc",
+                    "pos": [
+                    4349.45226529067,
+                    233.809814,
+                    4675.708403472
+                  ],
+                    "ypr": [
+                    259.699887,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_radio_b",
+                    "pos": [
+                    4347.607254635124,
+                    233.711815,
+                    4675.068578172677
+                  ],
+                    "ypr": [
+                    171.69993599999998,
+                    90,
+                    -0.000009
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_flowers_02",
+                    "pos": [
+                    4347.6707361072295,
+                    233.113991,
+                    4675.695587537554
+                  ],
+                    "ypr": [
+                    128.699859,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_a_05",
+                    "pos": [
+                    4347.048480669615,
+                    233.714027,
+                    4674.3369642037815
+                  ],
+                    "ypr": [
+                    93.699905,
+                    0,
+                    -1
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_d_02",
+                    "pos": [
+                    4348.073685121908,
+                    233.61402099999998,
+                    4673.723651055457
+                  ],
+                    "ypr": [
+                    3.6998899999999963,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_washing_machine",
+                    "pos": [
+                    4349.941893763493,
+                    233.114128,
+                    4671.511543215644
+                  ],
+                    "ypr": [
+                    184.69988999999998,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_bag_dz",
+                    "pos": [
+                    4351.82913737526,
+                    233.531227,
+                    4672.943552321037
+                  ],
+                    "ypr": [
+                    16.699889999999996,
+                    0,
+                    0.001228
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_luxury_lamp",
+                    "pos": [
+                    4347.2033490535705,
+                    235.338157,
+                    4674.345419108397
+                  ],
+                    "ypr": [
+                    273.69989,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_luxury_lamp",
+                    "pos": [
+                    4349.854487914909,
+                    235.338157,
+                    4675.933340715442
+                  ],
+                    "ypr": [
+                    3.6998899999999963,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_box_c",
+                    "pos": [
+                    4352.185316698675,
+                    233.414009,
+                    4673.936324121941
+                  ],
+                    "ypr": [
+                    276.69989699999996,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_sofa_leather_old",
+                    "pos": [
+                    4356.83230419925,
+                    238.59866,
+                    4732.753760383194
+                  ],
+                    "ypr": [
+                    54.999981,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_sofa_leather_old",
+                    "pos": [
+                    4411.436297637287,
+                    232.50548999999998,
+                    4581.806845361375
+                  ],
+                    "ypr": [
+                    120,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_sofa_leather_old",
+                    "pos": [
+                    4446.857712695413,
+                    236.429486,
+                    4644.352392362298
+                  ],
+                    "ypr": [
+                    219.638138,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_lobby_table",
+                    "pos": [
+                    4358.0343772511405,
+                    238.186561,
+                    4733.621854616052
+                  ],
+                    "ypr": [
+                    60.999981,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_lobby_table",
+                    "pos": [
+                    4412.731076034912,
+                    232.093391,
+                    4581.084269330605
+                  ],
+                    "ypr": [
+                    126,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_lobby_table",
+                    "pos": [
+                    4445.928557659783,
+                    236.017387,
+                    4643.196867313256
+                  ],
+                    "ypr": [
+                    225.638138,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_carpet_big_dirty2",
+                    "pos": [
+                    4358.012386140398,
+                    238.205276,
+                    4733.350440255368
+                  ],
+                    "ypr": [
+                    148.000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_carpet_big_dirty2",
+                    "pos": [
+                    4412.475797216503,
+                    232.11210599999998,
+                    4580.989495447025
+                  ],
+                    "ypr": [
+                    213.000023,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_carpet_big_dirty2",
+                    "pos": [
+                    4445.877861589169,
+                    236.036102,
+                    4643.46441034262
+                  ],
+                    "ypr": [
+                    312.63816099999997,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_library_a",
+                    "pos": [
+                    4355.774599100736,
+                    238.186561,
+                    4735.74098298452
+                  ],
+                    "ypr": [
+                    145.999989,
+                    -0.000007,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_library_a",
+                    "pos": [
+                    4413.696635833784,
+                    232.093391,
+                    4584.027905959997
+                  ],
+                    "ypr": [
+                    211.00000799999998,
+                    -0.000007,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_library_a",
+                    "pos": [
+                    4448.668985433567,
+                    236.017387,
+                    4641.752098145615
+                  ],
+                    "ypr": [
+                    310.638146,
+                    -0.000007,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_d",
+                    "pos": [
+                    4360.893541498613,
+                    239.69659000000001,
+                    4736.17752209137
+                  ],
+                    "ypr": [
+                    235.000012,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_d",
+                    "pos": [
+                    4416.255631997532,
+                    233.60342,
+                    4579.573057331983
+                  ],
+                    "ypr": [
+                    300.00003100000004,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_d",
+                    "pos": [
+                    4443.84857784383,
+                    237.52741600000002,
+                    4639.975075823471
+                  ],
+                    "ypr": [
+                    39.638169000000005,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_kitchen_desk_b",
+                    "pos": [
+                    4358.887861486537,
+                    239.250189,
+                    4737.820485729416
+                  ],
+                    "ypr": [
+                    54.999981,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_kitchen_desk_b",
+                    "pos": [
+                    4416.89702639387,
+                    233.157019,
+                    4582.085167014129
+                  ],
+                    "ypr": [
+                    120,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_kitchen_desk_b",
+                    "pos": [
+                    4446.217843154075,
+                    237.081015,
+                    4638.922144811271
+                  ],
+                    "ypr": [
+                    219.638138,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_classroom_case_b_broken",
+                    "pos": [
+                    4354.686897676593,
+                    238.186561,
+                    4738.975857833817
+                  ],
+                    "ypr": [
+                    331.000103,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_classroom_case_b_broken",
+                    "pos": [
+                    4416.168746230616,
+                    232.093391,
+                    4586.38081476923
+                  ],
+                    "ypr": [
+                    36.000122000000005,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_classroom_case_b_broken",
+                    "pos": [
+                    4450.574789354744,
+                    236.017387,
+                    4638.920946243522
+                  ],
+                    "ypr": [
+                    135.63826,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_g_02",
+                    "pos": [
+                    4354.153742151938,
+                    237.867255,
+                    4736.597756074965
+                  ],
+                    "ypr": [
+                    326.00003399999997,
+                    58.999996,
+                    -0.000009
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_g_02",
+                    "pos": [
+                    4413.788132690523,
+                    231.77408499999999,
+                    4585.858989164602
+                  ],
+                    "ypr": [
+                    31.000052999999994,
+                    58.999996,
+                    -0.000009
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_picture_g_02",
+                    "pos": [
+                    4450.458903690804,
+                    235.698081,
+                    4641.355323638631
+                  ],
+                    "ypr": [
+                    130.638191,
+                    58.999996,
+                    -0.000009
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_desk_globe",
+                    "pos": [
+                    4353.573072047754,
+                    238.330275,
+                    4737.640382225919
+                  ],
+                    "ypr": [
+                    189.999981,
+                    74.000031,
+                    -1
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_desk_globe",
+                    "pos": [
+                    4414.4876713531585,
+                    232.23710499999999,
+                    4586.825887670146
+                  ],
+                    "ypr": [
+                    255,
+                    74.000031,
+                    -1
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_desk_globe",
+                    "pos": [
+                    4451.2950339660265,
+                    236.161101,
+                    4640.503776092453
+                  ],
+                    "ypr": [
+                    354.638138,
+                    74.000031,
+                    -1
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_flowers_02",
+                    "pos": [
+                    4353.20541744637,
+                    238.186561,
+                    4737.76854637452
+                  ],
+                    "ypr": [
+                    171.999928,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_flowers_02",
+                    "pos": [
+                    4414.448450071911,
+                    232.093391,
+                    4587.213260418286
+                  ],
+                    "ypr": [
+                    236.99994700000002,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_flowers_02",
+                    "pos": [
+                    4451.683505498777,
+                    236.017387,
+                    4640.477587867099
+                  ],
+                    "ypr": [
+                    336.638085,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_debris_small_house",
+                    "pos": [
+                    4358.342862819065,
+                    238.186561,
+                    4735.382486715192
+                  ],
+                    "ypr": [
+                    294.000042,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_debris_small_house",
+                    "pos": [
+                    4414.457122372562,
+                    232.093391,
+                    4581.548761283632
+                  ],
+                    "ypr": [
+                    359.000061,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_debris_small_house",
+                    "pos": [
+                    4446.097509875602,
+                    236.017387,
+                    4641.4174168691825
+                  ],
+                    "ypr": [
+                    98.63819899999999,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_light_kitchen_03",
+                    "pos": [
+                    4358.697636344673,
+                    239.886665,
+                    4734.133856031773
+                  ],
+                    "ypr": [
+                    54.999981,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_light_kitchen_03",
+                    "pos": [
+                    4413.475412209422,
+                    233.79349499999998,
+                    4580.699533402768
+                  ],
+                    "ypr": [
+                    120,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_light_kitchen_03",
+                    "pos": [
+                    4445.424631851686,
+                    237.717491,
+                    4642.527452005104
+                  ],
+                    "ypr": [
+                    219.638138,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_f",
+                    "pos": [
+                    4358.598315541263,
+                    240.0026,
+                    4739.455390337533
+                  ],
+                    "ypr": [
+                    234.999966,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_f",
+                    "pos": [
+                    4418.25638601677,
+                    233.90943,
+                    4583.038524946751
+                  ],
+                    "ypr": [
+                    299.99998500000004,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_picture_f",
+                    "pos": [
+                    4446.930153445401,
+                    237.833426,
+                    4637.42235683261
+                  ],
+                    "ypr": [
+                    39.63812300000001,
+                    -90,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4568.997687842596,
+                    233.965861,
+                    4542.460854587981
+                  ],
+                    "ypr": [
+                    320.000015,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4567.811605712302,
+                    233.965861,
+                    4541.596154739307
+                  ],
+                    "ypr": [
+                    320.000015,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4566.797534227565,
+                    233.965861,
+                    4540.651898528131
+                  ],
+                    "ypr": [
+                    320.000015,
+                    0,
+                    53.999996
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4565.783011462206,
+                    233.965861,
+                    4539.877240693557
+                  ],
+                    "ypr": [
+                    320.000015,
+                    0,
+                    -63
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4568.419812981903,
+                    235.10945199999998,
+                    4542.107701938013
+                  ],
+                    "ypr": [
+                    325.000014,
+                    0,
+                    -136.451981
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4567.311579575455,
+                    235.159452,
+                    4541.186987309187
+                  ],
+                    "ypr": [
+                    317.000015,
+                    1.68093,
+                    0.534743
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4566.328093863985,
+                    235.259461,
+                    4540.245329053698
+                  ],
+                    "ypr": [
+                    321.000015,
+                    1.68093,
+                    0.458338
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4567.8368756496075,
+                    233.959382,
+                    4543.807231186192
+                  ],
+                    "ypr": [
+                    320.000015,
+                    0,
+                    -108.630989
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4566.814099997498,
+                    233.959382,
+                    4542.96452920521
+                  ],
+                    "ypr": [
+                    319.000015,
+                    0,
+                    -63
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4565.684960919415,
+                    233.965861,
+                    4542.070891455702
+                  ],
+                    "ypr": [
+                    316.000015,
+                    0,
+                    -135
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4564.664399338818,
+                    233.961652,
+                    4541.099428275644
+                  ],
+                    "ypr": [
+                    323.000035,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4567.364769634289,
+                    235.209451,
+                    4543.317620272099
+                  ],
+                    "ypr": [
+                    316.000015,
+                    1.68093,
+                    0.534743
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4566.257283231083,
+                    235.10945199999998,
+                    4542.383538490018
+                  ],
+                    "ypr": [
+                    320.000015,
+                    -3,
+                    -148.97699
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4565.132550774153,
+                    235.161733,
+                    4541.468142896175
+                  ],
+                    "ypr": [
+                    320.000015,
+                    1.68093,
+                    0.458338
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4561.774010246346,
+                    233.965861,
+                    4520.902777211336
+                  ],
+                    "ypr": [
+                    230.000015,
+                    0,
+                    128.617981
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4562.624183758825,
+                    233.94470099999998,
+                    4519.826261355308
+                  ],
+                    "ypr": [
+                    49.000007000000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4563.494049007085,
+                    233.94470099999998,
+                    4518.8476087290555
+                  ],
+                    "ypr": [
+                    233.000015,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4564.299070247635,
+                    233.94470099999998,
+                    4517.871030509781
+                  ],
+                    "ypr": [
+                    51.000007000000004,
+                    1.1857,
+                    1.45507
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4563.872024206205,
+                    235.19478099999998,
+                    4518.349005520633
+                  ],
+                    "ypr": [
+                    51.000007000000004,
+                    -4,
+                    177.530991
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4562.9936839975635,
+                    235.13633099999998,
+                    4519.356380236755
+                  ],
+                    "ypr": [
+                    229.000023,
+                    1.1857,
+                    1.45507
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Land_Wreck_Trailer_Closed",
+                    "pos": [
+                    4584.192961316005,
+                    234.23729,
+                    4522.14639730793
+                  ],
+                    "ypr": [
+                    56.00002299999999,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Land_Wreck_Harvester_head_trailer",
+                    "pos": [
+                    4583.708828871219,
+                    234.600001,
+                    4514.186949321322
+                  ],
+                    "ypr": [
+                    52.000015,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_wheel_cart_dz",
+                    "pos": [
+                    4581.599801142115,
+                    233.23729,
+                    4521.153310615159
+                  ],
+                    "ypr": [
+                    31.000014999999998,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_furniture_workbench",
+                    "pos": [
+                    4576.10468741032,
+                    233.23729,
+                    4521.068340474253
+                  ],
+                    "ypr": [
+                    232.000023,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_pallets2",
+                    "pos": [
+                    4584.482785504239,
+                    233.66086099999998,
+                    4524.5437711837185
+                  ],
+                    "ypr": [
+                    320.000015,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_through_trailer",
+                    "pos": [
+                    4573.2641853519535,
+                    233.649432,
+                    4507.715934091488
+                  ],
+                    "ypr": [
+                    42.000015,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_tirepile",
+                    "pos": [
+                    4579.934036235576,
+                    237.517921,
+                    4518.854183798921
+                  ],
+                    "ypr": [
+                    320.000015,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_tirepile_group",
+                    "pos": [
+                    4580.681682436937,
+                    237.513051,
+                    4518.898148033148
+                  ],
+                    "ypr": [
+                    346.000013,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_tirepile",
+                    "pos": [
+                    4577.779149613742,
+                    237.017892,
+                    4519.600961470685
+                  ],
+                    "ypr": [
+                    123,
+                    1,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4576.83165869265,
+                    233.940002,
+                    4533.46072317078
+                  ],
+                    "ypr": [
+                    50.000015,
+                    0,
+                    16.333597
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4577.772462733892,
+                    233.960862,
+                    4532.503333748662
+                  ],
+                    "ypr": [
+                    230.000015,
+                    -1,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4578.544960241901,
+                    233.940002,
+                    4531.446269556563
+                  ],
+                    "ypr": [
+                    50.000015,
+                    0.02,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4579.42603634201,
+                    233.93835199999998,
+                    4530.556327422366
+                  ],
+                    "ypr": [
+                    50.000015,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4577.226730789604,
+                    235.14007099999998,
+                    4532.959090988191
+                  ],
+                    "ypr": [
+                    49.000007000000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4578.116736164071,
+                    235.240083,
+                    4531.907290950389
+                  ],
+                    "ypr": [
+                    229.000023,
+                    0,
+                    -61.406094
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4578.9893445149455,
+                    235.238431,
+                    4530.950743083535
+                  ],
+                    "ypr": [
+                    50.000015,
+                    6,
+                    54.121395
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4576.616895797181,
+                    233.965861,
+                    4531.341294535691
+                  ],
+                    "ypr": [
+                    50.000015,
+                    0,
+                    106.00399
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4577.44992413525,
+                    233.93835199999998,
+                    4530.334107928863
+                  ],
+                    "ypr": [
+                    229.000023,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4578.338078797359,
+                    233.93835199999998,
+                    4529.437939017009
+                  ],
+                    "ypr": [
+                    229.000023,
+                    0,
+                    177.530991
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4577.86245853591,
+                    235.08842199999998,
+                    4529.942501386691
+                  ],
+                    "ypr": [
+                    51.000007000000004,
+                    -2,
+                    -178.697983
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4576.964581333949,
+                    235.14007099999998,
+                    4530.768674993567
+                  ],
+                    "ypr": [
+                    231.000023,
+                    -3,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4578.547994100091,
+                    236.388501,
+                    4531.395515496582
+                  ],
+                    "ypr": [
+                    49.000007000000004,
+                    1,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4577.137717838474,
+                    233.965861,
+                    4528.451003139465
+                  ],
+                    "ypr": [
+                    53.000007000000004,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4576.184274818777,
+                    233.965861,
+                    4529.537178564795
+                  ],
+                    "ypr": [
+                    230.000015,
+                    0.97867,
+                    0.45825
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4566.7724422592455,
+                    233.959382,
+                    4544.825769280709
+                  ],
+                    "ypr": [
+                    235.00003,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4565.765783358882,
+                    233.965861,
+                    4546.051066501761
+                  ],
+                    "ypr": [
+                    47.000015,
+                    0,
+                    177.530991
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4564.9982510466425,
+                    233.965861,
+                    4547.064767116622
+                  ],
+                    "ypr": [
+                    231.000023,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4564.010957185071,
+                    233.959382,
+                    4548.093662725225
+                  ],
+                    "ypr": [
+                    50.000015,
+                    1.6809,
+                    0.534743
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4563.1787312492215,
+                    233.959382,
+                    4549.2624662564485
+                  ],
+                    "ypr": [
+                    233.000015,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4562.286960805202,
+                    233.959382,
+                    4550.352587085336
+                  ],
+                    "ypr": [
+                    50.000015,
+                    0,
+                    -110.877983
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4561.347534549296,
+                    233.959382,
+                    4551.464467017934
+                  ],
+                    "ypr": [
+                    50.000015,
+                    0,
+                    -106.753998
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4560.487223231197,
+                    233.959382,
+                    4552.492998130956
+                  ],
+                    "ypr": [
+                    229.000023,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4559.629370580522,
+                    233.959382,
+                    4553.536521060763
+                  ],
+                    "ypr": [
+                    50.000015,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4567.614288704811,
+                    235.35946199999998,
+                    4544.846784108561
+                  ],
+                    "ypr": [
+                    77.00001499999999,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4566.478333977358,
+                    235.159452,
+                    4545.699153009963
+                  ],
+                    "ypr": [
+                    50.000015,
+                    0,
+                    51.030396
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4565.349466519185,
+                    235.259461,
+                    4546.50612717583
+                  ],
+                    "ypr": [
+                    50.000015,
+                    3,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4564.546653275447,
+                    235.159452,
+                    4547.658360011755
+                  ],
+                    "ypr": [
+                    230.000015,
+                    0,
+                    177.530991
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4563.541979990549,
+                    235.00944199999998,
+                    4548.607141128879
+                  ],
+                    "ypr": [
+                    49.000007000000004,
+                    1,
+                    156.682983
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4562.808618700425,
+                    235.10945199999998,
+                    4549.764129355373
+                  ],
+                    "ypr": [
+                    50.000015,
+                    1,
+                    -68.9832
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4561.736749193986,
+                    235.159452,
+                    4550.869175673076
+                  ],
+                    "ypr": [
+                    47.000015,
+                    6,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4560.943325862287,
+                    235.159452,
+                    4552.040383536059
+                  ],
+                    "ypr": [
+                    230.000015,
+                    -5,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4565.994738195983,
+                    236.309522,
+                    4545.902993254117
+                  ],
+                    "ypr": [
+                    44.000007000000004,
+                    7,
+                    108.735001
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4564.942008143059,
+                    236.15951099999998,
+                    4547.1133906160485
+                  ],
+                    "ypr": [
+                    230.000015,
+                    0,
+                    51.030396
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4564.029850168689,
+                    236.309522,
+                    4548.2907063043385
+                  ],
+                    "ypr": [
+                    50.000015,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4563.0467199852665,
+                    236.209521,
+                    4549.090211042626
+                  ],
+                    "ypr": [
+                    50.000015,
+                    9,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4562.285541607537,
+                    235.959502,
+                    4550.35048245283
+                  ],
+                    "ypr": [
+                    226.00003,
+                    -2,
+                    -94.0914
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4565.151472624257,
+                    233.959382,
+                    4543.9422190776395
+                  ],
+                    "ypr": [
+                    75.00003000000001,
+                    -0.319102,
+                    0.534743
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_misc_haybale",
+                    "pos": [
+                    4564.354179791009,
+                    233.909381,
+                    4545.583651164859
+                  ],
+                    "ypr": [
+                    316.000016,
+                    1.6809,
+                    0.534743
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_wreck_trailer_cistern",
+                    "pos": [
+                    4554.931649369968,
+                    233.18728199999998,
+                    4549.236723115893
+                  ],
+                    "ypr": [
+                    128.000015,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_wreck_trailer_flat",
+                    "pos": [
+                    4548.348643389771,
+                    234.490771,
+                    4540.3739581315795
+                  ],
+                    "ypr": [
+                    320.000015,
+                    0,
+                    0
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "staticobj_wreck_ural",
+                    "pos": [
+                    4553.786435986798,
+                    234.42832099999998,
+                    4538.184587747433
+                  ],
+                    "ypr": [
+                    6.0000069999999965,
+                    -1,
+                    -3
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                }
+			]
+            }
