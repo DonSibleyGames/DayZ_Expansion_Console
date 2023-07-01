@@ -1,4 +1,4 @@
-# DayZ_Expansion_Console
+# DayZ Expansion Console
 The DayZ Expansion mod exteriors and Interiors converted to run on console DayZ
 
 1. To use the json files on your DayZ Console server, just add the file you want to run to the 'custom' folder on your server.
