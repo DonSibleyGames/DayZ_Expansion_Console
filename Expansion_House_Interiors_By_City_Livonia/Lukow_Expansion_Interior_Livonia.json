@@ -5146,66 +5146,6 @@
                     "enableCEPersistency": false
                 },
 {
-                    "name": "WindscreenBox",
-                    "pos": [
-                    3448.531881856916,
-                    256.777527,
-                    12281.073414091847
-                  ],
-                    "ypr": [
-                    48.49400000000001,
-                    0,
-                    0
-                    ],
-                    "scale": 1,
-                    "enableCEPersistency": false
-                },
-{
-                    "name": "WindscreenBox",
-                    "pos": [
-                    3570.333606564416,
-                    242.785629,
-                    11983.808023942847
-                  ],
-                    "ypr": [
-                    329.388482,
-                    0,
-                    0
-                    ],
-                    "scale": 1,
-                    "enableCEPersistency": false
-                },
-{
-                    "name": "WindscreenBox",
-                    "pos": [
-                    3599.729227413326,
-                    251.864944,
-                    11854.488616811805
-                  ],
-                    "ypr": [
-                    138.918412,
-                    0,
-                    0
-                    ],
-                    "scale": 1,
-                    "enableCEPersistency": false
-                },
-{
-                    "name": "WindscreenBox",
-                    "pos": [
-                    3853.743893892693,
-                    254.027222,
-                    11581.929900707424
-                  ],
-                    "ypr": [
-                    42.49630400000001,
-                    0,
-                    0
-                    ],
-                    "scale": 1,
-                    "enableCEPersistency": false
-                },
-{
                     "name": "staticobj_furniture_library_a_open",
                     "pos": [
                     3445.903651046757,

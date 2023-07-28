@@ -4576,66 +4576,6 @@
                     "enableCEPersistency": false
                 },
 {
-                    "name": "WindscreenBox",
-                    "pos": [
-                    4987.582984671571,
-                    196.118393,
-                    9983.654276069668
-                  ],
-                    "ypr": [
-                    138.10719,
-                    0,
-                    0
-                    ],
-                    "scale": 1,
-                    "enableCEPersistency": false
-                },
-{
-                    "name": "WindscreenBox",
-                    "pos": [
-                    5142.264189833012,
-                    183.021439,
-                    9701.262265213325
-                  ],
-                    "ypr": [
-                    53.066567000000006,
-                    0,
-                    0
-                    ],
-                    "scale": 1,
-                    "enableCEPersistency": false
-                },
-{
-                    "name": "WindscreenBox",
-                    "pos": [
-                    5114.371329279551,
-                    191.88443,
-                    10059.655364543814
-                  ],
-                    "ypr": [
-                    38.12484400000001,
-                    0,
-                    0
-                    ],
-                    "scale": 1,
-                    "enableCEPersistency": false
-                },
-{
-                    "name": "WindscreenBox",
-                    "pos": [
-                    5287.027558116892,
-                    179.416458,
-                    9786.037805126087
-                  ],
-                    "ypr": [
-                    51.565892000000005,
-                    0,
-                    0
-                    ],
-                    "scale": 1,
-                    "enableCEPersistency": false
-                },
-{
                     "name": "staticobj_furniture_library_a_open",
                     "pos": [
                     4989.968414535366,

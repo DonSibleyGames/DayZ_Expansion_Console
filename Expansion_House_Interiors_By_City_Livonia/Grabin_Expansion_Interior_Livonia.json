@@ -4906,66 +4906,6 @@
                     "enableCEPersistency": false
                 },
 {
-                    "name": "WindscreenBox",
-                    "pos": [
-                    10408.694859893929,
-                    186.891602,
-                    11101.814338949665
-                  ],
-                    "ypr": [
-                    306.384827,
-                    0,
-                    0
-                    ],
-                    "scale": 1,
-                    "enableCEPersistency": false
-                },
-{
-                    "name": "WindscreenBox",
-                    "pos": [
-                    10770.45783837421,
-                    188.812729,
-                    10860.117193322825
-                  ],
-                    "ypr": [
-                    320.78118900000004,
-                    0,
-                    0
-                    ],
-                    "scale": 1,
-                    "enableCEPersistency": false
-                },
-{
-                    "name": "WindscreenBox",
-                    "pos": [
-                    10809.343702117814,
-                    178.076004,
-                    11190.607166361755
-                  ],
-                    "ypr": [
-                    325.139939,
-                    0,
-                    0
-                    ],
-                    "scale": 1,
-                    "enableCEPersistency": false
-                },
-{
-                    "name": "WindscreenBox",
-                    "pos": [
-                    10883.483086222923,
-                    178.931671,
-                    11051.625003215748
-                  ],
-                    "ypr": [
-                    141.44809,
-                    0,
-                    0
-                    ],
-                    "scale": 1,
-                    "enableCEPersistency": false
-                },
-{
                     "name": "staticobj_furniture_library_a_open",
                     "pos": [
                     10406.896443046222,

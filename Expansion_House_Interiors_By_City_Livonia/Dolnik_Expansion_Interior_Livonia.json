@@ -2176,36 +2176,6 @@
                     "enableCEPersistency": false
                 },
 {
-                    "name": "WindscreenBox",
-                    "pos": [
-                    10845.065547433604,
-                    243.889069,
-                    970.2600374823787
-                  ],
-                    "ypr": [
-                    118.90314500000001,
-                    0,
-                    0
-                    ],
-                    "scale": 1,
-                    "enableCEPersistency": false
-                },
-{
-                    "name": "WindscreenBox",
-                    "pos": [
-                    11683.976261715574,
-                    216.730911,
-                    358.17758710544166
-                  ],
-                    "ypr": [
-                    112.737719,
-                    0,
-                    0
-                    ],
-                    "scale": 1,
-                    "enableCEPersistency": false
-                },
-{
                     "name": "staticobj_furniture_library_a_open",
                     "pos": [
                     10846.448405776224,

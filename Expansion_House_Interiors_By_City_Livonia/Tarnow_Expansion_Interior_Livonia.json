@@ -6151,66 +6151,6 @@
                     "enableCEPersistency": false
                 },
 {
-                    "name": "WindscreenBox",
-                    "pos": [
-                    9121.762512105002,
-                    211.194427,
-                    10915.684400922495
-                  ],
-                    "ypr": [
-                    321.109574,
-                    0,
-                    0
-                    ],
-                    "scale": 1,
-                    "enableCEPersistency": false
-                },
-{
-                    "name": "WindscreenBox",
-                    "pos": [
-                    9320.208272990347,
-                    197.256866,
-                    10995.123098563514
-                  ],
-                    "ypr": [
-                    28.15211200000001,
-                    0,
-                    0
-                    ],
-                    "scale": 1,
-                    "enableCEPersistency": false
-                },
-{
-                    "name": "WindscreenBox",
-                    "pos": [
-                    9394.85315521786,
-                    200.501526,
-                    10841.02418968256
-                  ],
-                    "ypr": [
-                    185.763779,
-                    0,
-                    0
-                    ],
-                    "scale": 1,
-                    "enableCEPersistency": false
-                },
-{
-                    "name": "WindscreenBox",
-                    "pos": [
-                    9499.41195243997,
-                    249.996353,
-                    10272.485774431127
-                  ],
-                    "ypr": [
-                    271.135682,
-                    0,
-                    0
-                    ],
-                    "scale": 1,
-                    "enableCEPersistency": false
-                },
-{
                     "name": "staticobj_furniture_library_a_open",
                     "pos": [
                     9119.241850509165,
